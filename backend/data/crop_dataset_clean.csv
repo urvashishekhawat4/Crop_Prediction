@@ -1,0 +1,3288 @@
+state,year,area,production,yield,crop
+Andhra Pradesh,1997,59300.0,52300.0,0.88,bajra
+Andhra Pradesh,1998,83500.0,98600.0,1.18,bajra
+Andhra Pradesh,1999,71996.0,71352.0,0.99,bajra
+Andhra Pradesh,2000,98323.0,121260.0,1.23,bajra
+Andhra Pradesh,2001,55178.0,54063.0,0.98,bajra
+Andhra Pradesh,2002,52650.0,41221.0,0.78,bajra
+Andhra Pradesh,2003,94859.0,121690.0,1.28,bajra
+Andhra Pradesh,2004,65987.0,72583.0,1.1,bajra
+Andhra Pradesh,2005,54467.0,65342.0,1.2,bajra
+Andhra Pradesh,2006,40914.0,39854.0,0.97,bajra
+Andhra Pradesh,2007,50000.0,77000.0,1.54,bajra
+Andhra Pradesh,2008,37265.0,46336.0,1.24,bajra
+Andhra Pradesh,2009,28604.0,45249.0,1.58,bajra
+Andhra Pradesh,2010,48212.0,88306.0,1.83,bajra
+Andhra Pradesh,2011,31820.0,51544.0,1.62,bajra
+Andhra Pradesh,2012,58000.0,99000.0,1.71,bajra
+Andhra Pradesh,2013,49227.0,81855.0,1.66,bajra
+Andhra Pradesh,2014,28178.0,38499.0,1.37,bajra
+Andhra Pradesh,2015,36740.0,65023.0,1.77,bajra
+Andhra Pradesh,2016,41886.0,71953.0,1.72,bajra
+Andhra Pradesh,2017,48357.0,93168.0,1.93,bajra
+Andhra Pradesh,2018,22114.0,22798.0,1.03,bajra
+Andhra Pradesh,2019,25076.0,58367.0,2.33,bajra
+Andhra Pradesh,2020,30711.0,70056.0,2.28,bajra
+Andhra Pradesh,2021,30481.0,54470.0,1.79,bajra
+Andhra Pradesh,2022,24688.0,49202.0,1.99,bajra
+Bihar,1997,1853.0,1095.0,0.59,bajra
+Bihar,1998,2706.0,1561.0,0.58,bajra
+Bihar,1999,1629.0,990.0,0.61,bajra
+Bihar,2000,1534.0,1266.0,0.83,bajra
+Bihar,2001,828.0,598.0,0.72,bajra
+Bihar,2002,1018.0,1048.0,1.03,bajra
+Bihar,2003,1568.0,1638.0,1.04,bajra
+Bihar,2004,1200.0,1297.0,1.08,bajra
+Bihar,2005,4338.0,4591.0,1.06,bajra
+Bihar,2006,4106.0,4417.0,1.08,bajra
+Bihar,2007,3497.0,3856.0,1.1,bajra
+Bihar,2008,2960.0,3547.0,1.2,bajra
+Bihar,2009,2951.0,3279.0,1.11,bajra
+Bihar,2010,4851.0,5424.0,1.12,bajra
+Bihar,2011,4457.0,5014.0,1.12,bajra
+Bihar,2012,4244.0,4838.0,1.14,bajra
+Bihar,2013,2638.0,3001.0,1.14,bajra
+Bihar,2014,3288.0,3729.0,1.13,bajra
+Bihar,2015,4095.0,4639.0,1.13,bajra
+Bihar,2016,3564.0,4045.0,1.13,bajra
+Bihar,2017,4379.0,4966.0,1.13,bajra
+Bihar,2018,3109.0,3525.0,1.13,bajra
+Bihar,2019,3159.0,3582.0,1.13,bajra
+Bihar,2020,4219.0,4785.0,1.13,bajra
+Bihar,2021,2889.0,3293.0,1.14,bajra
+Bihar,2022,2352.0,2681.0,1.14,bajra
+Chhattisgarh,2000,78.0,31.0,0.4,bajra
+Chhattisgarh,2001,80.0,36.0,0.45,bajra
+Chhattisgarh,2002,66.0,26.0,0.39,bajra
+Chhattisgarh,2003,47.0,19.0,0.4,bajra
+Chhattisgarh,2004,49.0,17.0,0.35,bajra
+Chhattisgarh,2005,81.0,31.0,0.38,bajra
+Chhattisgarh,2006,71.0,34.0,0.48,bajra
+Chhattisgarh,2007,68.0,31.0,0.46,bajra
+Chhattisgarh,2008,121.0,48.0,0.4,bajra
+Chhattisgarh,2009,70.0,20.0,0.29,bajra
+Chhattisgarh,2010,76.0,37.0,0.49,bajra
+Chhattisgarh,2011,62.0,29.0,0.47,bajra
+Chhattisgarh,2012,373.0,158.0,0.42,bajra
+Chhattisgarh,2013,176.0,125.0,0.71,bajra
+Chhattisgarh,2014,146.0,91.0,0.62,bajra
+Chhattisgarh,2015,50.0,17.0,0.34,bajra
+Chhattisgarh,2016,90.0,50.0,0.56,bajra
+Chhattisgarh,2017,63.0,25.0,0.4,bajra
+Chhattisgarh,2018,44.0,26.0,0.59,bajra
+Chhattisgarh,2019,96.0,50.0,0.52,bajra
+Chhattisgarh,2020,94.0,53.0,0.56,bajra
+Chhattisgarh,2021,105.0,53.0,0.5,bajra
+Chhattisgarh,2022,106.0,62.0,0.58,bajra
+Daman and Diu,2013,300.0,400.0,1.33,bajra
+Daman and Diu,2014,300.0,500.0,1.67,bajra
+Daman and Diu,2015,668.0,900.0,1.35,bajra
+Daman and Diu,2016,508.0,677.0,1.33,bajra
+Daman and Diu,2017,434.0,579.0,1.33,bajra
+Daman and Diu,2018,496.0,648.0,1.31,bajra
+Daman and Diu,2019,496.0,648.0,1.31,bajra
+Delhi,2008,1549.0,2943.0,1.9,bajra
+Delhi,2009,1586.0,2979.0,1.88,bajra
+Delhi,2010,1531.0,2876.0,1.88,bajra
+Delhi,2011,1439.0,2689.0,1.87,bajra
+Delhi,2012,1519.0,3815.0,2.51,bajra
+Delhi,2013,1519.0,3815.0,2.51,bajra
+Delhi,2014,1520.0,3817.0,2.51,bajra
+Delhi,2015,1482.0,3256.0,2.2,bajra
+Delhi,2016,1487.0,3278.0,2.2,bajra
+Delhi,2017,1502.0,3256.0,2.17,bajra
+Delhi,2018,1478.0,3249.0,2.2,bajra
+Delhi,2019,1475.0,4873.0,3.3,bajra
+Gujarat,1997,1095600.0,1494900.0,1.36,bajra
+Gujarat,1998,1037600.0,1280500.0,1.23,bajra
+Gujarat,1999,926200.0,850600.0,0.92,bajra
+Gujarat,2000,989200.0,823100.0,0.83,bajra
+Gujarat,2001,939800.0,1262300.0,1.34,bajra
+Gujarat,2002,940200.0,907000.0,0.96,bajra
+Gujarat,2003,1071200.0,1599800.0,1.49,bajra
+Gujarat,2004,915100.0,1089000.0,1.19,bajra
+Gujarat,2005,946000.0,1205800.0,1.27,bajra
+Gujarat,2006,925700.0,956900.0,1.03,bajra
+Gujarat,2007,921600.0,1306600.0,1.42,bajra
+Gujarat,2008,703300.0,961300.0,1.37,bajra
+Gujarat,2009,673000.0,828800.0,1.23,bajra
+Gujarat,2010,872400.0,1500900.0,1.72,bajra
+Gujarat,2011,866300.0,1612000.0,1.86,bajra
+Gujarat,2012,599400.0,1044900.0,1.74,bajra
+Gujarat,2013,672115.0,1360161.0,2.02,bajra
+Gujarat,2014,453016.0,1010128.0,2.23,bajra
+Gujarat,2015,391168.0,885916.0,2.26,bajra
+Gujarat,2016,431371.0,911633.0,2.11,bajra
+Gujarat,2017,397152.0,964917.0,2.43,bajra
+Gujarat,2018,391575.0,892622.0,2.28,bajra
+Gujarat,2019,449831.0,1090962.0,2.43,bajra
+Gujarat,2020,460260.0,1049841.0,2.28,bajra
+Gujarat,2021,445212.0,1087517.0,2.44,bajra
+Gujarat,2022,501965.0,1270886.0,2.53,bajra
+Haryana,1997,584000.0,674000.0,1.15,bajra
+Haryana,1998,613174.0,618800.0,1.01,bajra
+Haryana,1999,586877.0,582000.0,0.99,bajra
+Haryana,2000,608321.0,656000.0,1.08,bajra
+Haryana,2001,585474.0,832000.0,1.42,bajra
+Haryana,2002,513720.0,458000.0,0.89,bajra
+Haryana,2003,624513.0,886300.0,1.42,bajra
+Haryana,2004,565313.0,746000.0,1.32,bajra
+Haryana,2005,631660.0,706000.0,1.12,bajra
+Haryana,2006,618985.0,1021000.0,1.65,bajra
+Haryana,2007,627983.0,1156000.0,1.84,bajra
+Haryana,2008,612934.0,1087000.0,1.77,bajra
+Haryana,2009,583809.0,930000.0,1.59,bajra
+Haryana,2010,659592.0,1183000.0,1.79,bajra
+Haryana,2011,576167.0,1175000.0,2.04,bajra
+Haryana,2012,410731.0,791000.0,1.93,bajra
+Haryana,2013,403000.0,829000.0,2.06,bajra
+Haryana,2014,393000.0,683000.0,1.74,bajra
+Haryana,2015,370000.0,653000.0,1.76,bajra
+Haryana,2016,464300.0,934000.0,2.01,bajra
+Haryana,2017,449400.0,720300.0,1.6,bajra
+Haryana,2018,424700.0,878300.0,2.07,bajra
+Haryana,2019,492900.0,1101500.0,2.23,bajra
+Haryana,2020,594130.0,1417860.0,2.39,bajra
+Haryana,2021,493131.0,1143840.0,2.32,bajra
+Haryana,2022,526260.0,1323360.0,2.51,bajra
+Himachal Pradesh,1998,469.0,266.0,0.57,bajra
+Himachal Pradesh,2000,116.0,41.0,0.35,bajra
+Himachal Pradesh,2001,110.0,57.0,0.52,bajra
+Himachal Pradesh,2002,102.0,57.0,0.56,bajra
+Himachal Pradesh,2003,312.0,173.0,0.55,bajra
+Himachal Pradesh,2004,281.0,150.0,0.53,bajra
+Himachal Pradesh,2005,304.0,144.0,0.47,bajra
+Himachal Pradesh,2006,360.0,181.0,0.5,bajra
+Himachal Pradesh,2008,203.0,113.0,0.56,bajra
+Himachal Pradesh,2009,213.0,106.0,0.5,bajra
+Himachal Pradesh,2010,201.0,107.0,0.53,bajra
+Himachal Pradesh,2011,223.0,122.0,0.55,bajra
+Himachal Pradesh,2012,2435.0,1236.0,0.51,bajra
+Himachal Pradesh,2013,731.0,400.0,0.55,bajra
+Himachal Pradesh,2014,657.0,342.0,0.52,bajra
+Himachal Pradesh,2015,79.0,46.0,0.58,bajra
+Himachal Pradesh,2016,157.0,77.0,0.49,bajra
+Himachal Pradesh,2017,79.0,58.0,0.73,bajra
+Himachal Pradesh,2018,88.0,64.0,0.73,bajra
+Himachal Pradesh,2019,107.0,109.0,1.02,bajra
+Himachal Pradesh,2020,523.0,1092.0,2.09,bajra
+Himachal Pradesh,2021,568.0,291.0,0.51,bajra
+Himachal Pradesh,2022,539.0,274.0,0.51,bajra
+Jammu and Kashmir,1999,13357.0,6397.0,0.48,bajra
+Jammu and Kashmir,2000,13340.0,6188.0,0.46,bajra
+Jammu and Kashmir,2001,13571.0,8056.0,0.59,bajra
+Jammu and Kashmir,2002,13400.0,7980.0,0.6,bajra
+Jammu and Kashmir,2003,16696.0,9978.0,0.6,bajra
+Jammu and Kashmir,2004,16045.0,9560.0,0.6,bajra
+Jammu and Kashmir,2005,13008.0,7779.0,0.6,bajra
+Jammu and Kashmir,2006,20775.0,12279.0,0.59,bajra
+Jammu and Kashmir,2007,16816.0,9984.0,0.59,bajra
+Jammu and Kashmir,2009,17402.0,10387.0,0.6,bajra
+Jammu and Kashmir,2010,16544.0,9880.0,0.6,bajra
+Jammu and Kashmir,2011,18926.0,11192.0,0.59,bajra
+Jammu and Kashmir,2012,19538.0,11692.0,0.6,bajra
+Jammu and Kashmir,2014,15797.0,9394.0,0.59,bajra
+Jammu and Kashmir,2015,9084.0,5360.0,0.59,bajra
+Jammu and Kashmir,2016,13869.0,8208.0,0.59,bajra
+Jammu and Kashmir,2017,12615.0,7445.0,0.59,bajra
+Jammu and Kashmir,2018,24358.0,13583.0,0.56,bajra
+Jammu and Kashmir,2019,9779.0,5816.0,0.59,bajra
+Jammu and Kashmir,2020,13142.0,7777.0,0.59,bajra
+Jammu and Kashmir,2021,12.0,3.0,0.23,bajra
+Jammu and Kashmir,2022,263.0,45.0,0.17,bajra
+Jharkhand,1997,4041.0,2499.0,0.62,bajra
+Jharkhand,1998,3474.0,2079.0,0.6,bajra
+Jharkhand,2017,614.0,354.0,0.58,bajra
+Jharkhand,2018,130.0,75.0,0.58,bajra
+Jharkhand,2019,288.0,206.0,0.72,bajra
+Jharkhand,2020,127.0,83.0,0.65,bajra
+Jharkhand,2021,141.0,88.0,0.62,bajra
+Jharkhand,2022,235.0,135.0,0.57,bajra
+Karnataka,1997,301969.0,132718.0,0.44,bajra
+Karnataka,1998,417113.0,283265.0,0.68,bajra
+Karnataka,1999,421185.0,251109.0,0.6,bajra
+Karnataka,2000,462121.0,341625.0,0.74,bajra
+Karnataka,2001,209505.0,112241.0,0.54,bajra
+Karnataka,2002,304581.0,120071.0,0.39,bajra
+Karnataka,2003,318745.0,191455.0,0.6,bajra
+Karnataka,2004,444702.0,266108.0,0.6,bajra
+Karnataka,2005,430884.0,390613.0,0.91,bajra
+Karnataka,2006,387736.0,163361.0,0.42,bajra
+Karnataka,2007,431855.0,334875.0,0.78,bajra
+Karnataka,2008,265608.0,181089.0,0.68,bajra
+Karnataka,2009,305107.0,131046.0,0.43,bajra
+Karnataka,2010,309227.0,292200.0,0.94,bajra
+Karnataka,2011,286244.0,260625.0,0.91,bajra
+Karnataka,2012,274615.0,285157.0,1.04,bajra
+Karnataka,2013,280471.0,330923.0,1.18,bajra
+Karnataka,2014,234289.0,248601.0,1.06,bajra
+Karnataka,2015,166334.0,110736.0,0.67,bajra
+Karnataka,2016,242327.0,255655.0,1.06,bajra
+Karnataka,2017,231550.0,367253.0,1.59,bajra
+Karnataka,2018,194428.0,176902.0,0.91,bajra
+Karnataka,2019,338952.0,367056.0,1.08,bajra
+Karnataka,2020,221755.0,316264.0,1.43,bajra
+Karnataka,2021,147988.0,171346.0,1.16,bajra
+Karnataka,2022,128471.0,182562.0,1.42,bajra
+Kerala,2022,8.0,12.0,1.5,bajra
+Madhya Pradesh,1997,141400.0,154100.0,1.09,bajra
+Madhya Pradesh,1998,145600.0,172300.0,1.18,bajra
+Madhya Pradesh,1999,137668.0,138796.0,1.01,bajra
+Madhya Pradesh,2000,164003.0,204348.0,1.25,bajra
+Madhya Pradesh,2001,161727.0,204585.0,1.27,bajra
+Madhya Pradesh,2002,167581.0,124680.0,0.74,bajra
+Madhya Pradesh,2003,201165.0,281430.0,1.4,bajra
+Madhya Pradesh,2004,184058.0,248478.0,1.35,bajra
+Madhya Pradesh,2005,182506.0,271934.0,1.49,bajra
+Madhya Pradesh,2006,183115.0,251783.0,1.37,bajra
+Madhya Pradesh,2007,200929.0,275675.0,1.37,bajra
+Madhya Pradesh,2008,187954.0,260504.0,1.39,bajra
+Madhya Pradesh,2009,197914.0,293506.0,1.48,bajra
+Madhya Pradesh,2010,200498.0,384154.0,1.92,bajra
+Madhya Pradesh,2011,199984.0,388169.0,1.94,bajra
+Madhya Pradesh,2012,193037.0,388390.0,2.01,bajra
+Madhya Pradesh,2013,191328.0,401597.0,2.1,bajra
+Madhya Pradesh,2014,225000.0,428000.0,1.9,bajra
+Madhya Pradesh,2015,269000.0,617000.0,2.29,bajra
+Madhya Pradesh,2016,279000.0,776000.0,2.78,bajra
+Madhya Pradesh,2017,309940.0,754740.0,2.44,bajra
+Madhya Pradesh,2018,327080.0,628340.0,1.92,bajra
+Madhya Pradesh,2019,339656.0,785624.0,2.31,bajra
+Madhya Pradesh,2020,374203.0,909012.0,2.43,bajra
+Madhya Pradesh,2021,342885.0,868665.0,2.53,bajra
+Madhya Pradesh,2022,363043.0,1000041.0,2.75,bajra
+Maharashtra,1997,1671200.0,1119000.0,0.67,bajra
+Maharashtra,1998,1759700.0,1492500.0,0.85,bajra
+Maharashtra,1999,1720700.0,1126300.0,0.65,bajra
+Maharashtra,2000,1800000.0,1087200.0,0.6,bajra
+Maharashtra,2001,1399200.0,830800.0,0.59,bajra
+Maharashtra,2002,1547200.0,1146000.0,0.74,bajra
+Maharashtra,2003,1325400.0,896300.0,0.68,bajra
+Maharashtra,2004,1528900.0,1126300.0,0.74,bajra
+Maharashtra,2005,1433800.0,932000.0,0.65,bajra
+Maharashtra,2006,1452200.0,1058600.0,0.73,bajra
+Maharashtra,2007,1283000.0,1126900.0,0.88,bajra
+Maharashtra,2008,865400.0,661900.0,0.76,bajra
+Maharashtra,2009,1033500.0,766300.0,0.74,bajra
+Maharashtra,2010,1034600.0,1123500.0,1.09,bajra
+Maharashtra,2011,838200.0,823300.0,0.98,bajra
+Maharashtra,2012,788200.0,502400.0,0.64,bajra
+Maharashtra,2013,761600.0,787900.0,1.03,bajra
+Maharashtra,2014,864800.0,537900.0,0.62,bajra
+Maharashtra,2015,800600.0,332900.0,0.42,bajra
+Maharashtra,2016,837081.0,799743.0,0.96,bajra
+Maharashtra,2017,787833.0,669176.0,0.85,bajra
+Maharashtra,2018,609587.0,332231.0,0.55,bajra
+Maharashtra,2019,672783.0,512321.0,0.76,bajra
+Maharashtra,2020,687497.0,905623.0,1.32,bajra
+Maharashtra,2021,666717.0,618582.0,0.93,bajra
+Maharashtra,2022,538982.0,578920.0,1.07,bajra
+Nagaland,1997,990.0,700.0,0.71,bajra
+Nagaland,1999,1500.0,1250.0,0.83,bajra
+Nagaland,2000,1500.0,1250.0,0.83,bajra
+Nagaland,2001,1500.0,1000.0,0.67,bajra
+Nagaland,2002,2000.0,4000.0,2.0,bajra
+Nagaland,2003,3000.0,5000.0,1.67,bajra
+Nagaland,2004,2680.0,4000.0,1.49,bajra
+Nagaland,2005,3050.0,3130.0,1.03,bajra
+Nagaland,2009,1000.0,690.0,0.69,bajra
+Nagaland,2010,650.0,560.0,0.86,bajra
+Nagaland,2011,650.0,560.0,0.86,bajra
+Nagaland,2012,680.0,690.0,1.01,bajra
+Nagaland,2013,690.0,700.0,1.01,bajra
+Nagaland,2014,690.0,700.0,1.01,bajra
+Nagaland,2015,690.0,700.0,1.01,bajra
+Nagaland,2016,690.0,700.0,1.01,bajra
+Nagaland,2017,700.0,710.0,1.01,bajra
+Nagaland,2018,710.0,720.0,1.01,bajra
+Nagaland,2019,710.0,720.0,1.01,bajra
+Nagaland,2020,710.0,720.0,1.01,bajra
+Nagaland,2021,650.0,489.0,0.75,bajra
+Nagaland,2022,786.0,880.0,1.12,bajra
+Odisha,1999,4010.0,2350.0,0.59,bajra
+Odisha,2000,4120.0,2350.0,0.57,bajra
+Odisha,2001,4010.0,2270.0,0.57,bajra
+Odisha,2002,3760.0,1820.0,0.48,bajra
+Odisha,2003,3270.0,1720.0,0.53,bajra
+Odisha,2004,3155.0,1609.0,0.51,bajra
+Odisha,2019,1870.0,1160.0,0.62,bajra
+Puducherry,1998,149.0,324.0,2.17,bajra
+Puducherry,1999,170.0,470.0,2.76,bajra
+Puducherry,2000,186.0,513.0,2.76,bajra
+Puducherry,2001,162.0,345.0,2.13,bajra
+Puducherry,2002,207.0,397.0,1.92,bajra
+Puducherry,2003,197.0,383.0,1.94,bajra
+Puducherry,2007,64.0,133.0,2.08,bajra
+Puducherry,2008,55.0,100.0,1.82,bajra
+Puducherry,2009,60.0,111.0,1.85,bajra
+Puducherry,2010,34.0,79.0,2.32,bajra
+Puducherry,2011,31.0,80.0,2.58,bajra
+Puducherry,2012,21.0,63.0,3.0,bajra
+Puducherry,2013,12.0,31.0,2.58,bajra
+Puducherry,2014,6.0,11.0,1.83,bajra
+Puducherry,2015,7.0,17.0,2.43,bajra
+Puducherry,2016,16.0,21.0,1.31,bajra
+Puducherry,2017,14.0,39.0,2.79,bajra
+Puducherry,2018,11.0,28.0,2.55,bajra
+Puducherry,2019,22.0,57.0,2.59,bajra
+Puducherry,2020,9.0,24.0,2.67,bajra
+Puducherry,2021,14.0,37.0,2.64,bajra
+Puducherry,2022,30.0,78.0,2.6,bajra
+Punjab,1997,8000.0,8000.0,1.0,bajra
+Punjab,1998,4000.0,4000.0,1.0,bajra
+Punjab,1999,5000.0,4000.0,0.8,bajra
+Punjab,2000,6000.0,5000.0,0.83,bajra
+Punjab,2002,7000.0,6000.0,0.86,bajra
+Punjab,2003,8000.0,8000.0,1.0,bajra
+Punjab,2004,7000.0,7000.0,1.0,bajra
+Punjab,2005,5000.0,5000.0,1.0,bajra
+Punjab,2006,6000.0,6000.0,1.0,bajra
+Punjab,2007,4000.0,4000.0,1.0,bajra
+Punjab,2008,5000.0,5000.0,1.0,bajra
+Punjab,2009,3000.0,4000.0,1.33,bajra
+Punjab,2010,3000.0,3000.0,1.0,bajra
+Punjab,2011,3000.0,3000.0,1.0,bajra
+Punjab,2012,3000.0,3000.0,1.0,bajra
+Punjab,2013,800.0,800.0,1.0,bajra
+Punjab,2016,1200.0,700.0,0.58,bajra
+Punjab,2017,1000.0,600.0,0.6,bajra
+Punjab,2018,1100.0,700.0,0.64,bajra
+Punjab,2019,500.0,300.0,0.6,bajra
+Punjab,2020,400.0,300.0,0.75,bajra
+Punjab,2021,2300.0,1500.0,0.65,bajra
+Punjab,2022,600.0,400.0,0.67,bajra
+Rajasthan,1997,4600000.0,2509800.0,0.55,bajra
+Rajasthan,1998,4183532.0,1800328.0,0.43,bajra
+Rajasthan,1999,3945217.0,1300764.0,0.33,bajra
+Rajasthan,2000,4636922.0,2046659.0,0.44,bajra
+Rajasthan,2001,5129949.0,3819783.0,0.74,bajra
+Rajasthan,2002,3215390.0,717945.0,0.22,bajra
+Rajasthan,2003,5868008.0,6669825.0,1.14,bajra
+Rajasthan,2004,4587712.0,3011054.0,0.66,bajra
+Rajasthan,2005,4993678.0,2168332.0,0.43,bajra
+Rajasthan,2006,4910409.0,3440400.0,0.7,bajra
+Rajasthan,2007,5108580.0,4240852.0,0.83,bajra
+Rajasthan,2008,5206162.0,4293938.0,0.82,bajra
+Rajasthan,2009,5223564.0,2034875.0,0.39,bajra
+Rajasthan,2010,5519448.0,6117800.0,1.11,bajra
+Rajasthan,2011,5027993.0,6301761.0,1.25,bajra
+Rajasthan,2012,3988912.0,3870673.0,0.97,bajra
+Rajasthan,2013,4446951.0,4135030.0,0.93,bajra
+Rajasthan,2014,4108156.0,4464964.0,1.09,bajra
+Rajasthan,2015,4076396.0,3220848.0,0.79,bajra
+Rajasthan,2016,4177735.0,4163942.0,1.0,bajra
+Rajasthan,2017,4264301.0,3756813.0,0.88,bajra
+Rajasthan,2018,4239143.0,3779431.0,0.89,bajra
+Rajasthan,2019,4287169.0,5086651.0,1.19,bajra
+Rajasthan,2020,4350273.0,5803601.0,1.33,bajra
+Rajasthan,2021,4329599.0,4313777.0,1.0,bajra
+Rajasthan,2022,4571013.0,5918718.0,1.29,bajra
+Tamil Nadu,1997,168594.0,211970.0,1.26,bajra
+Tamil Nadu,1998,196002.0,309644.0,1.58,bajra
+Tamil Nadu,1999,177406.0,258774.0,1.46,bajra
+Tamil Nadu,2000,199655.0,303245.0,1.52,bajra
+Tamil Nadu,2001,125093.0,152971.0,1.22,bajra
+Tamil Nadu,2002,102020.0,88682.0,0.87,bajra
+Tamil Nadu,2003,158851.0,172342.0,1.08,bajra
+Tamil Nadu,2004,97608.0,124300.0,1.27,bajra
+Tamil Nadu,2005,81925.0,94799.0,1.16,bajra
+Tamil Nadu,2006,65512.0,98969.0,1.51,bajra
+Tamil Nadu,2007,59798.0,85840.0,1.44,bajra
+Tamil Nadu,2008,56672.0,84021.0,1.48,bajra
+Tamil Nadu,2009,54427.0,82652.0,1.52,bajra
+Tamil Nadu,2011,46664.0,114447.0,2.45,bajra
+Tamil Nadu,2013,54412.0,117436.0,2.16,bajra
+Tamil Nadu,2014,57708.0,177570.0,3.08,bajra
+Tamil Nadu,2015,51606.0,134331.0,2.6,bajra
+Tamil Nadu,2016,49673.0,102250.0,2.06,bajra
+Tamil Nadu,2017,63029.0,143548.0,2.28,bajra
+Tamil Nadu,2018,46882.0,118010.0,2.52,bajra
+Tamil Nadu,2019,67492.0,185083.0,2.74,bajra
+Tamil Nadu,2020,67408.0,158887.0,2.36,bajra
+Tamil Nadu,2021,59956.0,146126.0,2.44,bajra
+Tamil Nadu,2022,45088.0,113354.0,2.51,bajra
+Telangana,1997,30100.0,11300.0,0.38,bajra
+Telangana,1998,43800.0,20500.0,0.47,bajra
+Telangana,1999,44607.0,26090.0,0.58,bajra
+Telangana,2000,45381.0,27228.0,0.6,bajra
+Telangana,2001,36357.0,16968.0,0.47,bajra
+Telangana,2002,34329.0,16258.0,0.47,bajra
+Telangana,2003,43256.0,26413.0,0.61,bajra
+Telangana,2004,27582.0,8700.0,0.32,bajra
+Telangana,2005,26524.0,16810.0,0.63,bajra
+Telangana,2006,20162.0,7120.0,0.35,bajra
+Telangana,2007,24000.0,15000.0,0.63,bajra
+Telangana,2008,21853.0,13853.0,0.63,bajra
+Telangana,2009,16745.0,8106.0,0.48,bajra
+Telangana,2010,19114.0,13856.0,0.72,bajra
+Telangana,2011,11343.0,7100.0,0.63,bajra
+Telangana,2012,9000.0,12000.0,1.33,bajra
+Telangana,2013,13218.0,12452.0,0.94,bajra
+Telangana,2014,11218.0,10510.0,0.94,bajra
+Telangana,2015,5900.0,5534.0,0.94,bajra
+Telangana,2016,16697.0,14514.0,0.87,bajra
+Telangana,2017,8762.0,9259.0,1.06,bajra
+Telangana,2018,7978.0,3964.0,0.5,bajra
+Telangana,2019,9079.0,10516.0,1.16,bajra
+Telangana,2020,10011.0,9309.0,0.93,bajra
+Telangana,2021,4455.0,4554.0,1.02,bajra
+Telangana,2022,3127.0,9232.0,2.95,bajra
+The Dadra & Nagar Haveli and Daman and Diu,2021,496.0,759.0,1.53,bajra
+The Dadra & Nagar Haveli and Daman and Diu,2022,496.0,753.0,1.52,bajra
+Uttar Pradesh,1997,864211.0,1252787.0,1.45,bajra
+Uttar Pradesh,1998,842775.0,979324.0,1.16,bajra
+Uttar Pradesh,1999,835000.0,1165220.0,1.4,bajra
+Uttar Pradesh,2000,881010.0,1277360.0,1.45,bajra
+Uttar Pradesh,2001,850727.0,967732.0,1.14,bajra
+Uttar Pradesh,2002,831306.0,1072525.0,1.29,bajra
+Uttar Pradesh,2003,924202.0,1188103.0,1.29,bajra
+Uttar Pradesh,2004,878399.0,1335462.0,1.52,bajra
+Uttar Pradesh,2005,869288.0,1246252.0,1.43,bajra
+Uttar Pradesh,2006,883877.0,1285887.0,1.45,bajra
+Uttar Pradesh,2007,876979.0,1336355.0,1.52,bajra
+Uttar Pradesh,2008,809300.0,1302073.0,1.61,bajra
+Uttar Pradesh,2009,848617.0,1388711.0,1.64,bajra
+Uttar Pradesh,2010,935272.0,1556891.0,1.66,bajra
+Uttar Pradesh,2011,887967.0,1632879.0,1.84,bajra
+Uttar Pradesh,2012,900540.0,1757776.0,1.95,bajra
+Uttar Pradesh,2013,918984.0,1868189.0,2.03,bajra
+Uttar Pradesh,2014,951724.0,1808081.0,1.9,bajra
+Uttar Pradesh,2015,974881.0,1775698.0,1.82,bajra
+Uttar Pradesh,2016,907173.0,1736339.0,1.91,bajra
+Uttar Pradesh,2017,925397.0,1795148.0,1.94,bajra
+Uttar Pradesh,2018,876724.0,1779291.0,2.03,bajra
+Uttar Pradesh,2019,917090.0,1939329.0,2.11,bajra
+Uttar Pradesh,2020,907406.0,2119958.0,2.34,bajra
+Uttar Pradesh,2021,945690.0,2038868.0,2.16,bajra
+Uttar Pradesh,2022,947023.0,2045552.0,2.16,bajra
+Uttarakhand,1997,17.0,24.0,1.41,bajra
+Uttarakhand,1998,20.0,23.0,1.15,bajra
+Uttarakhand,1999,19.0,27.0,1.42,bajra
+Uttarakhand,2000,11.0,15.0,1.36,bajra
+Uttarakhand,2001,44.0,57.0,1.3,bajra
+Uttarakhand,2002,4.0,5.0,1.25,bajra
+Uttarakhand,2003,3.0,3.0,1.0,bajra
+Uttarakhand,2006,11.0,13.0,1.18,bajra
+Uttarakhand,2007,42.0,40.0,0.95,bajra
+Uttarakhand,2008,20.0,19.0,0.95,bajra
+Uttarakhand,2009,1.0,1.0,1.0,bajra
+Uttarakhand,2012,1.0,1.0,1.0,bajra
+Uttarakhand,2013,1.0,1.0,1.0,bajra
+Uttarakhand,2014,2.0,2.0,1.0,bajra
+Uttarakhand,2015,2.0,2.0,1.0,bajra
+Uttarakhand,2021,11.0,11.0,1.0,bajra
+West Bengal,1997,207.0,95.0,0.46,bajra
+West Bengal,1998,175.0,84.0,0.48,bajra
+West Bengal,1999,146.0,96.0,0.66,bajra
+West Bengal,2000,313.0,256.0,0.82,bajra
+West Bengal,2001,425.0,322.0,0.76,bajra
+West Bengal,2002,332.0,252.0,0.76,bajra
+West Bengal,2003,258.0,179.0,0.69,bajra
+West Bengal,2004,129.0,45.0,0.35,bajra
+West Bengal,2005,55.0,19.0,0.35,bajra
+West Bengal,2006,79.0,31.0,0.39,bajra
+West Bengal,2007,64.0,23.0,0.36,bajra
+West Bengal,2008,75.0,26.0,0.35,bajra
+West Bengal,2009,53.0,23.0,0.43,bajra
+West Bengal,2010,64.0,24.0,0.38,bajra
+West Bengal,2011,59.0,22.0,0.37,bajra
+West Bengal,2012,60.0,25.0,0.42,bajra
+West Bengal,2013,144.0,42.0,0.29,bajra
+West Bengal,2014,164.0,48.0,0.29,bajra
+West Bengal,2015,166.0,49.0,0.3,bajra
+West Bengal,2016,167.0,49.0,0.29,bajra
+West Bengal,2017,30.0,12.0,0.4,bajra
+West Bengal,2018,71.0,29.0,0.41,bajra
+West Bengal,2019,68.0,27.0,0.4,bajra
+West Bengal,2020,70.0,30.0,0.43,bajra
+West Bengal,2021,72.0,31.0,0.43,bajra
+West Bengal,2022,70.0,30.0,0.43,bajra
+Andhra Pradesh,1997,183300.0,169000.0,0.92,jowar
+Andhra Pradesh,1998,141000.0,149700.0,1.06,jowar
+Andhra Pradesh,1999,180119.0,169769.0,0.94,jowar
+Andhra Pradesh,2000,144689.0,178731.0,1.24,jowar
+Andhra Pradesh,2001,130047.0,174845.0,1.34,jowar
+Andhra Pradesh,2002,157119.0,175396.0,1.12,jowar
+Andhra Pradesh,2003,215392.0,369328.0,1.71,jowar
+Andhra Pradesh,2004,140186.0,246275.0,1.76,jowar
+Andhra Pradesh,2005,129061.0,272661.0,2.11,jowar
+Andhra Pradesh,2006,142497.0,163146.0,1.14,jowar
+Andhra Pradesh,2007,101000.0,196000.0,1.94,jowar
+Andhra Pradesh,2008,102326.0,239820.0,2.34,jowar
+Andhra Pradesh,2009,160527.0,240487.0,1.5,jowar
+Andhra Pradesh,2010,88197.0,156352.0,1.77,jowar
+Andhra Pradesh,2011,148157.0,352062.0,2.38,jowar
+Andhra Pradesh,2012,164000.0,408000.0,2.49,jowar
+Andhra Pradesh,2013,118245.0,265675.0,2.25,jowar
+Andhra Pradesh,2014,141461.0,344475.0,2.44,jowar
+Andhra Pradesh,2015,174611.0,357710.0,2.05,jowar
+Andhra Pradesh,2016,97399.0,198327.0,2.04,jowar
+Andhra Pradesh,2017,139669.0,332694.0,2.38,jowar
+Andhra Pradesh,2018,155765.0,229463.0,1.47,jowar
+Andhra Pradesh,2019,154943.0,388956.0,2.51,jowar
+Andhra Pradesh,2020,119655.0,410157.0,3.43,jowar
+Andhra Pradesh,2021,76739.0,258484.0,3.37,jowar
+Andhra Pradesh,2022,69782.0,282376.0,4.05,jowar
+Bihar,1997,2059.0,1720.0,0.84,jowar
+Bihar,1998,1601.0,1668.0,1.04,jowar
+Bihar,1999,28442.0,38407.0,1.35,jowar
+Bihar,2000,1087.0,994.0,0.91,jowar
+Bihar,2001,4388.0,3712.0,0.85,jowar
+Bihar,2002,4402.0,4446.0,1.01,jowar
+Bihar,2003,1513.0,1527.0,1.01,jowar
+Bihar,2004,3755.0,3807.0,1.01,jowar
+Bihar,2005,4112.0,4236.0,1.03,jowar
+Bihar,2006,3397.0,3507.0,1.03,jowar
+Bihar,2007,3426.0,3761.0,1.1,jowar
+Bihar,2008,2399.0,2543.0,1.06,jowar
+Bihar,2009,1627.0,1687.0,1.04,jowar
+Bihar,2010,3082.0,3266.0,1.06,jowar
+Bihar,2011,2016.0,2147.0,1.06,jowar
+Bihar,2012,2631.0,2819.0,1.07,jowar
+Bihar,2013,1233.0,1313.0,1.06,jowar
+Bihar,2014,1451.0,1550.0,1.07,jowar
+Bihar,2015,1611.0,1713.0,1.06,jowar
+Bihar,2016,1796.0,1912.0,1.06,jowar
+Bihar,2017,1358.0,1448.0,1.07,jowar
+Bihar,2018,716.0,763.0,1.07,jowar
+Bihar,2019,631.0,673.0,1.07,jowar
+Bihar,2020,1225.0,1307.0,1.07,jowar
+Bihar,2021,1442.0,1539.0,1.07,jowar
+Bihar,2022,917.0,979.0,1.07,jowar
+Chhattisgarh,1997,11400.0,10500.0,0.92,jowar
+Chhattisgarh,1998,10900.0,12600.0,1.16,jowar
+Chhattisgarh,2000,10386.0,6907.0,0.67,jowar
+Chhattisgarh,2001,9423.0,9169.0,0.97,jowar
+Chhattisgarh,2002,7798.0,5770.0,0.74,jowar
+Chhattisgarh,2003,7595.0,7603.0,1.0,jowar
+Chhattisgarh,2004,8388.0,4902.0,0.58,jowar
+Chhattisgarh,2005,8455.0,5827.0,0.69,jowar
+Chhattisgarh,2006,5292.0,5206.0,0.98,jowar
+Chhattisgarh,2007,7709.0,7232.0,0.94,jowar
+Chhattisgarh,2008,5361.0,6270.0,1.17,jowar
+Chhattisgarh,2009,5647.0,6868.0,1.22,jowar
+Chhattisgarh,2010,5720.0,8193.0,1.43,jowar
+Chhattisgarh,2011,5329.0,4093.0,0.77,jowar
+Chhattisgarh,2012,6235.0,4458.0,0.71,jowar
+Chhattisgarh,2013,5153.0,3320.0,0.64,jowar
+Chhattisgarh,2014,5000.0,4230.0,0.85,jowar
+Chhattisgarh,2015,5414.0,4358.0,0.8,jowar
+Chhattisgarh,2016,4012.0,5436.0,1.35,jowar
+Chhattisgarh,2017,3729.0,4703.0,1.26,jowar
+Chhattisgarh,2018,3088.0,2827.0,0.92,jowar
+Chhattisgarh,2019,1966.0,2535.0,1.29,jowar
+Chhattisgarh,2020,1270.0,1680.0,1.32,jowar
+Chhattisgarh,2021,1032.0,759.0,0.74,jowar
+Chhattisgarh,2022,913.0,1156.0,1.27,jowar
+Dadra and Nagar Haveli,1998,523.0,418.0,0.8,jowar
+Dadra and Nagar Haveli,1999,474.0,379.0,0.8,jowar
+Dadra and Nagar Haveli,2000,529.0,447.0,0.84,jowar
+Dadra and Nagar Haveli,2001,501.0,558.0,1.11,jowar
+Dadra and Nagar Haveli,2002,528.0,588.0,1.11,jowar
+Dadra and Nagar Haveli,2003,537.0,564.0,1.05,jowar
+Dadra and Nagar Haveli,2004,571.0,476.0,0.83,jowar
+Dadra and Nagar Haveli,2005,504.0,605.0,1.2,jowar
+Dadra and Nagar Haveli,2006,481.0,625.0,1.3,jowar
+Dadra and Nagar Haveli,2007,500.0,400.0,0.8,jowar
+Dadra and Nagar Haveli,2008,500.0,400.0,0.8,jowar
+Dadra and Nagar Haveli,2009,500.0,400.0,0.8,jowar
+Dadra and Nagar Haveli,2010,405.0,446.0,1.1,jowar
+Dadra and Nagar Haveli,2011,441.0,353.0,0.8,jowar
+Dadra and Nagar Haveli,2012,475.0,380.0,0.8,jowar
+Dadra and Nagar Haveli,2013,450.0,360.0,0.8,jowar
+Dadra and Nagar Haveli,2014,465.0,372.0,0.8,jowar
+Dadra and Nagar Haveli,2015,467.0,376.0,0.81,jowar
+Dadra and Nagar Haveli,2016,5.0,11.0,2.2,jowar
+Dadra and Nagar Haveli,2017,451.0,385.0,0.85,jowar
+Dadra and Nagar Haveli,2018,5.0,110.0,22.0,jowar
+Dadra and Nagar Haveli,2019,5.0,11.0,2.2,jowar
+Delhi,2008,8238.0,7950.0,0.97,jowar
+Delhi,2009,3280.0,3168.0,0.97,jowar
+Delhi,2010,3341.0,3227.0,0.97,jowar
+Delhi,2011,3140.0,3032.0,0.97,jowar
+Delhi,2012,3319.0,3008.0,0.91,jowar
+Delhi,2013,3319.0,3008.0,0.91,jowar
+Delhi,2014,3242.0,2937.0,0.91,jowar
+Delhi,2015,3161.0,3034.0,0.96,jowar
+Delhi,2016,3193.0,3065.0,0.96,jowar
+Delhi,2017,3201.0,3035.0,0.95,jowar
+Delhi,2018,3155.0,3032.0,0.96,jowar
+Delhi,2019,3150.0,3150.0,1.0,jowar
+Gujarat,1997,283600.0,228600.0,0.81,jowar
+Gujarat,1998,239000.0,212000.0,0.89,jowar
+Gujarat,1999,216000.0,260000.0,1.2,jowar
+Gujarat,2000,163200.0,98000.0,0.6,jowar
+Gujarat,2001,182400.0,169300.0,0.93,jowar
+Gujarat,2002,156100.0,121700.0,0.78,jowar
+Gujarat,2003,172600.0,173600.0,1.01,jowar
+Gujarat,2004,121800.0,134400.0,1.1,jowar
+Gujarat,2005,129100.0,157000.0,1.22,jowar
+Gujarat,2006,146500.0,149300.0,1.02,jowar
+Gujarat,2007,128000.0,156400.0,1.22,jowar
+Gujarat,2008,174200.0,208200.0,1.2,jowar
+Gujarat,2009,163400.0,171300.0,1.05,jowar
+Gujarat,2010,125800.0,139000.0,1.1,jowar
+Gujarat,2011,124000.0,139800.0,1.13,jowar
+Gujarat,2012,79600.0,107300.0,1.35,jowar
+Gujarat,2013,187108.0,270997.0,1.45,jowar
+Gujarat,2014,69631.0,91843.0,1.32,jowar
+Gujarat,2015,99070.0,131499.0,1.33,jowar
+Gujarat,2016,103425.0,163194.0,1.58,jowar
+Gujarat,2017,91198.0,125320.0,1.37,jowar
+Gujarat,2018,75500.0,96841.0,1.28,jowar
+Gujarat,2019,48915.0,67141.0,1.37,jowar
+Gujarat,2020,41063.0,57419.0,1.4,jowar
+Gujarat,2021,42759.0,57538.0,1.35,jowar
+Gujarat,2022,31603.0,46116.0,1.46,jowar
+Haryana,1997,130000.0,32000.0,0.25,jowar
+Haryana,1998,129910.0,25000.0,0.19,jowar
+Haryana,1999,111819.0,22000.0,0.2,jowar
+Haryana,2000,109354.0,27800.0,0.25,jowar
+Haryana,2001,103814.0,22000.0,0.21,jowar
+Haryana,2002,113069.0,22000.0,0.19,jowar
+Haryana,2003,100945.0,26000.0,0.26,jowar
+Haryana,2004,96718.0,26000.0,0.27,jowar
+Haryana,2005,89191.0,26000.0,0.29,jowar
+Haryana,2006,89158.0,27000.0,0.3,jowar
+Haryana,2007,90728.0,41000.0,0.45,jowar
+Haryana,2008,86595.0,44000.0,0.51,jowar
+Haryana,2009,77671.0,390.0,0.01,jowar
+Haryana,2010,70846.0,38000.0,0.54,jowar
+Haryana,2011,64690.0,33000.0,0.51,jowar
+Haryana,2012,55196.0,27500.0,0.5,jowar
+Haryana,2013,62000.0,34000.0,0.55,jowar
+Haryana,2014,53000.0,27000.0,0.51,jowar
+Haryana,2015,55000.0,30000.0,0.55,jowar
+Haryana,2016,52800.0,28200.0,0.53,jowar
+Haryana,2017,47600.0,24700.0,0.52,jowar
+Haryana,2018,40300.0,21300.0,0.53,jowar
+Haryana,2019,29920.0,15770.0,0.53,jowar
+Haryana,2020,32750.0,17210.0,0.53,jowar
+Haryana,2021,31555.0,12640.0,0.4,jowar
+Haryana,2022,26840.0,14130.0,0.53,jowar
+Himachal Pradesh,2000,287.0,89.0,0.31,jowar
+Himachal Pradesh,2020,23.0,130.0,5.65,jowar
+Himachal Pradesh,2021,10.0,6.0,0.6,jowar
+Jammu and Kashmir,1999,6.0,1.0,0.2,jowar
+Jammu and Kashmir,2001,7.0,4.0,0.57,jowar
+Jammu and Kashmir,2002,129.0,32.0,0.25,jowar
+Jammu and Kashmir,2004,5977.0,3586.0,0.6,jowar
+Jammu and Kashmir,2005,1419.0,440.0,0.31,jowar
+Jammu and Kashmir,2010,57.0,34.0,0.6,jowar
+Jammu and Kashmir,2017,63.0,38.0,0.6,jowar
+Jharkhand,1997,1070.0,970.0,0.91,jowar
+Jharkhand,1998,1034.0,809.0,0.78,jowar
+Jharkhand,2017,3329.0,2210.0,0.66,jowar
+Jharkhand,2018,2046.0,1401.0,0.68,jowar
+Jharkhand,2019,1796.0,1351.0,0.75,jowar
+Jharkhand,2020,1874.0,1235.0,0.66,jowar
+Jharkhand,2021,1563.0,1279.0,0.82,jowar
+Jharkhand,2022,785.0,759.0,0.97,jowar
+Karnataka,1997,1896999.0,1254001.0,0.66,jowar
+Karnataka,1998,1849867.0,1643239.0,0.89,jowar
+Karnataka,1999,2023717.0,1790741.0,0.88,jowar
+Karnataka,2000,1782262.0,1546921.0,0.87,jowar
+Karnataka,2001,1790815.0,1372066.0,0.77,jowar
+Karnataka,2002,1786237.0,1224893.0,0.69,jowar
+Karnataka,2003,1698177.0,781003.0,0.46,jowar
+Karnataka,2004,1662793.0,1358582.0,0.82,jowar
+Karnataka,2005,1520137.0,1478776.0,0.97,jowar
+Karnataka,2006,1419311.0,1129547.0,0.8,jowar
+Karnataka,2007,1382177.0,1670022.0,1.21,jowar
+Karnataka,2008,1381882.0,1483620.0,1.07,jowar
+Karnataka,2009,1369410.0,1296179.0,0.95,jowar
+Karnataka,2010,1244381.0,1345880.0,1.08,jowar
+Karnataka,2011,1133523.0,1011435.0,0.89,jowar
+Karnataka,2012,1263888.0,1314698.0,1.04,jowar
+Karnataka,2013,1139229.0,1316848.0,1.16,jowar
+Karnataka,2014,1046054.0,1173303.0,1.12,jowar
+Karnataka,2015,1103907.0,797014.0,0.72,jowar
+Karnataka,2016,948001.0,846081.0,0.89,jowar
+Karnataka,2017,1088098.0,1264010.0,1.16,jowar
+Karnataka,2018,993752.0,931584.0,0.94,jowar
+Karnataka,2019,913988.0,1045642.0,1.14,jowar
+Karnataka,2020,749549.0,903728.0,1.21,jowar
+Karnataka,2021,615800.0,732793.0,1.19,jowar
+Karnataka,2022,555534.0,694434.0,1.25,jowar
+Kerala,1998,2177.0,1108.0,0.51,jowar
+Kerala,1999,2529.0,1287.0,0.51,jowar
+Kerala,2000,463.0,236.0,0.51,jowar
+Kerala,2001,2902.0,1478.0,0.51,jowar
+Kerala,2002,2571.0,1311.0,0.51,jowar
+Kerala,2003,2129.0,1087.0,0.51,jowar
+Kerala,2004,2566.0,1309.0,0.51,jowar
+Kerala,2005,2450.0,1248.0,0.51,jowar
+Kerala,2006,1827.0,929.0,0.51,jowar
+Kerala,2007,3083.0,1573.0,0.51,jowar
+Kerala,2008,2306.0,1177.0,0.51,jowar
+Kerala,2009,2547.0,1305.0,0.51,jowar
+Kerala,2012,148.0,116.0,0.78,jowar
+Kerala,2013,150.0,119.0,0.79,jowar
+Kerala,2014,173.0,128.0,0.74,jowar
+Kerala,2015,178.0,132.0,0.74,jowar
+Kerala,2016,140.0,110.0,0.79,jowar
+Kerala,2017,174.0,139.0,0.8,jowar
+Kerala,2018,205.0,168.0,0.82,jowar
+Kerala,2019,285.0,235.0,0.82,jowar
+Kerala,2020,231.0,204.0,0.88,jowar
+Kerala,2021,194.0,281.0,1.45,jowar
+Kerala,2022,1.0,1.0,1.0,jowar
+Madhya Pradesh,1997,759000.0,655000.0,0.86,jowar
+Madhya Pradesh,1998,742700.0,718400.0,0.97,jowar
+Madhya Pradesh,1999,673471.0,526654.0,0.78,jowar
+Madhya Pradesh,2000,623006.0,446695.0,0.72,jowar
+Madhya Pradesh,2001,627132.0,566300.0,0.9,jowar
+Madhya Pradesh,2002,640518.0,589917.0,0.92,jowar
+Madhya Pradesh,2003,771932.0,940985.0,1.22,jowar
+Madhya Pradesh,2004,633060.0,608371.0,0.96,jowar
+Madhya Pradesh,2005,568721.0,596107.0,1.05,jowar
+Madhya Pradesh,2006,533639.0,551249.0,1.03,jowar
+Madhya Pradesh,2007,534902.0,590531.0,1.1,jowar
+Madhya Pradesh,2008,485567.0,584137.0,1.2,jowar
+Madhya Pradesh,2009,456052.0,589675.0,1.29,jowar
+Madhya Pradesh,2010,417357.0,590978.0,1.42,jowar
+Madhya Pradesh,2011,348697.0,537340.0,1.54,jowar
+Madhya Pradesh,2012,294022.0,592454.0,2.01,jowar
+Madhya Pradesh,2013,247829.0,366796.0,1.48,jowar
+Madhya Pradesh,2014,220000.0,372000.0,1.69,jowar
+Madhya Pradesh,2015,208000.0,400657.0,1.93,jowar
+Madhya Pradesh,2016,221000.0,438000.0,1.98,jowar
+Madhya Pradesh,2017,270040.0,653420.0,2.42,jowar
+Madhya Pradesh,2018,74655.0,163418.0,2.19,jowar
+Madhya Pradesh,2019,107875.0,164973.0,1.53,jowar
+Madhya Pradesh,2020,112320.0,217963.0,1.94,jowar
+Madhya Pradesh,2021,122986.0,236001.0,1.92,jowar
+Madhya Pradesh,2022,97006.0,197365.0,2.03,jowar
+Maharashtra,1997,5500200.0,3989800.0,0.73,jowar
+Maharashtra,1998,4775100.0,4483600.0,0.94,jowar
+Maharashtra,1999,5118400.0,4630000.0,0.9,jowar
+Maharashtra,2000,5093500.0,3987800.0,0.78,jowar
+Maharashtra,2001,5137000.0,3909600.0,0.76,jowar
+Maharashtra,2002,4804300.0,3882400.0,0.81,jowar
+Maharashtra,2003,4440000.0,2888300.0,0.65,jowar
+Maharashtra,2004,4756100.0,3623300.0,0.76,jowar
+Maharashtra,2005,4740000.0,3711100.0,0.78,jowar
+Maharashtra,2006,4618100.0,3781700.0,0.82,jowar
+Maharashtra,2007,4147500.0,4003200.0,0.97,jowar
+Maharashtra,2008,4071200.0,3352000.0,0.82,jowar
+Maharashtra,2009,4176300.0,3565544.0,0.85,jowar
+Maharashtra,2010,4059200.0,3452300.0,0.85,jowar
+Maharashtra,2011,3229000.0,2627200.0,0.81,jowar
+Maharashtra,2012,3289900.0,2108900.0,0.64,jowar
+Maharashtra,2013,3584500.0,2847900.0,0.79,jowar
+Maharashtra,2014,3288200.0,2108800.0,0.64,jowar
+Maharashtra,2015,3217600.0,1205200.0,0.37,jowar
+Maharashtra,2016,3615450.0,2538726.0,0.7,jowar
+Maharashtra,2017,3464153.0,2389682.0,0.69,jowar
+Maharashtra,2018,2439263.0,1197201.0,0.49,jowar
+Maharashtra,2019,2371472.0,1864697.0,0.79,jowar
+Maharashtra,2020,2320431.0,2186324.0,0.94,jowar
+Maharashtra,2021,2285244.0,2149975.0,0.94,jowar
+Maharashtra,2022,1506954.0,1551090.0,1.03,jowar
+Nagaland,1997,900.0,630.0,0.7,jowar
+Nagaland,1999,1500.0,1070.0,0.71,jowar
+Nagaland,2000,1500.0,1250.0,0.83,jowar
+Nagaland,2001,1500.0,1200.0,0.8,jowar
+Nagaland,2002,2000.0,4000.0,2.0,jowar
+Nagaland,2003,3000.0,5000.0,1.67,jowar
+Nagaland,2004,2500.0,4000.0,1.6,jowar
+Nagaland,2005,550.0,820.0,1.49,jowar
+Nagaland,2006,1000.0,750.0,0.75,jowar
+Nagaland,2007,800.0,1050.0,1.31,jowar
+Nagaland,2008,140.0,130.0,0.93,jowar
+Nagaland,2009,240.0,100.0,0.42,jowar
+Nagaland,2010,120.0,110.0,0.92,jowar
+Nagaland,2011,120.0,110.0,0.92,jowar
+Nagaland,2012,180.0,170.0,0.94,jowar
+Nagaland,2013,230.0,220.0,0.96,jowar
+Nagaland,2014,240.0,230.0,0.96,jowar
+Nagaland,2015,250.0,240.0,0.96,jowar
+Nagaland,2016,260.0,250.0,0.96,jowar
+Nagaland,2017,270.0,260.0,0.96,jowar
+Nagaland,2018,280.0,270.0,0.96,jowar
+Nagaland,2019,280.0,270.0,0.96,jowar
+Nagaland,2020,280.0,270.0,0.96,jowar
+Nagaland,2021,268.0,249.0,0.93,jowar
+Nagaland,2022,310.0,299.0,0.96,jowar
+Odisha,1999,13760.0,8280.0,0.6,jowar
+Odisha,2000,13000.0,7480.0,0.58,jowar
+Odisha,2001,12260.0,7090.0,0.58,jowar
+Odisha,2002,11000.0,5720.0,0.52,jowar
+Odisha,2003,11090.0,6380.0,0.58,jowar
+Odisha,2004,10071.0,5451.0,0.54,jowar
+Odisha,2019,5810.0,3680.0,0.63,jowar
+Puducherry,1999,3.0,3.0,1.0,jowar
+Puducherry,2000,6.0,6.0,1.0,jowar
+Puducherry,2006,4.0,7.0,1.75,jowar
+Puducherry,2007,3.0,5.0,1.67,jowar
+Puducherry,2008,2.0,3.0,1.5,jowar
+Puducherry,2009,6.0,9.0,1.5,jowar
+Puducherry,2011,1.0,2.0,2.0,jowar
+Puducherry,2012,3.0,6.0,2.0,jowar
+Puducherry,2013,2.0,4.0,2.0,jowar
+Puducherry,2014,2.0,3.0,1.5,jowar
+Puducherry,2016,4.0,5.0,1.25,jowar
+Puducherry,2017,5.0,15.0,3.0,jowar
+Puducherry,2018,5.0,13.0,2.6,jowar
+Puducherry,2020,4.0,11.0,2.75,jowar
+Puducherry,2021,2.0,5.0,2.5,jowar
+Puducherry,2022,4.0,10.0,2.5,jowar
+Punjab,2006,100.0,100.0,1.0,jowar
+Punjab,2007,100.0,100.0,1.0,jowar
+Punjab,2008,100.0,100.0,1.0,jowar
+Punjab,2009,100.0,100.0,1.0,jowar
+Rajasthan,1997,559000.0,267300.0,0.48,jowar
+Rajasthan,1998,535227.0,153760.0,0.29,jowar
+Rajasthan,1999,555945.0,173226.0,0.31,jowar
+Rajasthan,2000,673962.0,134525.0,0.2,jowar
+Rajasthan,2001,614653.0,254398.0,0.41,jowar
+Rajasthan,2002,532393.0,68484.0,0.13,jowar
+Rajasthan,2003,738917.0,527422.0,0.71,jowar
+Rajasthan,2004,568620.0,263900.0,0.46,jowar
+Rajasthan,2005,592078.0,169732.0,0.29,jowar
+Rajasthan,2006,662055.0,367816.0,0.56,jowar
+Rajasthan,2007,623119.0,392653.0,0.63,jowar
+Rajasthan,2008,576689.0,333003.0,0.58,jowar
+Rajasthan,2009,718558.0,104192.0,0.15,jowar
+Rajasthan,2010,726914.0,508877.0,0.7,jowar
+Rajasthan,2011,553796.0,410298.0,0.74,jowar
+Rajasthan,2012,680375.0,420392.0,0.62,jowar
+Rajasthan,2013,579624.0,356797.0,0.62,jowar
+Rajasthan,2014,660969.0,504505.0,0.76,jowar
+Rajasthan,2015,631188.0,344287.0,0.55,jowar
+Rajasthan,2016,579308.0,349542.0,0.6,jowar
+Rajasthan,2017,516043.0,300831.0,0.58,jowar
+Rajasthan,2018,564404.0,469765.0,0.83,jowar
+Rajasthan,2019,642867.0,456087.0,0.71,jowar
+Rajasthan,2020,555622.0,586050.0,1.05,jowar
+Rajasthan,2021,619982.0,535706.0,0.86,jowar
+Rajasthan,2022,637290.0,567444.0,0.89,jowar
+Tamil Nadu,1997,380422.0,377720.0,0.99,jowar
+Tamil Nadu,1998,498583.0,585616.0,1.17,jowar
+Tamil Nadu,1999,491707.0,484265.0,0.98,jowar
+Tamil Nadu,2000,491681.0,496607.0,1.01,jowar
+Tamil Nadu,2001,317233.0,274842.0,0.87,jowar
+Tamil Nadu,2002,319607.0,213639.0,0.67,jowar
+Tamil Nadu,2003,401607.0,245933.0,0.61,jowar
+Tamil Nadu,2004,376739.0,252063.0,0.67,jowar
+Tamil Nadu,2005,316274.0,231449.0,0.73,jowar
+Tamil Nadu,2006,294376.0,293940.0,1.0,jowar
+Tamil Nadu,2007,283526.0,247836.0,0.87,jowar
+Tamil Nadu,2008,258876.0,213436.0,0.82,jowar
+Tamil Nadu,2009,238476.0,221960.0,0.93,jowar
+Tamil Nadu,2011,197696.0,252521.0,1.28,jowar
+Tamil Nadu,2013,347131.0,513313.0,1.48,jowar
+Tamil Nadu,2014,415103.0,868940.0,2.09,jowar
+Tamil Nadu,2015,339166.0,439619.0,1.3,jowar
+Tamil Nadu,2016,268391.0,153856.0,0.57,jowar
+Tamil Nadu,2017,385646.0,430661.0,1.12,jowar
+Tamil Nadu,2018,385842.0,464476.0,1.2,jowar
+Tamil Nadu,2019,450000.0,519821.0,1.16,jowar
+Tamil Nadu,2020,405425.0,427227.0,1.05,jowar
+Tamil Nadu,2021,397223.0,362109.0,0.91,jowar
+Tamil Nadu,2022,360175.0,292694.0,0.81,jowar
+Telangana,1997,605500.0,345900.0,0.57,jowar
+Telangana,1998,611400.0,373200.0,0.61,jowar
+Telangana,1999,555810.0,365931.0,0.66,jowar
+Telangana,2000,532239.0,440257.0,0.83,jowar
+Telangana,2001,509282.0,459206.0,0.9,jowar
+Telangana,2002,466727.0,432100.0,0.93,jowar
+Telangana,2003,432787.0,372798.0,0.86,jowar
+Telangana,2004,360207.0,269282.0,0.75,jowar
+Telangana,2005,315035.0,315366.0,1.0,jowar
+Telangana,2006,279919.0,247446.0,0.88,jowar
+Telangana,2007,230000.0,270000.0,1.17,jowar
+Telangana,2008,176258.0,195962.0,1.11,jowar
+Telangana,2009,224307.0,196715.0,0.88,jowar
+Telangana,2010,166120.0,151620.0,0.91,jowar
+Telangana,2011,128441.0,144171.0,1.12,jowar
+Telangana,2012,123000.0,134000.0,1.09,jowar
+Telangana,2013,107164.0,108885.0,1.02,jowar
+Telangana,2014,79001.0,83267.0,1.05,jowar
+Telangana,2015,76358.0,75703.0,0.99,jowar
+Telangana,2016,89753.0,87701.0,0.98,jowar
+Telangana,2017,67312.0,73395.0,1.09,jowar
+Telangana,2018,56079.0,67511.0,1.2,jowar
+Telangana,2019,88229.0,133756.0,1.52,jowar
+Telangana,2020,90643.0,155498.0,1.72,jowar
+Telangana,2021,68895.0,116359.0,1.69,jowar
+Telangana,2022,67247.0,118465.0,1.76,jowar
+Tripura,2016,683.0,546.0,0.8,jowar
+Tripura,2017,857.0,702.0,0.82,jowar
+Tripura,2018,960.0,768.0,0.8,jowar
+Tripura,2019,880.0,719.0,0.82,jowar
+Tripura,2020,189.0,161.0,0.85,jowar
+Uttar Pradesh,1997,397755.0,353460.0,0.89,jowar
+Uttar Pradesh,1998,353890.0,247654.0,0.7,jowar
+Uttar Pradesh,1999,358807.0,320639.0,0.89,jowar
+Uttar Pradesh,2000,347427.0,329499.0,0.95,jowar
+Uttar Pradesh,2001,322575.0,309068.0,0.96,jowar
+Uttar Pradesh,2002,268145.0,244099.0,0.91,jowar
+Uttar Pradesh,2003,300167.0,298075.0,0.99,jowar
+Uttar Pradesh,2004,243547.0,249206.0,1.02,jowar
+Uttar Pradesh,2005,227183.0,241858.0,1.06,jowar
+Uttar Pradesh,2006,231290.0,238052.0,1.03,jowar
+Uttar Pradesh,2007,211640.0,172805.0,0.82,jowar
+Uttar Pradesh,2008,192564.0,195473.0,1.02,jowar
+Uttar Pradesh,2009,190976.0,169571.0,0.89,jowar
+Uttar Pradesh,2010,201205.0,207513.0,1.03,jowar
+Uttar Pradesh,2011,192340.0,212514.0,1.1,jowar
+Uttar Pradesh,2012,184153.0,248208.0,1.35,jowar
+Uttar Pradesh,2013,165145.0,173623.0,1.05,jowar
+Uttar Pradesh,2014,164407.0,162865.0,0.99,jowar
+Uttar Pradesh,2015,154827.0,104769.0,0.68,jowar
+Uttar Pradesh,2016,182923.0,183020.0,1.0,jowar
+Uttar Pradesh,2017,169145.0,214815.0,1.27,jowar
+Uttar Pradesh,2018,147490.0,183966.0,1.25,jowar
+Uttar Pradesh,2019,168047.0,226638.0,1.35,jowar
+Uttar Pradesh,2020,174246.0,275047.0,1.58,jowar
+Uttar Pradesh,2021,195950.0,298825.0,1.53,jowar
+Uttar Pradesh,2022,198011.0,315351.0,1.59,jowar
+Uttarakhand,1997,6.0,4.0,0.67,jowar
+Uttarakhand,1998,7.0,4.0,0.57,jowar
+Uttarakhand,1999,5.0,4.0,0.8,jowar
+Uttarakhand,2005,3.0,2.0,0.67,jowar
+Uttarakhand,2015,5.0,4.0,0.8,jowar
+West Bengal,1997,948.0,450.0,0.47,jowar
+West Bengal,1998,886.0,414.0,0.47,jowar
+West Bengal,1999,1156.0,540.0,0.47,jowar
+West Bengal,2000,1016.0,521.0,0.51,jowar
+West Bengal,2001,1194.0,658.0,0.55,jowar
+West Bengal,2002,1643.0,1234.0,0.75,jowar
+West Bengal,2003,1283.0,616.0,0.48,jowar
+West Bengal,2004,1498.0,649.0,0.43,jowar
+West Bengal,2005,1439.0,562.0,0.39,jowar
+West Bengal,2006,1395.0,606.0,0.43,jowar
+West Bengal,2007,1659.0,698.0,0.42,jowar
+West Bengal,2008,1126.0,469.0,0.42,jowar
+West Bengal,2009,1479.0,632.0,0.43,jowar
+West Bengal,2010,25.0,10.0,0.4,jowar
+West Bengal,2011,23.0,6.0,0.26,jowar
+West Bengal,2012,26.0,10.0,0.38,jowar
+West Bengal,2013,25.0,7.0,0.28,jowar
+West Bengal,2014,25.0,8.0,0.32,jowar
+West Bengal,2015,25.0,9.0,0.36,jowar
+West Bengal,2016,26.0,10.0,0.38,jowar
+West Bengal,2017,6.0,3.0,0.5,jowar
+West Bengal,2018,64.0,30.0,0.47,jowar
+West Bengal,2019,180.0,95.0,0.53,jowar
+West Bengal,2020,186.0,100.0,0.54,jowar
+West Bengal,2021,188.0,101.0,0.54,jowar
+West Bengal,2022,165.0,93.0,0.56,jowar
+Andaman and Nicobar Islands,2010,164.0,368.0,2.25,maize
+Andaman and Nicobar Islands,2011,163.0,340.0,2.09,maize
+Andaman and Nicobar Islands,2012,116.0,215.0,1.86,maize
+Andaman and Nicobar Islands,2013,130.0,293.0,2.25,maize
+Andaman and Nicobar Islands,2014,167.0,603.0,3.61,maize
+Andaman and Nicobar Islands,2015,121.0,352.0,2.92,maize
+Andaman and Nicobar Islands,2016,104.0,216.0,2.09,maize
+Andaman and Nicobar Islands,2017,44.0,38.0,0.86,maize
+Andaman and Nicobar Islands,2018,32.0,49.0,1.51,maize
+Andaman and Nicobar Islands,2019,21.0,57.0,2.77,maize
+Andaman and Nicobar Islands,2020,42.0,112.0,2.68,maize
+Andaman and Nicobar Islands,2021,60.0,116.0,1.94,maize
+Andaman and Nicobar Islands,2022,15.0,34.0,2.26,maize
+Andhra Pradesh,1997,50400.0,143600.0,2.85,maize
+Andhra Pradesh,1998,45000.0,153600.0,3.41,maize
+Andhra Pradesh,1999,58640.0,222785.0,3.8,maize
+Andhra Pradesh,2000,78381.0,300858.0,3.84,maize
+Andhra Pradesh,2001,58185.0,271122.0,4.66,maize
+Andhra Pradesh,2002,74813.0,323168.0,4.32,maize
+Andhra Pradesh,2003,121231.0,494969.0,4.08,maize
+Andhra Pradesh,2004,124715.0,712234.0,5.71,maize
+Andhra Pradesh,2005,119828.0,747605.0,6.24,maize
+Andhra Pradesh,2006,134411.0,835668.0,6.22,maize
+Andhra Pradesh,2007,182000.0,1258000.0,6.91,maize
+Andhra Pradesh,2008,251355.0,1958468.0,7.79,maize
+Andhra Pradesh,2009,213352.0,1395168.0,6.54,maize
+Andhra Pradesh,2010,233420.0,1884455.0,8.07,maize
+Andhra Pradesh,2011,272375.0,1763204.0,6.47,maize
+Andhra Pradesh,2012,308000.0,1909000.0,6.2,maize
+Andhra Pradesh,2013,352115.0,2213485.0,6.29,maize
+Andhra Pradesh,2014,303326.0,1938073.0,6.39,maize
+Andhra Pradesh,2015,232645.0,1411687.0,6.07,maize
+Andhra Pradesh,2016,250279.0,1652901.0,6.6,maize
+Andhra Pradesh,2017,336540.0,2325904.0,6.91,maize
+Andhra Pradesh,2018,266223.0,1563159.0,5.87,maize
+Andhra Pradesh,2019,300691.0,2121220.0,7.05,maize
+Andhra Pradesh,2020,301414.0,1783823.0,5.92,maize
+Andhra Pradesh,2021,341941.0,1897337.0,5.55,maize
+Andhra Pradesh,2022,385308.0,2750492.0,7.14,maize
+Arunachal Pradesh,1997,34504.0,50025.0,1.45,maize
+Arunachal Pradesh,1998,36244.0,47022.0,1.3,maize
+Arunachal Pradesh,1999,35637.0,48328.0,1.36,maize
+Arunachal Pradesh,2000,38429.0,52297.0,1.36,maize
+Arunachal Pradesh,2001,38577.0,52511.0,1.36,maize
+Arunachal Pradesh,2002,40548.0,55941.0,1.38,maize
+Arunachal Pradesh,2003,38605.0,54510.0,1.41,maize
+Arunachal Pradesh,2004,37800.0,54985.0,1.45,maize
+Arunachal Pradesh,2005,41853.0,57898.0,1.38,maize
+Arunachal Pradesh,2006,46281.0,63524.0,1.37,maize
+Arunachal Pradesh,2007,42736.0,57430.0,1.34,maize
+Arunachal Pradesh,2008,42897.0,58830.0,1.37,maize
+Arunachal Pradesh,2009,43630.0,60144.0,1.38,maize
+Arunachal Pradesh,2010,45061.0,64714.0,1.44,maize
+Arunachal Pradesh,2011,46500.0,68500.0,1.47,maize
+Arunachal Pradesh,2012,47486.0,68192.0,1.44,maize
+Arunachal Pradesh,2013,47018.0,68978.0,1.47,maize
+Arunachal Pradesh,2014,48000.0,75000.0,1.56,maize
+Arunachal Pradesh,2015,48800.0,75226.0,1.54,maize
+Arunachal Pradesh,2016,50300.0,75450.0,1.5,maize
+Arunachal Pradesh,2017,50797.0,77216.0,1.52,maize
+Arunachal Pradesh,2018,51000.0,78030.0,1.53,maize
+Arunachal Pradesh,2019,51100.0,79205.0,1.55,maize
+Arunachal Pradesh,2020,51151.0,80307.0,1.57,maize
+Arunachal Pradesh,2021,54215.0,85399.0,1.58,maize
+Arunachal Pradesh,2022,54643.0,86281.0,1.58,maize
+Assam,1997,19216.0,14721.0,0.77,maize
+Assam,1998,19810.0,13965.0,0.7,maize
+Assam,1999,19708.0,14056.0,0.71,maize
+Assam,2000,20241.0,14616.0,0.72,maize
+Assam,2001,19600.0,13940.0,0.71,maize
+Assam,2002,19812.0,14194.0,0.72,maize
+Assam,2003,19569.0,14051.0,0.72,maize
+Assam,2005,18969.0,13745.0,0.72,maize
+Assam,2006,18657.0,13557.0,0.73,maize
+Assam,2007,18362.0,13317.0,0.73,maize
+Assam,2008,17382.0,12619.0,0.73,maize
+Assam,2009,19481.0,13981.0,0.72,maize
+Assam,2010,19772.0,14110.0,0.71,maize
+Assam,2011,21297.0,17075.0,0.8,maize
+Assam,2012,23695.0,21258.0,0.9,maize
+Assam,2013,24068.0,76998.0,3.2,maize
+Assam,2014,27953.0,93179.0,3.33,maize
+Assam,2015,28420.0,87175.0,3.07,maize
+Assam,2016,31333.0,91219.0,2.91,maize
+Assam,2017,31537.0,98783.0,3.13,maize
+Assam,2018,32264.0,105003.0,3.25,maize
+Assam,2019,36636.0,128036.0,3.49,maize
+Assam,2020,41154.0,147902.0,3.59,maize
+Assam,2021,42922.0,170180.0,3.96,maize
+Assam,2022,105722.0,429003.0,4.06,maize
+Bihar,1997,604276.0,1201078.0,1.99,maize
+Bihar,1998,618812.0,1183816.0,1.91,maize
+Bihar,1999,638414.0,1426694.0,2.23,maize
+Bihar,2000,620505.0,1487309.0,2.4,maize
+Bihar,2001,582056.0,1407367.0,2.42,maize
+Bihar,2002,603605.0,1381082.0,2.29,maize
+Bihar,2003,616430.0,1473570.0,2.39,maize
+Bihar,2004,617254.0,1529273.0,2.48,maize
+Bihar,2005,664274.0,1519842.0,2.29,maize
+Bihar,2006,641215.0,1755949.0,2.74,maize
+Bihar,2007,659301.0,1802862.0,2.73,maize
+Bihar,2008,640473.0,1715346.0,2.68,maize
+Bihar,2009,640703.0,1544446.0,2.41,maize
+Bihar,2010,653702.0,2108196.0,3.23,maize
+Bihar,2011,696833.0,2557063.0,3.67,maize
+Bihar,2012,693336.0,2755954.0,3.97,maize
+Bihar,2013,732339.0,2904237.0,3.97,maize
+Bihar,2014,706518.0,2478745.0,3.51,maize
+Bihar,2015,704955.0,2517100.0,3.57,maize
+Bihar,2016,720910.0,3845700.0,5.33,maize
+Bihar,2017,677446.0,3120772.0,4.61,maize
+Bihar,2018,669478.0,3193911.0,4.77,maize
+Bihar,2019,673138.0,3495400.0,5.19,maize
+Bihar,2020,673395.0,3521410.0,5.23,maize
+Bihar,2021,662853.0,3470944.0,5.24,maize
+Bihar,2022,748102.0,4829388.0,6.46,maize
+Chandigarh,1998,380.0,1330.0,3.5,maize
+Chandigarh,1999,325.0,810.0,2.49,maize
+Chandigarh,2000,200.0,500.0,2.5,maize
+Chandigarh,2001,200.0,450.0,2.25,maize
+Chandigarh,2002,200.0,450.0,2.25,maize
+Chandigarh,2003,100.0,200.0,2.0,maize
+Chandigarh,2004,60.0,120.0,2.0,maize
+Chandigarh,2005,20.0,40.0,2.0,maize
+Chandigarh,2006,20.0,40.0,2.0,maize
+Chandigarh,2007,20.0,40.0,2.0,maize
+Chandigarh,2008,60.0,125.0,2.08,maize
+Chandigarh,2009,30.0,65.0,2.17,maize
+Chandigarh,2010,25.0,55.0,2.2,maize
+Chandigarh,2011,25.0,55.0,2.2,maize
+Chandigarh,2012,25.0,57.0,2.28,maize
+Chandigarh,2013,25.0,57.0,2.28,maize
+Chandigarh,2014,25.0,50.0,2.0,maize
+Chandigarh,2015,20.0,40.0,2.0,maize
+Chandigarh,2019,8.0,24.0,3.0,maize
+Chandigarh,2020,8.0,24.0,3.0,maize
+Chandigarh,2021,9.0,26.0,2.89,maize
+Chandigarh,2022,10.0,30.0,3.0,maize
+Chhattisgarh,1997,84400.0,100600.0,1.19,maize
+Chhattisgarh,1998,91600.0,136100.0,1.49,maize
+Chhattisgarh,1999,89663.0,148604.0,1.66,maize
+Chhattisgarh,2000,93364.0,125668.0,1.35,maize
+Chhattisgarh,2001,93820.0,69708.0,0.74,maize
+Chhattisgarh,2002,93955.0,122611.0,1.3,maize
+Chhattisgarh,2003,98575.0,135048.0,1.37,maize
+Chhattisgarh,2004,97851.0,139927.0,1.43,maize
+Chhattisgarh,2005,101587.0,109598.0,1.08,maize
+Chhattisgarh,2006,100145.0,123489.0,1.23,maize
+Chhattisgarh,2007,100591.0,157130.0,1.56,maize
+Chhattisgarh,2008,99375.0,139844.0,1.41,maize
+Chhattisgarh,2009,101721.0,145368.0,1.43,maize
+Chhattisgarh,2010,104861.0,190489.0,1.82,maize
+Chhattisgarh,2011,107435.0,177805.0,1.66,maize
+Chhattisgarh,2012,116839.0,225109.0,1.93,maize
+Chhattisgarh,2013,123590.0,254484.0,2.06,maize
+Chhattisgarh,2014,125074.0,235014.0,1.88,maize
+Chhattisgarh,2015,126356.0,237676.0,1.88,maize
+Chhattisgarh,2016,120547.0,309324.0,2.57,maize
+Chhattisgarh,2017,119617.0,306937.0,2.57,maize
+Chhattisgarh,2018,118047.0,303145.0,2.57,maize
+Chhattisgarh,2019,130433.0,406821.0,3.12,maize
+Chhattisgarh,2020,147172.0,522755.0,3.55,maize
+Chhattisgarh,2021,132301.0,430904.0,3.26,maize
+Chhattisgarh,2022,139183.0,489237.0,3.52,maize
+Dadra and Nagar Haveli,1998,16.0,10.0,0.63,maize
+Dadra and Nagar Haveli,2000,20.0,20.0,1.0,maize
+Dadra and Nagar Haveli,2001,19.0,20.0,1.05,maize
+Dadra and Nagar Haveli,2002,57.0,60.0,1.05,maize
+Dadra and Nagar Haveli,2003,100.0,105.0,1.05,maize
+Dadra and Nagar Haveli,2004,100.0,110.0,1.1,maize
+Dadra and Nagar Haveli,2005,100.0,110.0,1.1,maize
+Dadra and Nagar Haveli,2006,150.0,125.0,0.83,maize
+Dadra and Nagar Haveli,2010,100.0,100.0,1.0,maize
+Dadra and Nagar Haveli,2011,110.0,110.0,1.0,maize
+Dadra and Nagar Haveli,2012,110.0,110.0,1.0,maize
+Dadra and Nagar Haveli,2013,110.0,110.0,1.0,maize
+Dadra and Nagar Haveli,2014,110.0,110.0,1.0,maize
+Dadra and Nagar Haveli,2015,103.0,99.0,0.96,maize
+Dadra and Nagar Haveli,2016,4.0,4.0,1.0,maize
+Dadra and Nagar Haveli,2017,108.0,119.0,1.1,maize
+Dadra and Nagar Haveli,2018,4.0,4.0,1.0,maize
+Dadra and Nagar Haveli,2019,4.0,4.0,1.0,maize
+Delhi,2008,54.0,99.0,1.83,maize
+Delhi,2009,48.0,1054.0,21.96,maize
+Delhi,2010,40.0,878.0,21.95,maize
+Delhi,2011,38.0,843.0,22.18,maize
+Delhi,2012,37.0,828.0,22.38,maize
+Delhi,2013,37.0,828.0,22.38,maize
+Delhi,2014,35.0,783.0,22.37,maize
+Delhi,2015,34.0,174.0,5.12,maize
+Delhi,2016,34.0,174.0,5.12,maize
+Delhi,2017,36.0,174.0,4.83,maize
+Delhi,2018,20.0,102.0,5.1,maize
+Delhi,2019,20.0,102.0,5.1,maize
+Gujarat,1997,399800.0,659000.0,1.65,maize
+Gujarat,1998,408300.0,696000.0,1.7,maize
+Gujarat,1999,391000.0,504000.0,1.29,maize
+Gujarat,2000,382900.0,288500.0,0.75,maize
+Gujarat,2001,443500.0,884600.0,1.99,maize
+Gujarat,2002,464500.0,792600.0,1.71,maize
+Gujarat,2003,484400.0,831900.0,1.72,maize
+Gujarat,2004,459500.0,412500.0,0.9,maize
+Gujarat,2005,456900.0,722400.0,1.58,maize
+Gujarat,2006,447700.0,201700.0,0.45,maize
+Gujarat,2007,424000.0,583100.0,1.38,maize
+Gujarat,2008,418900.0,602600.0,1.44,maize
+Gujarat,2009,411700.0,396600.0,0.96,maize
+Gujarat,2010,565500.0,978100.0,1.73,maize
+Gujarat,2011,515900.0,786600.0,1.52,maize
+Gujarat,2012,457800.0,790400.0,1.73,maize
+Gujarat,2013,432423.0,632151.0,1.46,maize
+Gujarat,2014,394342.0,568806.0,1.44,maize
+Gujarat,2015,391921.0,608511.0,1.55,maize
+Gujarat,2016,449859.0,840661.0,1.87,maize
+Gujarat,2017,399984.0,714740.0,1.79,maize
+Gujarat,2018,409224.0,801898.0,1.96,maize
+Gujarat,2019,438361.0,796207.0,1.82,maize
+Gujarat,2020,388919.0,667511.0,1.72,maize
+Gujarat,2021,390516.0,816091.0,2.09,maize
+Gujarat,2022,400689.0,857256.0,2.14,maize
+Haryana,1997,26000.0,50000.0,1.92,maize
+Haryana,1998,20117.0,39000.0,1.94,maize
+Haryana,1999,20078.0,48000.0,2.39,maize
+Haryana,2000,15429.0,34000.0,2.2,maize
+Haryana,2001,17944.0,47000.0,2.62,maize
+Haryana,2002,15886.0,29000.0,1.83,maize
+Haryana,2003,16570.0,41000.0,2.47,maize
+Haryana,2004,15768.0,39000.0,2.47,maize
+Haryana,2005,17469.0,36000.0,2.06,maize
+Haryana,2006,13412.0,30000.0,2.24,maize
+Haryana,2007,13777.0,37000.0,2.69,maize
+Haryana,2008,11769.0,25200.0,2.14,maize
+Haryana,2009,12199.0,26000.0,2.13,maize
+Haryana,2010,9662.0,19000.0,1.97,maize
+Haryana,2011,11045.0,30000.0,2.72,maize
+Haryana,2012,9878.0,26000.0,2.63,maize
+Haryana,2013,8000.0,24000.0,3.0,maize
+Haryana,2014,9000.0,18000.0,2.0,maize
+Haryana,2015,5800.0,17900.0,3.09,maize
+Haryana,2016,6300.0,19500.0,3.1,maize
+Haryana,2017,6600.0,20600.0,3.12,maize
+Haryana,2018,5900.0,15600.0,2.64,maize
+Haryana,2019,6050.0,17290.0,2.86,maize
+Haryana,2020,9290.0,27620.0,2.97,maize
+Haryana,2021,9189.0,29670.0,3.23,maize
+Haryana,2022,4810.0,16010.0,3.33,maize
+Himachal Pradesh,1998,300976.0,662272.0,2.2,maize
+Himachal Pradesh,1999,299906.0,681424.0,2.27,maize
+Himachal Pradesh,2000,298052.0,683642.0,2.29,maize
+Himachal Pradesh,2001,301282.0,668228.0,2.22,maize
+Himachal Pradesh,2002,299801.0,483333.0,1.61,maize
+Himachal Pradesh,2003,298467.0,729571.0,2.44,maize
+Himachal Pradesh,2004,297887.0,636294.0,2.14,maize
+Himachal Pradesh,2005,295351.0,543061.0,1.84,maize
+Himachal Pradesh,2006,299037.0,695376.0,2.33,maize
+Himachal Pradesh,2007,300150.0,682615.0,2.27,maize
+Himachal Pradesh,2008,297718.0,676644.0,2.27,maize
+Himachal Pradesh,2009,290199.0,530224.0,1.83,maize
+Himachal Pradesh,2010,281664.0,641530.0,2.28,maize
+Himachal Pradesh,2011,290241.0,612701.0,2.11,maize
+Himachal Pradesh,2012,275973.0,605082.0,2.19,maize
+Himachal Pradesh,2013,291960.0,594280.0,2.04,maize
+Himachal Pradesh,2014,289204.0,503715.0,1.74,maize
+Himachal Pradesh,2015,280811.0,708527.0,2.52,maize
+Himachal Pradesh,2016,262595.0,483441.0,1.84,maize
+Himachal Pradesh,2017,280811.0,711114.0,2.53,maize
+Himachal Pradesh,2018,286780.0,725553.0,2.53,maize
+Himachal Pradesh,2019,287444.0,744603.0,2.59,maize
+Himachal Pradesh,2020,267407.0,725014.0,2.71,maize
+Himachal Pradesh,2021,262994.0,781204.0,2.97,maize
+Himachal Pradesh,2022,255539.0,708415.0,2.77,maize
+Jammu and Kashmir,1997,310883.0,440900.0,1.42,maize
+Jammu and Kashmir,1998,317439.0,5325.0,0.02,maize
+Jammu and Kashmir,1999,317324.0,471210.0,1.48,maize
+Jammu and Kashmir,2000,330208.0,525800.0,1.59,maize
+Jammu and Kashmir,2001,326476.0,538070.0,1.65,maize
+Jammu and Kashmir,2002,329465.0,465090.0,1.41,maize
+Jammu and Kashmir,2003,321189.0,532620.0,1.66,maize
+Jammu and Kashmir,2004,322699.0,492270.0,1.53,maize
+Jammu and Kashmir,2005,320924.0,453450.0,1.41,maize
+Jammu and Kashmir,2006,323598.0,486900.0,1.5,maize
+Jammu and Kashmir,2007,302445.0,474494.0,1.57,maize
+Jammu and Kashmir,2009,311022.0,486988.0,1.57,maize
+Jammu and Kashmir,2010,308215.0,527690.0,1.71,maize
+Jammu and Kashmir,2011,314034.0,504995.0,1.61,maize
+Jammu and Kashmir,2012,310909.0,512296.0,1.65,maize
+Jammu and Kashmir,2014,297496.0,359960.0,1.21,maize
+Jammu and Kashmir,2015,293858.0,523609.0,1.78,maize
+Jammu and Kashmir,2016,295174.0,541120.0,1.83,maize
+Jammu and Kashmir,2017,302516.0,546169.0,1.81,maize
+Jammu and Kashmir,2018,262353.0,574380.0,2.19,maize
+Jammu and Kashmir,2019,268669.0,541451.0,2.02,maize
+Jharkhand,1997,96160.0,108442.0,1.13,maize
+Jharkhand,1998,92287.0,118569.0,1.28,maize
+Jharkhand,1999,99709.0,134674.0,1.35,maize
+Jharkhand,2002,62780.0,74310.0,1.18,maize
+Jharkhand,2003,89592.0,136370.0,1.52,maize
+Jharkhand,2004,92036.0,133581.0,1.45,maize
+Jharkhand,2005,74754.0,77410.0,1.04,maize
+Jharkhand,2006,75713.0,116029.0,1.53,maize
+Jharkhand,2007,76327.0,93851.0,1.23,maize
+Jharkhand,2008,72914.0,77225.0,1.06,maize
+Jharkhand,2009,60448.0,54087.0,0.89,maize
+Jharkhand,2011,65931.0,92140.0,1.4,maize
+Jharkhand,2012,93589.0,118472.0,1.27,maize
+Jharkhand,2013,85854.0,136388.0,1.59,maize
+Jharkhand,2014,106524.0,230750.0,2.17,maize
+Jharkhand,2015,118741.0,115121.0,0.97,maize
+Jharkhand,2016,124673.0,270738.0,2.17,maize
+Jharkhand,2017,294698.0,596732.0,2.02,maize
+Jharkhand,2018,261089.0,455316.0,1.74,maize
+Jharkhand,2019,256771.0,510928.0,1.99,maize
+Jharkhand,2020,298149.0,651837.0,2.19,maize
+Jharkhand,2021,284749.0,635251.0,2.23,maize
+Jharkhand,2022,240053.0,458372.0,1.91,maize
+Karnataka,1997,561371.0,1510957.0,2.69,maize
+Karnataka,1998,512368.0,1671292.0,3.26,maize
+Karnataka,1999,606387.0,1603392.0,2.64,maize
+Karnataka,2000,668855.0,2135644.0,3.19,maize
+Karnataka,2001,580035.0,1451587.0,2.5,maize
+Karnataka,2002,649544.0,1342942.0,2.07,maize
+Karnataka,2003,618173.0,1209900.0,1.96,maize
+Karnataka,2004,850369.0,2509349.0,2.95,maize
+Karnataka,2005,935854.0,2806523.0,3.0,maize
+Karnataka,2006,960532.0,2641529.0,2.75,maize
+Karnataka,2007,1112797.0,3276031.0,2.94,maize
+Karnataka,2008,1068302.0,2956302.0,2.77,maize
+Karnataka,2009,1240477.0,2924996.0,2.36,maize
+Karnataka,2010,1286436.0,4334623.0,3.37,maize
+Karnataka,2011,1349384.0,3887917.0,2.88,maize
+Karnataka,2012,1321634.0,3475973.0,2.63,maize
+Karnataka,2013,1377168.0,4356364.0,3.16,maize
+Karnataka,2014,1337084.0,4213579.0,3.15,maize
+Karnataka,2015,1220291.0,3310473.0,2.71,maize
+Karnataka,2016,1370203.0,3314286.0,2.42,maize
+Karnataka,2017,1307008.0,5610665.0,4.29,maize
+Karnataka,2018,1409290.0,3792811.0,2.69,maize
+Karnataka,2019,1500391.0,4745711.0,3.16,maize
+Karnataka,2020,1727010.0,6371700.0,3.69,maize
+Karnataka,2021,1717192.0,5628170.0,3.28,maize
+Karnataka,2022,1912435.0,5911690.0,3.09,maize
+Kerala,2012,180.0,15.0,0.08,maize
+Kerala,2013,51.0,71.0,1.39,maize
+Kerala,2014,67.0,69.0,1.03,maize
+Kerala,2015,59.0,74.0,1.25,maize
+Kerala,2016,65.0,68.0,1.05,maize
+Kerala,2017,71.0,159.0,2.26,maize
+Kerala,2018,104.0,144.0,1.38,maize
+Kerala,2019,113.0,140.0,1.24,maize
+Kerala,2020,108.0,117.0,1.09,maize
+Kerala,2021,83.0,217.0,2.61,maize
+Kerala,2022,88.0,259.0,2.93,maize
+Madhya Pradesh,1997,723900.0,984800.0,1.36,maize
+Madhya Pradesh,1998,706000.0,1035500.0,1.47,maize
+Madhya Pradesh,1999,756793.0,1212065.0,1.6,maize
+Madhya Pradesh,2000,829299.0,1209947.0,1.46,maize
+Madhya Pradesh,2001,843065.0,1672641.0,1.98,maize
+Madhya Pradesh,2002,848970.0,1486546.0,1.75,maize
+Madhya Pradesh,2003,898618.0,1858342.0,2.07,maize
+Madhya Pradesh,2004,873546.0,1222964.0,1.4,maize
+Madhya Pradesh,2005,852591.0,1240520.0,1.46,maize
+Madhya Pradesh,2006,879420.0,846002.0,0.96,maize
+Madhya Pradesh,2007,841830.0,1111216.0,1.32,maize
+Madhya Pradesh,2008,826722.0,1131782.0,1.37,maize
+Madhya Pradesh,2009,812456.0,1018820.0,1.25,maize
+Madhya Pradesh,2010,837865.0,1332205.0,1.59,maize
+Madhya Pradesh,2011,848894.0,1316635.0,1.55,maize
+Madhya Pradesh,2012,854518.0,2380688.0,2.79,maize
+Madhya Pradesh,2013,851639.0,1486110.0,1.74,maize
+Madhya Pradesh,2014,1131000.0,2530000.0,2.24,maize
+Madhya Pradesh,2015,1100000.0,3138000.0,2.85,maize
+Madhya Pradesh,2016,1264000.0,4300000.0,3.4,maize
+Madhya Pradesh,2017,1352160.0,4812570.0,3.56,maize
+Madhya Pradesh,2018,1256645.0,4090669.0,3.26,maize
+Madhya Pradesh,2019,1537098.0,4489580.0,2.92,maize
+Madhya Pradesh,2020,1456477.0,4431904.0,3.04,maize
+Madhya Pradesh,2021,1400350.0,4607976.0,3.29,maize
+Madhya Pradesh,2022,1448023.0,4621042.0,3.19,maize
+Maharashtra,1997,240921.0,317295.0,1.32,maize
+Maharashtra,1998,270100.0,505500.0,1.87,maize
+Maharashtra,1999,263869.0,414473.0,1.57,maize
+Maharashtra,2000,328700.0,303600.0,0.92,maize
+Maharashtra,2001,326100.0,586910.0,1.8,maize
+Maharashtra,2002,371200.0,743300.0,2.0,maize
+Maharashtra,2003,369700.0,752100.0,2.03,maize
+Maharashtra,2004,431600.0,757800.0,1.76,maize
+Maharashtra,2005,469500.0,988800.0,2.11,maize
+Maharashtra,2006,580200.0,1150000.0,1.98,maize
+Maharashtra,2007,671500.0,1789800.0,2.67,maize
+Maharashtra,2008,645500.0,1544200.0,2.39,maize
+Maharashtra,2009,794500.0,1828000.0,2.3,maize
+Maharashtra,2010,890500.0,2602000.0,2.92,maize
+Maharashtra,2011,877300.0,2457600.0,2.8,maize
+Maharashtra,2012,821900.0,1826400.0,2.22,maize
+Maharashtra,2013,946500.0,3123800.0,3.3,maize
+Maharashtra,2014,1076200.0,2201200.0,2.05,maize
+Maharashtra,2015,1066890.0,1659870.0,1.56,maize
+Maharashtra,2016,1053425.0,3328691.0,3.16,maize
+Maharashtra,2017,1063526.0,3125403.0,2.94,maize
+Maharashtra,2018,926507.0,1765394.0,1.91,maize
+Maharashtra,2019,1126657.0,1959989.0,1.74,maize
+Maharashtra,2020,1203134.0,3588035.0,2.98,maize
+Maharashtra,2021,1251030.0,3584951.0,2.87,maize
+Maharashtra,2022,1313836.0,3888162.0,2.96,maize
+Manipur,1997,6.0,23.0,3.83,maize
+Manipur,1998,2960.0,10090.0,3.41,maize
+Manipur,1999,4340.0,10710.0,2.47,maize
+Manipur,2000,4670.0,10860.0,2.33,maize
+Manipur,2001,5060.0,10090.0,1.99,maize
+Manipur,2002,3540.0,8270.0,2.34,maize
+Manipur,2003,2340.0,7530.0,3.22,maize
+Manipur,2004,3220.0,8900.0,2.76,maize
+Manipur,2005,2850.0,7940.0,2.79,maize
+Manipur,2006,3340.0,8270.0,2.48,maize
+Manipur,2007,2960.0,8450.0,2.85,maize
+Manipur,2008,20230.0,35380.0,1.75,maize
+Manipur,2009,31800.0,57120.0,1.8,maize
+Manipur,2010,22370.0,41510.0,1.86,maize
+Manipur,2011,24850.0,46000.0,1.85,maize
+Manipur,2012,19440.0,44470.0,2.29,maize
+Manipur,2013,25900.0,57940.0,2.24,maize
+Manipur,2014,26190.0,58750.0,2.24,maize
+Manipur,2015,26720.0,61560.0,2.3,maize
+Manipur,2016,26800.0,58800.0,2.19,maize
+Manipur,2017,26930.0,63090.0,2.34,maize
+Manipur,2018,26380.0,58160.0,2.2,maize
+Manipur,2019,2217.0,4940.0,2.23,maize
+Manipur,2020,2793.0,5431.0,1.94,maize
+Manipur,2021,22470.0,50920.0,2.27,maize
+Manipur,2022,25480.0,56560.0,2.22,maize
+Meghalaya,1997,17175.0,24878.0,1.45,maize
+Meghalaya,1998,17219.0,25272.0,1.47,maize
+Meghalaya,1999,16637.0,24051.0,1.45,maize
+Meghalaya,2000,16906.0,24250.0,1.43,maize
+Meghalaya,2001,16866.0,25247.0,1.5,maize
+Meghalaya,2002,16922.0,25879.0,1.53,maize
+Meghalaya,2003,16900.0,25929.0,1.53,maize
+Meghalaya,2004,16875.0,24000.0,1.42,maize
+Meghalaya,2005,16898.0,24424.0,1.45,maize
+Meghalaya,2006,17039.0,25334.0,1.49,maize
+Meghalaya,2007,17048.0,25138.0,1.47,maize
+Meghalaya,2008,17117.0,25716.0,1.5,maize
+Meghalaya,2009,17209.0,26167.0,1.52,maize
+Meghalaya,2010,17276.0,26500.0,1.53,maize
+Meghalaya,2011,17303.0,26939.0,1.56,maize
+Meghalaya,2012,18015.0,38732.0,2.15,maize
+Meghalaya,2013,18025.0,39655.0,2.2,maize
+Meghalaya,2014,18037.0,40764.0,2.26,maize
+Meghalaya,2015,18056.0,41242.0,2.28,maize
+Meghalaya,2016,18128.0,41543.0,2.29,maize
+Meghalaya,2017,18152.0,41624.0,2.29,maize
+Meghalaya,2018,18163.0,41667.0,2.29,maize
+Meghalaya,2019,18174.0,41760.0,2.3,maize
+Meghalaya,2020,18185.0,41826.0,2.3,maize
+Meghalaya,2021,18196.0,41892.0,2.3,maize
+Meghalaya,2022,19482.0,44131.0,2.27,maize
+Mizoram,1997,8260.0,16499.0,2.0,maize
+Mizoram,1998,8681.0,16589.0,1.91,maize
+Mizoram,1999,5277.0,9702.0,1.84,maize
+Mizoram,2000,6643.0,16436.0,2.47,maize
+Mizoram,2001,7377.0,16645.0,2.26,maize
+Mizoram,2002,7489.0,14879.0,1.99,maize
+Mizoram,2003,10481.0,20282.0,1.94,maize
+Mizoram,2004,10504.0,19787.0,1.88,maize
+Mizoram,2005,11742.0,22703.0,1.93,maize
+Mizoram,2006,10775.0,20969.0,1.95,maize
+Mizoram,2007,7328.0,729.0,0.1,maize
+Mizoram,2008,9558.0,9318.0,0.97,maize
+Mizoram,2009,8551.0,11510.0,1.35,maize
+Mizoram,2010,9005.0,13500.0,1.5,maize
+Mizoram,2011,6905.0,8398.0,1.22,maize
+Mizoram,2012,6175.0,8064.0,1.31,maize
+Mizoram,2013,5793.0,8221.0,1.42,maize
+Mizoram,2014,5695.0,8624.0,1.51,maize
+Mizoram,2015,5877.0,10295.0,1.75,maize
+Mizoram,2016,5779.0,8911.0,1.54,maize
+Mizoram,2017,5979.0,9470.0,1.58,maize
+Mizoram,2018,6163.0,10970.0,1.78,maize
+Mizoram,2019,6353.0,11668.0,1.84,maize
+Mizoram,2020,6946.0,12556.0,1.81,maize
+Mizoram,2021,6645.0,11316.0,1.7,maize
+Mizoram,2022,11546.0,19322.0,1.67,maize
+Nagaland,1997,30000.0,30000.0,1.0,maize
+Nagaland,1998,30000.0,37000.0,1.23,maize
+Nagaland,1999,32050.0,42350.0,1.32,maize
+Nagaland,2000,35000.0,52500.0,1.5,maize
+Nagaland,2001,45000.0,90000.0,2.0,maize
+Nagaland,2002,40000.0,80000.0,2.0,maize
+Nagaland,2003,45140.0,78260.0,1.73,maize
+Nagaland,2004,46400.0,83500.0,1.8,maize
+Nagaland,2005,51600.0,92880.0,1.8,maize
+Nagaland,2006,64700.0,108340.0,1.67,maize
+Nagaland,2007,63640.0,115330.0,1.81,maize
+Nagaland,2008,64400.0,115920.0,1.8,maize
+Nagaland,2009,68100.0,73190.0,1.07,maize
+Nagaland,2010,68430.0,134000.0,1.96,maize
+Nagaland,2011,68520.0,134300.0,1.96,maize
+Nagaland,2012,68670.0,134650.0,1.96,maize
+Nagaland,2013,68780.0,135440.0,1.97,maize
+Nagaland,2014,68820.0,135940.0,1.98,maize
+Nagaland,2015,68910.0,136360.0,1.98,maize
+Nagaland,2016,68960.0,136540.0,1.98,maize
+Nagaland,2017,69010.0,136780.0,1.98,maize
+Nagaland,2018,69070.0,136900.0,1.98,maize
+Nagaland,2019,69130.0,137160.0,1.98,maize
+Nagaland,2020,69190.0,137530.0,1.99,maize
+Nagaland,2021,40554.0,63475.0,1.57,maize
+Nagaland,2022,44412.0,88931.0,2.0,maize
+Odisha,1997,52657.0,64445.0,1.22,maize
+Odisha,1998,50923.0,66353.0,1.3,maize
+Odisha,1999,173600.0,216650.0,1.25,maize
+Odisha,2000,54371.0,68865.0,1.27,maize
+Odisha,2001,51428.0,46655.0,0.91,maize
+Odisha,2002,43100.0,42399.0,0.98,maize
+Odisha,2003,69309.0,96925.0,1.4,maize
+Odisha,2004,62338.0,102283.0,1.64,maize
+Odisha,2005,63587.0,101900.0,1.6,maize
+Odisha,2006,61270.0,102836.0,1.68,maize
+Odisha,2007,74069.0,147167.0,1.99,maize
+Odisha,2008,67017.0,134687.0,2.01,maize
+Odisha,2009,81158.0,175010.0,2.16,maize
+Odisha,2010,117176.0,298811.0,2.55,maize
+Odisha,2011,102862.0,212187.0,2.06,maize
+Odisha,2012,94481.0,227469.0,2.41,maize
+Odisha,2013,95130.0,263627.0,2.77,maize
+Odisha,2014,91664.0,188199.0,2.05,maize
+Odisha,2015,55587.0,110977.0,2.0,maize
+Odisha,2016,72390.0,204666.0,2.83,maize
+Odisha,2017,46942.0,117949.0,2.51,maize
+Odisha,2018,52048.0,120957.0,2.32,maize
+Odisha,2019,65070.0,189011.0,2.9,maize
+Odisha,2020,77926.0,226639.0,2.91,maize
+Odisha,2021,102435.0,284716.0,2.78,maize
+Odisha,2022,84293.0,251240.0,2.98,maize
+Punjab,1997,165000.0,345000.0,2.09,maize
+Punjab,1998,154000.0,352000.0,2.29,maize
+Punjab,1999,162000.0,417000.0,2.57,maize
+Punjab,2000,165000.0,461000.0,2.79,maize
+Punjab,2001,165000.0,449000.0,2.72,maize
+Punjab,2002,152000.0,310000.0,2.04,maize
+Punjab,2003,154000.0,459000.0,2.98,maize
+Punjab,2004,154000.0,422000.0,2.74,maize
+Punjab,2005,148000.0,403000.0,2.72,maize
+Punjab,2006,154000.0,481000.0,3.12,maize
+Punjab,2007,153000.0,521000.0,3.41,maize
+Punjab,2008,151000.0,514000.0,3.4,maize
+Punjab,2009,139000.0,475000.0,3.42,maize
+Punjab,2010,133000.0,491000.0,3.69,maize
+Punjab,2011,126000.0,502000.0,3.98,maize
+Punjab,2012,131000.0,483000.0,3.69,maize
+Punjab,2013,130000.0,507000.0,3.9,maize
+Punjab,2014,126000.0,460000.0,3.65,maize
+Punjab,2015,115000.0,424000.0,3.69,maize
+Punjab,2016,116000.0,445000.0,3.84,maize
+Punjab,2017,114000.0,423000.0,3.71,maize
+Punjab,2018,109200.0,395900.0,3.63,maize
+Punjab,2019,114600.0,410500.0,3.58,maize
+Punjab,2020,108100.0,396400.0,3.67,maize
+Punjab,2021,105300.0,414000.0,3.93,maize
+Punjab,2022,93300.0,409900.0,4.39,maize
+Rajasthan,1997,968700.0,1222300.0,1.26,maize
+Rajasthan,1998,946350.0,1022458.0,1.08,maize
+Rajasthan,1999,933578.0,968657.0,1.04,maize
+Rajasthan,2000,969898.0,1015326.0,1.05,maize
+Rajasthan,2001,1017433.0,1478871.0,1.45,maize
+Rajasthan,2002,983553.0,870264.0,0.88,maize
+Rajasthan,2003,1110655.0,2069387.0,1.86,maize
+Rajasthan,2004,1042511.0,1265243.0,1.21,maize
+Rajasthan,2005,1004963.0,1103841.0,1.1,maize
+Rajasthan,2006,1032079.0,1117941.0,1.08,maize
+Rajasthan,2007,1055538.0,1961513.0,1.86,maize
+Rajasthan,2008,1053878.0,1831110.0,1.74,maize
+Rajasthan,2009,1100216.0,1144716.0,1.04,maize
+Rajasthan,2010,1147191.0,2061424.0,1.8,maize
+Rajasthan,2011,1045591.0,1651649.0,1.58,maize
+Rajasthan,2012,986158.0,1858202.0,1.88,maize
+Rajasthan,2013,926697.0,1477504.0,1.59,maize
+Rajasthan,2014,904271.0,1565588.0,1.73,maize
+Rajasthan,2015,881103.0,1156675.0,1.31,maize
+Rajasthan,2016,937251.0,1404164.0,1.5,maize
+Rajasthan,2017,870123.0,1763557.0,2.03,maize
+Rajasthan,2018,857172.0,1913130.0,2.23,maize
+Rajasthan,2019,891115.0,1155671.0,1.3,maize
+Rajasthan,2020,993201.0,2735186.0,2.75,maize
+Rajasthan,2021,951797.0,1984572.0,2.09,maize
+Rajasthan,2022,956861.0,2122619.0,2.22,maize
+Sikkim,1997,39393.0,55710.0,1.41,maize
+Sikkim,1998,39383.0,53800.0,1.37,maize
+Sikkim,1999,39093.0,52834.0,1.35,maize
+Sikkim,2000,39903.0,59611.0,1.49,maize
+Sikkim,2001,40110.0,57014.0,1.42,maize
+Sikkim,2002,36720.0,53210.0,1.45,maize
+Sikkim,2003,36700.0,57050.0,1.55,maize
+Sikkim,2004,36700.0,58280.0,1.59,maize
+Sikkim,2005,25450.0,61100.0,2.4,maize
+Sikkim,2006,40850.0,64890.0,1.59,maize
+Sikkim,2007,39770.0,59120.0,1.49,maize
+Sikkim,2008,39200.0,65740.0,1.68,maize
+Sikkim,2009,39500.0,64690.0,1.64,maize
+Sikkim,2010,40170.0,276023.0,6.87,maize
+Sikkim,2011,39950.0,66210.0,1.66,maize
+Sikkim,2012,39970.0,67950.0,1.7,maize
+Sikkim,2013,39930.0,68825.0,1.72,maize
+Sikkim,2014,39880.0,68890.0,1.73,maize
+Sikkim,2015,38955.0,68310.0,1.75,maize
+Sikkim,2016,38498.0,67992.0,1.77,maize
+Sikkim,2017,38458.0,67968.0,1.77,maize
+Sikkim,2018,37778.0,66789.0,1.77,maize
+Sikkim,2019,38387.0,67908.0,1.77,maize
+Sikkim,2020,38390.0,67938.0,1.77,maize
+Sikkim,2021,38278.0,67864.0,1.77,maize
+Sikkim,2022,37523.0,67046.0,1.79,maize
+Tamil Nadu,1997,58044.0,94940.0,1.64,maize
+Tamil Nadu,1998,70179.0,111983.0,1.6,maize
+Tamil Nadu,1999,115803.0,183765.0,1.59,maize
+Tamil Nadu,2000,119802.0,193854.0,1.62,maize
+Tamil Nadu,2002,121057.0,191646.0,1.58,maize
+Tamil Nadu,2003,160159.0,250992.0,1.57,maize
+Tamil Nadu,2004,189893.0,294717.0,1.55,maize
+Tamil Nadu,2005,202830.0,,,maize
+Tamil Nadu,2006,197782.0,759112.0,3.84,maize
+Tamil Nadu,2007,223428.0,810057.0,3.63,maize
+Tamil Nadu,2008,286639.0,1257882.0,4.39,maize
+Tamil Nadu,2009,244159.0,1138126.0,4.66,maize
+Tamil Nadu,2010,230489.0,1027536.0,4.46,maize
+Tamil Nadu,2011,280629.0,1695467.0,6.04,maize
+Tamil Nadu,2012,291052.0,946363.0,3.25,maize
+Tamil Nadu,2013,380429.0,2245216.0,5.9,maize
+Tamil Nadu,2014,321952.0,2647751.0,8.22,maize
+Tamil Nadu,2015,355064.0,2532330.0,7.13,maize
+Tamil Nadu,2016,315030.0,953377.0,3.03,maize
+Tamil Nadu,2017,324518.0,2591632.0,7.99,maize
+Tamil Nadu,2018,390602.0,2834437.0,7.26,maize
+Tamil Nadu,2019,333565.0,2614747.0,7.84,maize
+Tamil Nadu,2020,400210.0,2564800.0,6.41,maize
+Tamil Nadu,2021,400076.0,2826744.0,7.07,maize
+Tamil Nadu,2022,426701.0,2989945.0,7.01,maize
+Telangana,1997,345500.0,939700.0,2.72,maize
+Telangana,1998,353600.0,1229900.0,3.48,maize
+Telangana,1999,393368.0,1249909.0,3.18,maize
+Telangana,2000,449286.0,1279909.0,2.85,maize
+Telangana,2001,370100.0,1185633.0,3.2,maize
+Telangana,2002,450836.0,1162574.0,2.58,maize
+Telangana,2003,599383.0,1981817.0,3.31,maize
+Telangana,2004,532117.0,1351308.0,2.54,maize
+Telangana,2005,638134.0,2339296.0,3.67,maize
+Telangana,2006,591470.0,1626326.0,2.75,maize
+Telangana,2007,604000.0,2873000.0,4.76,maize
+Telangana,2008,600605.0,2193334.0,3.65,maize
+Telangana,2009,569280.0,1366030.0,2.4,maize
+Telangana,2010,510026.0,2068560.0,4.06,maize
+Telangana,2011,591349.0,1892475.0,3.2,maize
+Telangana,2012,664000.0,2945000.0,4.44,maize
+Telangana,2013,750219.0,3511493.0,4.68,maize
+Telangana,2014,691471.0,2308051.0,3.34,maize
+Telangana,2015,572794.0,1751074.0,3.06,maize
+Telangana,2016,801822.0,2882475.0,3.59,maize
+Telangana,2017,630457.0,2752147.0,4.37,maize
+Telangana,2018,543066.0,2082991.0,3.84,maize
+Telangana,2019,643253.0,3643686.0,5.66,maize
+Telangana,2020,258904.0,1755370.0,6.78,maize
+Telangana,2021,517926.0,3008035.0,5.81,maize
+Telangana,2022,515522.0,2864595.0,5.56,maize
+Tripura,1998,2320.0,1730.0,0.75,maize
+Tripura,1999,1250.0,1000.0,0.8,maize
+Tripura,2000,1580.0,1580.0,1.0,maize
+Tripura,2001,2080.0,2080.0,1.0,maize
+Tripura,2002,2305.0,2205.0,0.96,maize
+Tripura,2003,2240.0,2150.0,0.96,maize
+Tripura,2004,2790.0,2967.0,1.06,maize
+Tripura,2005,2150.0,2100.0,0.98,maize
+Tripura,2006,2450.0,2420.0,0.99,maize
+Tripura,2007,2123.0,2125.0,1.0,maize
+Tripura,2008,2093.0,2046.0,0.98,maize
+Tripura,2009,2018.0,2030.0,1.01,maize
+Tripura,2010,3101.0,4104.0,1.32,maize
+Tripura,2011,3743.0,5058.0,1.35,maize
+Tripura,2012,3948.0,5177.0,1.31,maize
+Tripura,2013,4549.0,5805.0,1.28,maize
+Tripura,2014,4519.0,5963.0,1.32,maize
+Tripura,2015,8746.0,12177.0,1.39,maize
+Tripura,2016,14696.0,20495.0,1.39,maize
+Tripura,2017,15736.0,22473.0,1.43,maize
+Tripura,2018,15982.0,22695.0,1.42,maize
+Tripura,2019,14635.0,22975.0,1.57,maize
+Tripura,2020,21784.0,42748.0,1.96,maize
+Tripura,2021,19704.0,40315.0,2.05,maize
+Tripura,2022,14718.0,34409.0,2.34,maize
+Uttar Pradesh,1997,992031.0,1556503.0,1.57,maize
+Uttar Pradesh,1998,970662.0,980947.0,1.01,maize
+Uttar Pradesh,1999,933168.0,1351936.0,1.45,maize
+Uttar Pradesh,2000,920841.0,1494054.0,1.62,maize
+Uttar Pradesh,2001,931137.0,1516580.0,1.63,maize
+Uttar Pradesh,2002,775198.0,858474.0,1.11,maize
+Uttar Pradesh,2003,842198.0,1151541.0,1.37,maize
+Uttar Pradesh,2004,845907.0,1314145.0,1.55,maize
+Uttar Pradesh,2005,810306.0,1040607.0,1.28,maize
+Uttar Pradesh,2006,871633.0,1163852.0,1.34,maize
+Uttar Pradesh,2007,837645.0,1208944.0,1.44,maize
+Uttar Pradesh,2008,798882.0,1198846.0,1.5,maize
+Uttar Pradesh,2009,708681.0,1038841.0,1.47,maize
+Uttar Pradesh,2010,753722.0,1113504.0,1.48,maize
+Uttar Pradesh,2011,787401.0,1308298.0,1.66,maize
+Uttar Pradesh,2012,735999.0,1368747.0,1.86,maize
+Uttar Pradesh,2013,766946.0,1432075.0,1.87,maize
+Uttar Pradesh,2014,715753.0,1279257.0,1.79,maize
+Uttar Pradesh,2015,703200.0,1303866.0,1.85,maize
+Uttar Pradesh,2016,806480.0,1524658.0,1.89,maize
+Uttar Pradesh,2017,724343.0,1598893.0,2.21,maize
+Uttar Pradesh,2018,733025.0,1524873.0,2.08,maize
+Uttar Pradesh,2019,729073.0,1804132.0,2.47,maize
+Uttar Pradesh,2020,772611.0,1817350.0,2.35,maize
+Uttar Pradesh,2021,885861.0,1915809.0,2.16,maize
+Uttar Pradesh,2022,891000.0,1952255.0,2.19,maize
+Uttarakhand,1997,35946.0,58333.0,1.62,maize
+Uttarakhand,1998,35683.0,42650.0,1.2,maize
+Uttarakhand,1999,34013.0,45593.0,1.34,maize
+Uttarakhand,2000,33530.0,48401.0,1.44,maize
+Uttarakhand,2001,33063.0,40865.0,1.24,maize
+Uttarakhand,2002,28588.0,32254.0,1.13,maize
+Uttarakhand,2003,31346.0,47670.0,1.52,maize
+Uttarakhand,2004,29575.0,45114.0,1.53,maize
+Uttarakhand,2005,31461.0,39917.0,1.27,maize
+Uttarakhand,2006,27244.0,35981.0,1.32,maize
+Uttarakhand,2007,28082.0,43792.0,1.56,maize
+Uttarakhand,2008,26872.0,36437.0,1.36,maize
+Uttarakhand,2009,26166.0,36191.0,1.38,maize
+Uttarakhand,2010,26257.0,40624.0,1.55,maize
+Uttarakhand,2011,25519.0,38378.0,1.5,maize
+Uttarakhand,2012,26147.0,38803.0,1.48,maize
+Uttarakhand,2013,23582.0,33830.0,1.43,maize
+Uttarakhand,2014,23793.0,49215.0,2.07,maize
+Uttarakhand,2015,22166.0,38208.0,1.72,maize
+Uttarakhand,2016,21782.0,36782.0,1.69,maize
+Uttarakhand,2017,20872.0,42659.0,2.04,maize
+Uttarakhand,2018,21384.0,40273.0,1.88,maize
+Uttarakhand,2019,21555.0,41314.0,1.92,maize
+Uttarakhand,2020,19895.0,41538.0,2.09,maize
+Uttarakhand,2021,20280.0,50687.0,2.5,maize
+Uttarakhand,2022,17316.0,39811.0,2.3,maize
+West Bengal,1997,35469.0,130390.0,3.68,maize
+West Bengal,1998,38519.0,121161.0,3.15,maize
+West Bengal,1999,35129.0,69682.0,1.98,maize
+West Bengal,2000,35267.0,88264.0,2.5,maize
+West Bengal,2001,33288.0,86409.0,2.6,maize
+West Bengal,2002,27724.0,55300.0,1.99,maize
+West Bengal,2003,55530.0,126059.0,2.27,maize
+West Bengal,2004,64629.0,190546.0,2.95,maize
+West Bengal,2005,71753.0,207252.0,2.89,maize
+West Bengal,2006,85446.0,253505.0,2.97,maize
+West Bengal,2007,77173.0,244373.0,3.17,maize
+West Bengal,2008,90774.0,343434.0,3.78,maize
+West Bengal,2009,97716.0,385219.0,3.94,maize
+West Bengal,2010,88648.0,352316.0,3.97,maize
+West Bengal,2011,97838.0,364128.0,3.72,maize
+West Bengal,2012,123012.0,461411.0,3.75,maize
+West Bengal,2013,143904.0,620481.0,4.31,maize
+West Bengal,2014,151797.0,649884.0,4.28,maize
+West Bengal,2015,153117.0,662434.0,4.33,maize
+West Bengal,2016,163455.0,753280.0,4.61,maize
+West Bengal,2017,245228.0,1423417.0,5.8,maize
+West Bengal,2018,264302.0,1732881.0,6.56,maize
+West Bengal,2019,362384.0,2447545.0,6.75,maize
+West Bengal,2020,360810.0,2577644.0,7.14,maize
+West Bengal,2021,361339.0,2525490.0,6.99,maize
+West Bengal,2022,362102.0,2289856.0,6.32,maize
+Andaman and Nicobar Islands,2000,10881.0,32184.0,2.96,rice
+Andaman and Nicobar Islands,2001,9801.0,27333.0,2.79,rice
+Andaman and Nicobar Islands,2002,10885.0,32112.0,2.95,rice
+Andaman and Nicobar Islands,2003,10561.0,30851.0,2.92,rice
+Andaman and Nicobar Islands,2004,10735.0,29192.0,2.72,rice
+Andaman and Nicobar Islands,2005,8685.0,25883.0,2.98,rice
+Andaman and Nicobar Islands,2006,7776.0,21535.0,2.77,rice
+Andaman and Nicobar Islands,2010,8390.0,23916.0,2.85,rice
+Andaman and Nicobar Islands,2011,8100.0,15984.0,1.97,rice
+Andaman and Nicobar Islands,2012,7850.0,14333.0,1.83,rice
+Andaman and Nicobar Islands,2013,8005.0,16246.0,2.03,rice
+Andaman and Nicobar Islands,2014,6435.0,13119.0,2.04,rice
+Andaman and Nicobar Islands,2015,6100.0,13678.0,2.24,rice
+Andaman and Nicobar Islands,2016,4876.0,12594.0,2.58,rice
+Andaman and Nicobar Islands,2017,5341.0,11230.0,2.1,rice
+Andaman and Nicobar Islands,2018,5391.0,11440.0,2.12,rice
+Andaman and Nicobar Islands,2019,5701.0,17981.0,3.15,rice
+Andaman and Nicobar Islands,2022,4990.0,10523.0,2.11,rice
+Andhra Pradesh,1997,2565400.0,6436200.0,2.51,rice
+Andhra Pradesh,1998,2780100.0,7687800.0,2.77,rice
+Andhra Pradesh,1999,2634246.0,7362441.0,2.79,rice
+Andhra Pradesh,2000,2694741.0,8040667.0,2.98,rice
+Andhra Pradesh,2001,2515353.0,7823692.0,3.11,rice
+Andhra Pradesh,2002,1867142.0,5315408.0,2.85,rice
+Andhra Pradesh,2003,1957323.0,6054099.0,3.09,rice
+Andhra Pradesh,2004,2227682.0,7392678.0,3.32,rice
+Andhra Pradesh,2005,2520723.0,7288721.0,2.89,rice
+Andhra Pradesh,2006,2488883.0,7616392.0,3.06,rice
+Andhra Pradesh,2007,2576000.0,8880000.0,3.45,rice
+Andhra Pradesh,2008,2695725.0,8880586.0,3.29,rice
+Andhra Pradesh,2009,2325729.0,7569071.0,3.25,rice
+Andhra Pradesh,2010,2772377.0,7883078.0,2.84,rice
+Andhra Pradesh,2011,2346300.0,7744175.0,3.3,rice
+Andhra Pradesh,2012,2210000.0,6863000.0,3.11,rice
+Andhra Pradesh,2013,2583440.0,7993425.0,3.09,rice
+Andhra Pradesh,2014,2393955.0,8455584.0,3.53,rice
+Andhra Pradesh,2015,2160795.0,7518271.0,3.48,rice
+Andhra Pradesh,2016,2105019.0,8002337.0,3.8,rice
+Andhra Pradesh,2017,2218186.0,8461342.0,3.81,rice
+Andhra Pradesh,2018,2208304.0,8234539.0,3.73,rice
+Andhra Pradesh,2019,2355982.0,9140091.0,3.88,rice
+Andhra Pradesh,2020,2551588.0,8725689.0,3.42,rice
+Andhra Pradesh,2021,2484615.0,8416915.0,3.39,rice
+Andhra Pradesh,2022,2129089.0,8419934.0,3.95,rice
+Arunachal Pradesh,1997,120020.0,129505.0,1.08,rice
+Arunachal Pradesh,1998,115481.0,114116.0,0.99,rice
+Arunachal Pradesh,1999,122740.0,134807.0,1.1,rice
+Arunachal Pradesh,2000,118601.0,132690.0,1.12,rice
+Arunachal Pradesh,2001,119455.0,134621.0,1.13,rice
+Arunachal Pradesh,2002,124584.0,152500.0,1.22,rice
+Arunachal Pradesh,2003,119205.0,154589.0,1.3,rice
+Arunachal Pradesh,2004,121642.0,134950.0,1.11,rice
+Arunachal Pradesh,2005,122267.0,146191.0,1.2,rice
+Arunachal Pradesh,2006,123038.0,144635.0,1.18,rice
+Arunachal Pradesh,2007,124029.0,158146.0,1.28,rice
+Arunachal Pradesh,2008,126799.0,164538.0,1.3,rice
+Arunachal Pradesh,2009,121468.0,143895.0,1.18,rice
+Arunachal Pradesh,2010,121570.0,155993.0,1.28,rice
+Arunachal Pradesh,2011,123500.0,159543.0,1.29,rice
+Arunachal Pradesh,2012,126085.0,174662.0,1.39,rice
+Arunachal Pradesh,2013,131989.0,184104.0,1.39,rice
+Arunachal Pradesh,2014,127200.0,189992.0,1.49,rice
+Arunachal Pradesh,2015,128800.0,204001.0,1.58,rice
+Arunachal Pradesh,2016,131000.0,220000.0,1.68,rice
+Arunachal Pradesh,2017,132000.0,233333.0,1.77,rice
+Arunachal Pradesh,2018,133200.0,239999.0,1.8,rice
+Arunachal Pradesh,2019,133500.0,244741.0,1.83,rice
+Arunachal Pradesh,2020,133767.0,247023.0,1.85,rice
+Arunachal Pradesh,2021,136484.0,252378.0,1.85,rice
+Arunachal Pradesh,2022,137166.0,254396.0,1.85,rice
+Assam,1997,2525653.0,2255230.0,0.89,rice
+Assam,1998,2454122.0,3254833.0,1.33,rice
+Assam,1999,2645868.0,3860648.0,1.46,rice
+Assam,2000,2646177.0,3998443.0,1.51,rice
+Assam,2001,2536421.0,3854248.0,1.52,rice
+Assam,2002,2540680.0,3737802.0,1.47,rice
+Assam,2003,2529826.0,3880934.0,1.53,rice
+Assam,2004,2383731.0,3470750.0,1.46,rice
+Assam,2005,2420327.0,3552438.0,1.47,rice
+Assam,2006,2196559.0,2916014.0,1.33,rice
+Assam,2007,2323996.0,3318608.0,1.43,rice
+Assam,2008,2484126.0,4008435.0,1.61,rice
+Assam,2009,2497596.0,4408424.0,1.77,rice
+Assam,2010,2537455.0,5032529.0,1.98,rice
+Assam,2011,2545706.0,4715678.0,1.85,rice
+Assam,2012,2484728.0,5120052.0,2.06,rice
+Assam,2013,2503201.0,5193379.0,2.07,rice
+Assam,2014,2495297.0,5222645.0,2.09,rice
+Assam,2015,2484987.0,5125104.0,2.06,rice
+Assam,2016,2467136.0,5127435.0,2.08,rice
+Assam,2017,2433711.0,5283713.0,2.17,rice
+Assam,2018,2425178.0,5437372.0,2.24,rice
+Assam,2019,2400949.0,5214804.0,2.17,rice
+Assam,2020,2360470.0,5213852.0,2.21,rice
+Assam,2021,2353255.0,4382698.0,1.86,rice
+Assam,2022,2307992.0,6044899.0,2.62,rice
+Bihar,1997,3621326.0,5395078.0,1.49,rice
+Bihar,1998,3110887.0,4670650.0,1.5,rice
+Bihar,1999,665467.0,945254.0,1.42,rice
+Bihar,2000,3656844.0,5444370.0,1.49,rice
+Bihar,2001,3564539.0,5301221.0,1.49,rice
+Bihar,2002,3584701.0,5085566.0,1.42,rice
+Bihar,2003,3768224.0,5718627.0,1.52,rice
+Bihar,2004,3140116.0,2472156.0,0.79,rice
+Bihar,2005,3251236.0,3709285.0,1.14,rice
+Bihar,2006,3364010.0,5027947.0,1.49,rice
+Bihar,2007,3477371.0,4458764.0,1.28,rice
+Bihar,2008,3495273.0,5589982.0,1.6,rice
+Bihar,2009,3124030.0,3640210.0,1.17,rice
+Bihar,2010,2845368.0,3112618.0,1.09,rice
+Bihar,2011,3350936.0,8237971.0,2.46,rice
+Bihar,2012,3298887.0,8322010.0,2.52,rice
+Bihar,2013,3150814.0,6649589.0,2.11,rice
+Bihar,2014,3263374.0,8241624.0,2.53,rice
+Bihar,2015,3232314.0,6802216.0,2.1,rice
+Bihar,2016,3339777.0,8238773.0,2.47,rice
+Bihar,2017,3306983.0,8093161.0,2.45,rice
+Bihar,2018,3159722.0,6155529.0,1.95,rice
+Bihar,2019,3097390.0,6952518.0,2.24,rice
+Bihar,2020,3020860.0,7392718.0,2.45,rice
+Bihar,2021,3091361.0,7717303.0,2.5,rice
+Bihar,2022,2934556.0,7872851.0,2.68,rice
+Chandigarh,1998,120.0,360.0,3.0,rice
+Chandigarh,1999,80.0,240.0,3.0,rice
+Chandigarh,2000,70.0,350.0,5.0,rice
+Chandigarh,2001,50.0,250.0,5.0,rice
+Chandigarh,2002,140.0,700.0,5.0,rice
+Chandigarh,2003,100.0,500.0,5.0,rice
+Chandigarh,2004,80.0,400.0,5.0,rice
+Chandigarh,2005,50.0,250.0,5.0,rice
+Chandigarh,2006,50.0,250.0,5.0,rice
+Chandigarh,2007,50.0,250.0,5.0,rice
+Chandigarh,2008,20.0,100.0,5.0,rice
+Chandigarh,2009,20.0,100.0,5.0,rice
+Chandigarh,2010,20.0,103.0,5.15,rice
+Chandigarh,2011,20.0,103.0,5.15,rice
+Chandigarh,2012,20.0,105.0,5.25,rice
+Chandigarh,2013,20.0,106.0,5.3,rice
+Chandigarh,2014,20.0,100.0,5.0,rice
+Chandigarh,2015,20.0,103.0,5.15,rice
+Chandigarh,2016,8.0,42.0,5.25,rice
+Chandigarh,2017,10.0,55.0,5.5,rice
+Chandigarh,2018,10.0,53.0,5.3,rice
+Chandigarh,2019,80.0,440.0,5.5,rice
+Chandigarh,2020,82.0,451.0,5.5,rice
+Chandigarh,2021,82.0,451.0,5.5,rice
+Chandigarh,2022,84.0,462.0,5.5,rice
+Chhattisgarh,1998,3564700.0,2256800.0,0.63,rice
+Chhattisgarh,1999,3571519.0,4658831.0,1.3,rice
+Chhattisgarh,2000,3769746.0,2369295.0,0.63,rice
+Chhattisgarh,2001,3810112.0,5073721.0,1.33,rice
+Chhattisgarh,2002,3777661.0,2634853.0,0.7,rice
+Chhattisgarh,2003,3828992.0,5567644.0,1.45,rice
+Chhattisgarh,2004,3843825.0,4586818.0,1.19,rice
+Chhattisgarh,2005,3854352.0,5267537.0,1.37,rice
+Chhattisgarh,2006,3905319.0,5441525.0,1.39,rice
+Chhattisgarh,2007,3902881.0,5634972.0,1.44,rice
+Chhattisgarh,2008,3928815.0,4707499.0,1.2,rice
+Chhattisgarh,2009,3837610.0,4347316.0,1.13,rice
+Chhattisgarh,2010,3937796.0,6637737.0,1.69,rice
+Chhattisgarh,2011,3939826.0,6300825.0,1.6,rice
+Chhattisgarh,2012,3982172.0,7848401.0,1.97,rice
+Chhattisgarh,2013,3987721.0,7102729.0,1.78,rice
+Chhattisgarh,2014,4035700.0,7977746.0,1.98,rice
+Chhattisgarh,2015,3959746.0,5154328.0,1.3,rice
+Chhattisgarh,2016,4052587.0,8793273.0,2.17,rice
+Chhattisgarh,2017,3976626.0,5749044.0,1.45,rice
+Chhattisgarh,2018,4141378.0,6509430.0,1.57,rice
+Chhattisgarh,2019,4266022.0,8569367.0,2.01,rice
+Chhattisgarh,2020,4339258.0,9249686.0,2.13,rice
+Chhattisgarh,2021,4348231.0,8825663.0,2.03,rice
+Chhattisgarh,2022,4335202.0,11224482.0,2.59,rice
+Dadra and Nagar Haveli,1998,14506.0,24793.0,1.71,rice
+Dadra and Nagar Haveli,1999,14405.0,28692.0,1.99,rice
+Dadra and Nagar Haveli,2000,15218.0,28663.0,1.88,rice
+Dadra and Nagar Haveli,2001,13879.0,31035.0,2.24,rice
+Dadra and Nagar Haveli,2002,13683.0,38321.0,2.8,rice
+Dadra and Nagar Haveli,2003,13897.0,27933.0,2.01,rice
+Dadra and Nagar Haveli,2004,13987.0,29171.0,2.09,rice
+Dadra and Nagar Haveli,2005,13560.0,33643.0,2.48,rice
+Dadra and Nagar Haveli,2006,15402.0,34515.0,2.24,rice
+Dadra and Nagar Haveli,2007,13600.0,23700.0,1.74,rice
+Dadra and Nagar Haveli,2008,13600.0,23400.0,1.72,rice
+Dadra and Nagar Haveli,2009,12500.0,13500.0,1.08,rice
+Dadra and Nagar Haveli,2010,10800.0,20839.0,1.93,rice
+Dadra and Nagar Haveli,2011,10665.0,18552.0,1.74,rice
+Dadra and Nagar Haveli,2012,13834.0,26704.0,1.93,rice
+Dadra and Nagar Haveli,2013,13580.0,25497.0,1.88,rice
+Dadra and Nagar Haveli,2014,13866.0,25907.0,1.87,rice
+Dadra and Nagar Haveli,2015,14337.0,29598.0,2.06,rice
+Dadra and Nagar Haveli,2016,14383.0,31837.0,2.21,rice
+Dadra and Nagar Haveli,2017,14226.0,29458.0,2.07,rice
+Dadra and Nagar Haveli,2018,17600.0,39361.0,2.24,rice
+Dadra and Nagar Haveli,2019,16800.0,36282.0,2.16,rice
+Daman and Diu,2013,2000.0,3600.0,1.8,rice
+Daman and Diu,2014,1892.0,3800.0,2.01,rice
+Daman and Diu,2015,1783.0,2030.0,1.14,rice
+Daman and Diu,2016,2000.0,2571.0,1.29,rice
+Daman and Diu,2017,1783.0,2179.0,1.22,rice
+Daman and Diu,2018,1432.0,1823.0,1.27,rice
+Daman and Diu,2019,1432.0,1823.0,1.27,rice
+Delhi,2008,7039.0,19873.0,2.82,rice
+Delhi,2009,6821.0,19008.0,2.79,rice
+Delhi,2010,6848.0,19083.0,2.79,rice
+Delhi,2011,7248.0,20198.0,2.79,rice
+Delhi,2012,6068.0,19768.0,3.26,rice
+Delhi,2013,6068.0,19768.0,3.26,rice
+Delhi,2014,6035.0,17269.0,2.86,rice
+Delhi,2015,5884.0,16837.0,2.86,rice
+Delhi,2016,5973.0,17260.0,2.89,rice
+Delhi,2017,5854.0,16837.0,2.88,rice
+Delhi,2018,5848.0,16826.0,2.88,rice
+Delhi,2019,5848.0,17580.0,3.01,rice
+Goa,1997,21586.0,59916.0,2.78,rice
+Goa,2004,52442.0,145174.0,2.77,rice
+Goa,2005,52177.0,147236.0,2.82,rice
+Goa,2006,52985.0,128945.0,2.43,rice
+Goa,2007,52191.0,121679.0,2.33,rice
+Goa,2008,49326.0,121867.0,2.47,rice
+Goa,2009,47104.0,100605.0,2.14,rice
+Goa,2010,46612.0,114994.0,2.47,rice
+Goa,2011,47237.0,121991.0,2.58,rice
+Goa,2012,45830.0,122821.0,2.68,rice
+Goa,2013,42820.0,126511.0,2.95,rice
+Goa,2014,41970.0,120505.0,2.87,rice
+Goa,2015,41344.0,115068.0,2.78,rice
+Goa,2016,40823.0,113227.0,2.77,rice
+Goa,2017,38520.0,102997.0,2.67,rice
+Goa,2018,36384.0,98854.0,2.72,rice
+Goa,2019,34698.0,90375.0,2.6,rice
+Goa,2020,32677.0,87341.0,2.67,rice
+Goa,2021,32347.0,90431.0,2.8,rice
+Goa,2022,11207.0,119874.0,10.7,rice
+Gujarat,1997,672600.0,1042300.0,1.55,rice
+Gujarat,1998,622100.0,1015900.0,1.63,rice
+Gujarat,1999,664400.0,984900.0,1.48,rice
+Gujarat,2000,587400.0,483300.0,0.82,rice
+Gujarat,2001,667800.0,1040200.0,1.56,rice
+Gujarat,2002,480800.0,596400.0,1.24,rice
+Gujarat,2003,675300.0,1277000.0,1.89,rice
+Gujarat,2004,679400.0,1196500.0,1.76,rice
+Gujarat,2005,672900.0,1283600.0,1.91,rice
+Gujarat,2006,689300.0,1141200.0,1.66,rice
+Gujarat,2007,758600.0,1474200.0,1.94,rice
+Gujarat,2008,747300.0,1302900.0,1.74,rice
+Gujarat,2009,679500.0,1293000.0,1.9,rice
+Gujarat,2010,808100.0,1665800.0,2.06,rice
+Gujarat,2011,835500.0,1789700.0,2.14,rice
+Gujarat,2012,701100.0,1497300.0,2.14,rice
+Gujarat,2013,820399.0,1778090.0,2.17,rice
+Gujarat,2014,794443.0,1771583.0,2.23,rice
+Gujarat,2015,774182.0,1691864.0,2.19,rice
+Gujarat,2016,847610.0,1988471.0,2.35,rice
+Gujarat,2017,855290.0,1889809.0,2.21,rice
+Gujarat,2018,838949.0,1912015.0,2.28,rice
+Gujarat,2019,904350.0,1982633.0,2.19,rice
+Gujarat,2020,906627.0,2144309.0,2.37,rice
+Gujarat,2021,892027.0,2100773.0,2.36,rice
+Gujarat,2022,947305.0,2396262.0,2.53,rice
+Haryana,1997,913000.0,2556000.0,2.8,rice
+Haryana,1998,1086694.0,2432000.0,2.24,rice
+Haryana,1999,1083052.0,2563000.0,2.37,rice
+Haryana,2000,1054282.0,2695000.0,2.56,rice
+Haryana,2001,1027505.0,2726000.0,2.65,rice
+Haryana,2002,905651.0,2468000.0,2.73,rice
+Haryana,2003,1015191.0,2790000.0,2.75,rice
+Haryana,2004,1024236.0,3010000.0,2.94,rice
+Haryana,2005,1046588.0,3194000.0,3.05,rice
+Haryana,2006,1042036.0,3371000.0,3.24,rice
+Haryana,2007,1072545.0,3606000.0,3.36,rice
+Haryana,2008,1211149.0,3299000.0,2.72,rice
+Haryana,2009,1206435.0,3628000.0,3.01,rice
+Haryana,2010,1243281.0,3465000.0,2.79,rice
+Haryana,2011,1234094.0,3574300.0,2.9,rice
+Haryana,2012,1206255.0,3941000.0,3.27,rice
+Haryana,2013,1244000.0,4041000.0,3.25,rice
+Haryana,2014,1277000.0,3989000.0,3.12,rice
+Haryana,2015,1353000.0,4142000.0,3.06,rice
+Haryana,2016,1384700.0,4451000.0,3.21,rice
+Haryana,2017,1422100.0,4880000.0,3.43,rice
+Haryana,2018,1447000.0,4516000.0,3.12,rice
+Haryana,2019,1558900.0,5194600.0,3.33,rice
+Haryana,2020,1525690.0,5633530.0,3.69,rice
+Haryana,2021,1534539.0,5514470.0,3.59,rice
+Haryana,2022,1661280.0,5921470.0,3.56,rice
+Himachal Pradesh,1998,82125.0,116997.0,1.42,rice
+Himachal Pradesh,1999,80222.0,120365.0,1.5,rice
+Himachal Pradesh,2000,81519.0,124893.0,1.53,rice
+Himachal Pradesh,2001,80579.0,137418.0,1.71,rice
+Himachal Pradesh,2002,83273.0,85653.0,1.03,rice
+Himachal Pradesh,2003,81335.0,120624.0,1.48,rice
+Himachal Pradesh,2004,79519.0,109129.0,1.37,rice
+Himachal Pradesh,2005,79366.0,112139.0,1.41,rice
+Himachal Pradesh,2006,79206.0,123485.0,1.56,rice
+Himachal Pradesh,2007,78571.0,121453.0,1.55,rice
+Himachal Pradesh,2008,77709.0,118277.0,1.52,rice
+Himachal Pradesh,2009,76186.0,105787.0,1.39,rice
+Himachal Pradesh,2010,75426.0,110238.0,1.46,rice
+Himachal Pradesh,2011,75043.0,108648.0,1.45,rice
+Himachal Pradesh,2012,75380.0,111252.0,1.48,rice
+Himachal Pradesh,2013,73139.0,106899.0,1.46,rice
+Himachal Pradesh,2014,72380.0,116365.0,1.61,rice
+Himachal Pradesh,2015,71614.0,114670.0,1.6,rice
+Himachal Pradesh,2016,70855.0,103557.0,1.46,rice
+Himachal Pradesh,2017,71613.0,114785.0,1.6,rice
+Himachal Pradesh,2018,71810.0,114896.0,1.6,rice
+Himachal Pradesh,2019,72620.0,116879.0,1.61,rice
+Himachal Pradesh,2020,68455.0,161075.0,2.35,rice
+Himachal Pradesh,2021,66167.0,167521.0,2.53,rice
+Himachal Pradesh,2022,67299.0,130054.0,1.93,rice
+Jammu and Kashmir,1997,275746.0,5488.0,0.02,rice
+Jammu and Kashmir,1998,270341.0,5888.0,0.02,rice
+Jammu and Kashmir,1999,250625.0,391529.0,1.56,rice
+Jammu and Kashmir,2000,244051.0,415342.0,1.7,rice
+Jammu and Kashmir,2001,249830.0,422298.0,1.69,rice
+Jammu and Kashmir,2002,236199.0,421457.0,1.78,rice
+Jammu and Kashmir,2003,259815.0,504797.0,1.94,rice
+Jammu and Kashmir,2004,250044.0,492732.0,1.97,rice
+Jammu and Kashmir,2005,259014.0,556774.0,2.15,rice
+Jammu and Kashmir,2006,252516.0,554257.0,2.19,rice
+Jammu and Kashmir,2007,263246.0,561355.0,2.13,rice
+Jammu and Kashmir,2009,259892.0,500881.0,1.93,rice
+Jammu and Kashmir,2010,261347.0,507402.0,1.94,rice
+Jammu and Kashmir,2011,262169.0,544395.0,2.08,rice
+Jammu and Kashmir,2012,261663.0,545184.0,2.08,rice
+Jammu and Kashmir,2014,275861.0,344823.0,1.25,rice
+Jammu and Kashmir,2015,304503.0,646362.0,2.12,rice
+Jammu and Kashmir,2016,283443.0,572212.0,2.02,rice
+Jammu and Kashmir,2017,273582.0,663755.0,2.43,rice
+Jammu and Kashmir,2018,262012.0,615799.0,2.35,rice
+Jammu and Kashmir,2019,280513.0,587101.0,2.09,rice
+Jammu and Kashmir,2020,267580.0,581325.0,2.17,rice
+Jharkhand,1997,1490978.0,1738213.0,1.17,rice
+Jharkhand,1998,1256392.0,1322791.0,1.05,rice
+Jharkhand,1999,203637.0,163835.0,0.8,rice
+Jharkhand,2002,1059018.0,1063091.0,1.0,rice
+Jharkhand,2003,2051721.0,1943353.0,0.95,rice
+Jharkhand,2004,1134251.0,1006373.0,0.89,rice
+Jharkhand,2005,1104098.0,614027.0,0.56,rice
+Jharkhand,2006,1179218.0,1429944.0,1.21,rice
+Jharkhand,2007,1198054.0,1470624.0,1.23,rice
+Jharkhand,2008,1196859.0,1496578.0,1.25,rice
+Jharkhand,2009,983049.0,592478.0,0.6,rice
+Jharkhand,2011,982701.0,1376324.0,1.4,rice
+Jharkhand,2012,1091071.0,1422488.0,1.3,rice
+Jharkhand,2013,1087141.0,1498320.0,1.38,rice
+Jharkhand,2014,989002.0,1392785.0,1.41,rice
+Jharkhand,2015,1162489.0,762241.0,0.66,rice
+Jharkhand,2016,1342058.0,2775027.0,2.07,rice
+Jharkhand,2017,1735411.0,3421253.0,1.97,rice
+Jharkhand,2018,1527103.0,2894101.0,1.9,rice
+Jharkhand,2019,1357726.0,3612589.0,2.66,rice
+Jharkhand,2020,1750605.0,5123083.0,2.93,rice
+Jharkhand,2021,1763548.0,5365174.0,3.04,rice
+Jharkhand,2022,1878688.0,4484675.0,2.39,rice
+Karnataka,1997,1353463.0,3212602.0,2.37,rice
+Karnataka,1998,1426805.0,3656811.0,2.56,rice
+Karnataka,1999,1449796.0,3716730.0,2.56,rice
+Karnataka,2000,1483446.0,3846736.0,2.59,rice
+Karnataka,2001,1417724.0,3234045.0,2.28,rice
+Karnataka,2002,1154783.0,2390085.0,2.07,rice
+Karnataka,2003,1073899.0,2550399.0,2.37,rice
+Karnataka,2004,1308179.0,3707119.0,2.83,rice
+Karnataka,2005,1485181.0,3999246.0,2.69,rice
+Karnataka,2006,1395676.0,3645526.0,2.61,rice
+Karnataka,2007,1416316.0,3868515.0,2.73,rice
+Karnataka,2008,1513987.0,4031538.0,2.66,rice
+Karnataka,2009,1486478.0,3877405.0,2.61,rice
+Karnataka,2010,1539066.0,4473972.0,2.91,rice
+Karnataka,2011,1416135.0,4181619.0,2.95,rice
+Karnataka,2012,1278915.0,3364379.0,2.63,rice
+Karnataka,2013,1340035.0,4052599.0,3.02,rice
+Karnataka,2014,1326535.0,4027747.0,3.04,rice
+Karnataka,2015,1110045.0,3020613.0,2.72,rice
+Karnataka,2016,1034543.0,2874206.0,2.78,rice
+Karnataka,2017,992925.0,2907471.0,2.93,rice
+Karnataka,2018,1199593.0,3461982.0,2.89,rice
+Karnataka,2019,1248054.0,3947973.0,3.16,rice
+Karnataka,2020,1484002.0,4717551.0,3.18,rice
+Karnataka,2021,1456857.0,4499039.0,3.09,rice
+Karnataka,2022,1328147.0,4355516.0,3.28,rice
+Kerala,1998,352631.0,726743.0,2.06,rice
+Kerala,1999,349774.0,770686.0,2.2,rice
+Kerala,2000,347455.0,751328.0,2.16,rice
+Kerala,2001,322368.0,703504.0,2.18,rice
+Kerala,2002,310521.0,688859.0,2.22,rice
+Kerala,2003,287340.0,570045.0,1.98,rice
+Kerala,2004,289974.0,667105.0,2.3,rice
+Kerala,2005,275742.0,629987.0,2.28,rice
+Kerala,2006,263529.0,641575.0,2.43,rice
+Kerala,2007,228938.0,528488.0,2.31,rice
+Kerala,2008,234265.0,590241.0,2.52,rice
+Kerala,2009,234013.0,598339.0,2.56,rice
+Kerala,2010,213187.0,522738.0,2.45,rice
+Kerala,2011,208160.0,568993.0,2.73,rice
+Kerala,2012,197277.0,508299.0,2.58,rice
+Kerala,2013,199611.0,564325.0,2.83,rice
+Kerala,2014,198159.0,562092.0,2.84,rice
+Kerala,2015,196870.0,549275.0,2.79,rice
+Kerala,2016,171398.0,436483.0,2.55,rice
+Kerala,2017,189086.0,521310.0,2.76,rice
+Kerala,2018,198026.0,578256.0,2.92,rice
+Kerala,2019,198180.0,605541.0,3.06,rice
+Kerala,2020,201865.0,626886.0,3.11,rice
+Kerala,2021,195734.0,562098.0,2.87,rice
+Kerala,2022,190171.0,592684.0,3.12,rice
+Madhya Pradesh,1998,1874100.0,1089500.0,0.58,rice
+Madhya Pradesh,1999,1942506.0,2004938.0,1.03,rice
+Madhya Pradesh,2000,1697346.0,975274.0,0.57,rice
+Madhya Pradesh,2001,1766150.0,1685799.0,0.95,rice
+Madhya Pradesh,2002,1671107.0,1024930.0,0.61,rice
+Madhya Pradesh,2003,1708583.0,1743430.0,1.02,rice
+Madhya Pradesh,2004,1675513.0,1302615.0,0.78,rice
+Madhya Pradesh,2005,1700446.0,1687475.0,0.99,rice
+Madhya Pradesh,2006,1674013.0,1389269.0,0.83,rice
+Madhya Pradesh,2007,1634912.0,1325175.0,0.81,rice
+Madhya Pradesh,2008,1706557.0,1571103.0,0.92,rice
+Madhya Pradesh,2009,1593071.0,1355660.0,0.85,rice
+Madhya Pradesh,2010,1573535.0,1766596.0,1.12,rice
+Madhya Pradesh,2011,1693231.0,2273045.0,1.34,rice
+Madhya Pradesh,2012,1791157.0,3106146.0,1.73,rice
+Madhya Pradesh,2013,1881546.0,3321724.0,1.77,rice
+Madhya Pradesh,2014,2057000.0,3522660.0,1.71,rice
+Madhya Pradesh,2015,2027000.0,3546790.0,1.75,rice
+Madhya Pradesh,2016,2260000.0,5400540.0,2.39,rice
+Madhya Pradesh,2017,2035140.0,4899058.0,2.41,rice
+Madhya Pradesh,2018,2794020.0,5238859.0,1.88,rice
+Madhya Pradesh,2019,3110311.0,7363430.0,2.37,rice
+Madhya Pradesh,2020,3441200.0,8334979.0,2.42,rice
+Madhya Pradesh,2021,3853433.0,8795100.0,2.28,rice
+Madhya Pradesh,2022,3848061.0,13126081.0,3.41,rice
+Maharashtra,1997,1339329.0,2330646.0,1.74,rice
+Maharashtra,1998,1483100.0,2467600.0,1.66,rice
+Maharashtra,1999,1498500.0,2549300.0,1.7,rice
+Maharashtra,2000,1511500.0,1929700.0,1.28,rice
+Maharashtra,2001,1514000.0,2651200.0,1.75,rice
+Maharashtra,2002,1523300.0,1854100.0,1.22,rice
+Maharashtra,2003,1529900.0,2834100.0,1.85,rice
+Maharashtra,2004,1508700.0,2147200.0,1.42,rice
+Maharashtra,2005,1512500.0,2669000.0,1.76,rice
+Maharashtra,2006,1529300.0,2569700.0,1.68,rice
+Maharashtra,2007,1576700.0,3011500.0,1.91,rice
+Maharashtra,2008,1521500.0,2287500.0,1.5,rice
+Maharashtra,2009,1470600.0,2185800.0,1.49,rice
+Maharashtra,2010,1515700.0,2690900.0,1.78,rice
+Maharashtra,2011,1544200.0,2848900.0,1.84,rice
+Maharashtra,2012,1559000.0,3078040.0,1.97,rice
+Maharashtra,2013,1604900.0,3108290.0,1.94,rice
+Maharashtra,2014,1551200.0,2946600.0,1.9,rice
+Maharashtra,2015,1502800.0,2593100.0,1.73,rice
+Maharashtra,2016,1535370.0,3580921.0,2.33,rice
+Maharashtra,2017,1450943.0,2730800.0,1.88,rice
+Maharashtra,2018,1464986.0,3275798.0,2.24,rice
+Maharashtra,2019,1552989.0,2897433.0,1.87,rice
+Maharashtra,2020,1560549.0,3291228.0,2.11,rice
+Maharashtra,2021,1575332.0,3435461.0,2.18,rice
+Maharashtra,2022,1687443.0,3963441.0,2.35,rice
+Manipur,1997,155.0,348.0,2.25,rice
+Manipur,1998,166890.0,382190.0,2.29,rice
+Manipur,1999,157050.0,364980.0,2.32,rice
+Manipur,2000,156890.0,381750.0,2.43,rice
+Manipur,2001,162570.0,387270.0,2.38,rice
+Manipur,2002,153110.0,335700.0,2.19,rice
+Manipur,2003,157830.0,381240.0,2.42,rice
+Manipur,2004,176310.0,435930.0,2.47,rice
+Manipur,2005,166260.0,386070.0,2.32,rice
+Manipur,2006,165370.0,389170.0,2.35,rice
+Manipur,2007,166150.0,406150.0,2.44,rice
+Manipur,2008,210990.0,518250.0,2.46,rice
+Manipur,2009,113890.0,265090.0,2.33,rice
+Manipur,2010,212680.0,480240.0,2.26,rice
+Manipur,2011,223670.0,591000.0,2.64,rice
+Manipur,2012,122690.0,257580.0,2.1,rice
+Manipur,2013,222800.0,597670.0,2.68,rice
+Manipur,2014,224380.0,501980.0,2.24,rice
+Manipur,2015,237000.0,508140.0,2.14,rice
+Manipur,2016,244000.0,645600.0,2.65,rice
+Manipur,2017,236710.0,607820.0,2.57,rice
+Manipur,2018,233500.0,602430.0,2.58,rice
+Manipur,2019,175621.0,330880.0,1.88,rice
+Manipur,2020,178496.0,490676.0,2.75,rice
+Manipur,2021,200030.0,378250.0,1.89,rice
+Manipur,2022,186380.0,232820.0,1.25,rice
+Meghalaya,1997,105170.0,150101.0,1.43,rice
+Meghalaya,1998,105402.0,149742.0,1.42,rice
+Meghalaya,1999,106411.0,170733.0,1.6,rice
+Meghalaya,2000,106660.0,179042.0,1.68,rice
+Meghalaya,2001,107761.0,188971.0,1.75,rice
+Meghalaya,2002,107742.0,190937.0,1.77,rice
+Meghalaya,2003,109721.0,200703.0,1.83,rice
+Meghalaya,2004,111550.0,193719.0,1.74,rice
+Meghalaya,2005,106071.0,208277.0,1.96,rice
+Meghalaya,2006,104285.0,200209.0,1.92,rice
+Meghalaya,2007,106320.0,200077.0,1.88,rice
+Meghalaya,2008,108045.0,203862.0,1.89,rice
+Meghalaya,2009,108162.0,204129.0,1.89,rice
+Meghalaya,2010,108285.0,207021.0,1.91,rice
+Meghalaya,2011,108875.0,222731.0,2.05,rice
+Meghalaya,2012,109751.0,265653.0,2.42,rice
+Meghalaya,2013,82437.0,218701.0,2.65,rice
+Meghalaya,2014,110323.0,298238.0,2.7,rice
+Meghalaya,2015,110455.0,301076.0,2.73,rice
+Meghalaya,2016,111178.0,304518.0,2.74,rice
+Meghalaya,2017,111141.0,304548.0,2.74,rice
+Meghalaya,2018,110932.0,302970.0,2.73,rice
+Meghalaya,2019,110997.0,303476.0,2.73,rice
+Meghalaya,2020,107597.0,295849.0,2.75,rice
+Meghalaya,2021,94833.0,234167.0,2.47,rice
+Meghalaya,2022,95297.0,222305.0,2.33,rice
+Mizoram,1997,68114.0,110573.0,1.62,rice
+Mizoram,1998,68392.0,110813.0,1.62,rice
+Mizoram,1999,49713.0,88397.0,1.78,rice
+Mizoram,2000,51839.0,103673.0,2.0,rice
+Mizoram,2001,55880.0,105713.0,1.89,rice
+Mizoram,2002,57067.0,109205.0,1.91,rice
+Mizoram,2003,59196.0,114630.0,1.94,rice
+Mizoram,2004,57085.0,107660.0,1.89,rice
+Mizoram,2005,56460.0,107740.0,1.91,rice
+Mizoram,2006,52851.0,29464.0,0.56,rice
+Mizoram,2007,54541.0,15688.0,0.29,rice
+Mizoram,2008,51990.0,68917.0,1.33,rice
+Mizoram,2009,47204.0,66131.0,1.4,rice
+Mizoram,2010,40692.0,47202.0,1.16,rice
+Mizoram,2011,38976.0,52895.0,1.36,rice
+Mizoram,2012,39342.0,57700.0,1.47,rice
+Mizoram,2013,38803.0,58994.0,1.52,rice
+Mizoram,2014,36930.0,60679.0,1.64,rice
+Mizoram,2015,37153.0,62089.0,1.67,rice
+Mizoram,2016,36858.0,61516.0,1.67,rice
+Mizoram,2017,36114.0,59606.0,1.65,rice
+Mizoram,2018,35550.0,60010.0,1.69,rice
+Mizoram,2019,35210.0,60239.0,1.71,rice
+Mizoram,2020,35246.0,62182.0,1.76,rice
+Mizoram,2021,34907.0,60881.0,1.74,rice
+Mizoram,2022,34071.0,58836.0,1.73,rice
+Nagaland,1997,145200.0,188250.0,1.3,rice
+Nagaland,1998,141000.0,205000.0,1.45,rice
+Nagaland,1999,148000.0,222000.0,1.5,rice
+Nagaland,2000,151680.0,233330.0,1.54,rice
+Nagaland,2001,156500.0,237000.0,1.51,rice
+Nagaland,2002,150000.0,223400.0,1.49,rice
+Nagaland,2003,156000.0,222990.0,1.43,rice
+Nagaland,2004,154000.0,261750.0,1.7,rice
+Nagaland,2005,156400.0,263100.0,1.68,rice
+Nagaland,2006,164680.0,263520.0,1.6,rice
+Nagaland,2007,167500.0,311300.0,1.86,rice
+Nagaland,2008,173100.0,345090.0,1.99,rice
+Nagaland,2009,168570.0,240310.0,1.43,rice
+Nagaland,2010,181390.0,381360.0,2.1,rice
+Nagaland,2011,181580.0,382380.0,2.11,rice
+Nagaland,2012,183330.0,405180.0,2.21,rice
+Nagaland,2013,189480.0,429640.0,2.27,rice
+Nagaland,2014,195240.0,454190.0,2.33,rice
+Nagaland,2015,181310.0,439460.0,2.42,rice
+Nagaland,2016,206660.0,505060.0,2.44,rice
+Nagaland,2017,212000.0,524440.0,2.47,rice
+Nagaland,2018,214450.0,535040.0,2.49,rice
+Nagaland,2019,216950.0,544970.0,2.51,rice
+Nagaland,2020,218810.0,550950.0,2.52,rice
+Nagaland,2021,122329.0,226146.0,1.85,rice
+Nagaland,2022,211130.0,554669.0,2.63,rice
+Odisha,1998,4446713.0,5391322.0,1.21,rice
+Odisha,1999,4601810.0,5187040.0,1.13,rice
+Odisha,2000,4433520.0,4613380.0,1.04,rice
+Odisha,2001,4500000.0,7220000.0,1.6,rice
+Odisha,2002,4273000.0,3278000.0,0.77,rice
+Odisha,2003,4501000.0,6801000.0,1.51,rice
+Odisha,2004,4492000.0,6536000.0,1.46,rice
+Odisha,2005,4479000.0,6858000.0,1.53,rice
+Odisha,2006,4451000.0,6823000.0,1.53,rice
+Odisha,2007,4452000.0,7540000.0,1.69,rice
+Odisha,2008,4455000.0,6812000.0,1.53,rice
+Odisha,2009,4365000.0,6913000.0,1.58,rice
+Odisha,2010,4226000.0,6824000.0,1.61,rice
+Odisha,2011,4005000.0,5806000.0,1.45,rice
+Odisha,2012,12378000.0,9496000.0,0.77,rice
+Odisha,2013,4180000.0,7610000.0,1.82,rice
+Odisha,2014,4166000.0,9840000.0,2.36,rice
+Odisha,2015,3942000.0,5874000.0,1.49,rice
+Odisha,2016,3962780.0,9794310.0,2.47,rice
+Odisha,2017,3766390.0,6551370.0,1.74,rice
+Odisha,2018,3859420.0,7733710.0,2.0,rice
+Odisha,2019,3940710.0,9755050.0,2.48,rice
+Odisha,2020,4029492.0,10999134.0,2.73,rice
+Odisha,2021,3947744.0,9291100.0,2.35,rice
+Odisha,2022,4064170.0,11932550.0,2.94,rice
+Puducherry,1998,24622.0,56601.0,2.3,rice
+Puducherry,1999,25444.0,59433.0,2.34,rice
+Puducherry,2000,42779.0,103606.0,2.42,rice
+Puducherry,2001,26263.0,66868.0,2.55,rice
+Puducherry,2002,24142.0,57514.0,2.38,rice
+Puducherry,2003,25065.0,67003.0,2.67,rice
+Puducherry,2004,24822.0,61036.0,2.46,rice
+Puducherry,2005,22925.0,53617.0,2.34,rice
+Puducherry,2006,21645.0,60808.0,2.81,rice
+Puducherry,2007,20437.0,53324.0,2.61,rice
+Puducherry,2008,20780.0,50716.0,2.44,rice
+Puducherry,2009,20926.0,52330.0,2.5,rice
+Puducherry,2010,20014.0,51960.0,2.6,rice
+Puducherry,2011,16576.0,42114.0,2.54,rice
+Puducherry,2012,16281.0,46519.0,2.86,rice
+Puducherry,2013,15822.0,49792.0,3.15,rice
+Puducherry,2014,16654.0,52717.0,3.17,rice
+Puducherry,2015,16263.0,43886.0,2.7,rice
+Puducherry,2016,16205.0,52164.0,3.22,rice
+Puducherry,2017,17371.0,55987.0,3.22,rice
+Puducherry,2018,17861.0,63343.0,3.55,rice
+Puducherry,2019,18238.0,59345.0,3.25,rice
+Puducherry,2020,18206.0,50149.0,2.75,rice
+Puducherry,2021,18896.0,56252.0,2.98,rice
+Puducherry,2022,19768.0,60515.0,3.06,rice
+Punjab,1997,2281000.0,7904000.0,3.47,rice
+Punjab,1998,2519000.0,7940000.0,3.15,rice
+Punjab,1999,2604000.0,8716000.0,3.35,rice
+Punjab,2000,2611000.0,9154000.0,3.51,rice
+Punjab,2001,2487000.0,8816000.0,3.54,rice
+Punjab,2002,2530000.0,8880000.0,3.51,rice
+Punjab,2003,2614000.0,9656000.0,3.69,rice
+Punjab,2004,2800000.0,10437000.0,3.73,rice
+Punjab,2005,2642000.0,10193000.0,3.86,rice
+Punjab,2006,2621000.0,10138000.0,3.87,rice
+Punjab,2007,2610000.0,10489000.0,4.02,rice
+Punjab,2008,2735000.0,11000000.0,4.02,rice
+Punjab,2009,2802000.0,11236000.0,4.01,rice
+Punjab,2010,2831000.0,10837000.0,3.83,rice
+Punjab,2011,2818000.0,10542000.0,3.74,rice
+Punjab,2012,2849000.0,11390000.0,4.0,rice
+Punjab,2013,2851000.0,11267000.0,3.95,rice
+Punjab,2014,2894000.0,11107000.0,3.84,rice
+Punjab,2015,2975000.0,11823000.0,3.97,rice
+Punjab,2016,3046000.0,12638000.0,4.15,rice
+Punjab,2017,3065000.0,13382000.0,4.37,rice
+Punjab,2018,3103000.0,12822000.0,4.13,rice
+Punjab,2019,3142000.0,12675000.0,4.03,rice
+Punjab,2020,3149100.0,13992000.0,4.44,rice
+Punjab,2021,3143400.0,13642000.0,4.34,rice
+Punjab,2022,3167800.0,13751000.0,4.34,rice
+Rajasthan,1997,161100.0,190200.0,1.18,rice
+Rajasthan,1998,168078.0,205488.0,1.22,rice
+Rajasthan,1999,200210.0,252598.0,1.26,rice
+Rajasthan,2000,166275.0,155716.0,0.94,rice
+Rajasthan,2001,144378.0,180048.0,1.25,rice
+Rajasthan,2002,83584.0,67932.0,0.81,rice
+Rajasthan,2003,99756.0,164858.0,1.65,rice
+Rajasthan,2004,101361.0,150423.0,1.48,rice
+Rajasthan,2005,107492.0,153074.0,1.42,rice
+Rajasthan,2006,107758.0,169823.0,1.58,rice
+Rajasthan,2007,127831.0,259657.0,2.03,rice
+Rajasthan,2008,133418.0,241082.0,1.81,rice
+Rajasthan,2009,150694.0,228284.0,1.51,rice
+Rajasthan,2010,131126.0,265545.0,2.03,rice
+Rajasthan,2011,134337.0,253360.0,1.89,rice
+Rajasthan,2012,125635.0,222514.0,1.77,rice
+Rajasthan,2013,145577.0,312564.0,2.15,rice
+Rajasthan,2014,167752.0,366676.0,2.19,rice
+Rajasthan,2015,182877.0,369780.0,2.02,rice
+Rajasthan,2016,197754.0,452682.0,2.29,rice
+Rajasthan,2017,190641.0,450932.0,2.37,rice
+Rajasthan,2018,197813.0,453171.0,2.29,rice
+Rajasthan,2019,219525.0,480554.0,2.19,rice
+Rajasthan,2020,231472.0,634032.0,2.74,rice
+Rajasthan,2021,196459.0,478507.0,2.44,rice
+Rajasthan,2022,234313.0,577457.0,2.46,rice
+Sikkim,1997,15691.0,21447.0,1.37,rice
+Sikkim,1998,15874.0,21957.0,1.38,rice
+Sikkim,1999,15908.0,23439.0,1.47,rice
+Sikkim,2000,15218.0,21358.0,1.4,rice
+Sikkim,2001,14900.0,21372.0,1.43,rice
+Sikkim,2002,14790.0,21220.0,1.43,rice
+Sikkim,2003,14740.0,21190.0,1.44,rice
+Sikkim,2004,9070.0,21610.0,2.38,rice
+Sikkim,2005,9790.0,23690.0,2.42,rice
+Sikkim,2006,9200.0,21450.0,2.33,rice
+Sikkim,2007,11860.0,19480.0,1.64,rice
+Sikkim,2008,13000.0,22230.0,1.71,rice
+Sikkim,2009,12270.0,20930.0,1.71,rice
+Sikkim,2010,12140.0,20973.0,1.73,rice
+Sikkim,2011,12070.0,20880.0,1.73,rice
+Sikkim,2012,11920.0,21340.0,1.79,rice
+Sikkim,2013,11158.0,20260.0,1.82,rice
+Sikkim,2014,11040.0,20070.0,1.82,rice
+Sikkim,2015,10669.0,19687.0,1.85,rice
+Sikkim,2016,10481.0,19453.0,1.86,rice
+Sikkim,2017,9501.0,17636.0,1.86,rice
+Sikkim,2018,9256.0,17182.0,1.86,rice
+Sikkim,2019,8685.0,16137.0,1.86,rice
+Sikkim,2020,8702.0,16191.0,1.86,rice
+Sikkim,2021,8507.0,15821.0,1.86,rice
+Sikkim,2022,8190.0,15290.0,1.87,rice
+Tamil Nadu,1997,2260544.0,6893730.0,3.05,rice
+Tamil Nadu,1998,2386399.0,8215286.0,3.44,rice
+Tamil Nadu,1999,2204046.0,7225373.0,3.28,rice
+Tamil Nadu,2000,2113344.0,7217903.0,3.42,rice
+Tamil Nadu,2001,2059878.0,6583630.0,3.2,rice
+Tamil Nadu,2002,1516537.0,3577108.0,2.36,rice
+Tamil Nadu,2003,1396651.0,3222776.0,2.31,rice
+Tamil Nadu,2004,1872822.0,5061622.0,2.7,rice
+Tamil Nadu,2005,2050455.0,5209433.0,2.54,rice
+Tamil Nadu,2006,1931397.0,6610607.0,3.42,rice
+Tamil Nadu,2007,1789170.0,5039954.0,2.82,rice
+Tamil Nadu,2008,1931603.0,5183385.0,2.68,rice
+Tamil Nadu,2009,1845553.0,5665258.0,3.07,rice
+Tamil Nadu,2010,1905726.0,5792415.0,3.04,rice
+Tamil Nadu,2011,1903772.0,7458657.0,3.92,rice
+Tamil Nadu,2012,1493276.0,4050334.0,2.71,rice
+Tamil Nadu,2013,1725730.0,7115195.0,4.12,rice
+Tamil Nadu,2014,1794991.0,7949437.0,4.43,rice
+Tamil Nadu,2015,2000212.0,7374681.0,3.69,rice
+Tamil Nadu,2016,1442841.0,3554113.0,2.46,rice
+Tamil Nadu,2017,1828865.0,6638450.0,3.63,rice
+Tamil Nadu,2018,1721265.0,6131550.0,3.56,rice
+Tamil Nadu,2019,1907407.0,7265161.0,3.81,rice
+Tamil Nadu,2020,2036239.0,6881725.0,3.38,rice
+Tamil Nadu,2021,2217269.0,7906373.0,3.57,rice
+Tamil Nadu,2022,2158898.0,7556567.0,3.5,rice
+Telangana,1997,934800.0,2073800.0,2.22,rice
+Telangana,1998,1536500.0,4190200.0,2.73,rice
+Telangana,1999,1380002.0,3275474.0,2.37,rice
+Telangana,2000,1547985.0,4417347.0,2.85,rice
+Telangana,2001,1309394.0,3566099.0,2.72,rice
+Telangana,2002,954925.0,2011378.0,2.11,rice
+Telangana,2003,1017315.0,2898703.0,2.85,rice
+Telangana,2004,858520.0,2208367.0,2.57,rice
+Telangana,2005,1461028.0,4414903.0,3.02,rice
+Telangana,2006,1489007.0,4255738.0,2.86,rice
+Telangana,2007,1408000.0,4444000.0,3.16,rice
+Telangana,2008,1691491.0,5360547.0,3.17,rice
+Telangana,2009,1115007.0,3269196.0,2.93,rice
+Telangana,2010,1978932.0,6536235.0,3.3,rice
+Telangana,2011,1749548.0,5147617.0,2.94,rice
+Telangana,2012,1418000.0,4648000.0,3.28,rice
+Telangana,2013,1994437.0,6581090.0,3.3,rice
+Telangana,2014,1415420.0,4544982.0,3.21,rice
+Telangana,2015,1046188.0,3047289.0,2.91,rice
+Telangana,2016,1828574.0,6599079.0,3.61,rice
+Telangana,2017,1962376.0,6263429.0,3.19,rice
+Telangana,2018,1931772.0,6668944.0,3.45,rice
+Telangana,2019,3216213.0,11885796.0,3.7,rice
+Telangana,2020,4218112.0,14568648.0,3.45,rice
+Telangana,2021,3965036.0,13479714.0,3.4,rice
+Telangana,2022,4955651.0,17211646.0,3.47,rice
+The Dadra & Nagar Haveli and Daman and Diu,2021,17287.0,35576.0,2.06,rice
+The Dadra & Nagar Haveli and Daman and Diu,2022,17287.0,35829.0,2.07,rice
+Tripura,1998,255487.0,491430.0,1.92,rice
+Tripura,1999,232160.0,505680.0,2.18,rice
+Tripura,2000,243070.0,547520.0,2.25,rice
+Tripura,2001,246750.0,587390.0,2.38,rice
+Tripura,2002,255270.0,602410.0,2.36,rice
+Tripura,2003,257440.0,616820.0,2.4,rice
+Tripura,2004,256076.0,602221.0,2.35,rice
+Tripura,2005,253067.0,602947.0,2.38,rice
+Tripura,2006,250939.0,628200.0,2.5,rice
+Tripura,2007,252897.0,640424.0,2.53,rice
+Tripura,2008,242966.0,627175.0,2.58,rice
+Tripura,2009,245538.0,640010.0,2.61,rice
+Tripura,2010,264558.0,702473.0,2.66,rice
+Tripura,2011,265999.0,718304.0,2.7,rice
+Tripura,2012,254743.0,713222.0,2.8,rice
+Tripura,2013,254254.0,711831.0,2.8,rice
+Tripura,2014,257273.0,746954.0,2.9,rice
+Tripura,2015,269793.0,794848.0,2.95,rice
+Tripura,2016,277106.0,814644.0,2.94,rice
+Tripura,2017,274068.0,812092.0,2.96,rice
+Tripura,2018,269364.0,793200.0,2.94,rice
+Tripura,2019,267335.0,810244.0,3.03,rice
+Tripura,2020,263793.0,803032.0,3.04,rice
+Tripura,2021,255740.0,810879.0,3.17,rice
+Tripura,2022,241798.0,788822.0,3.26,rice
+Uttar Pradesh,1997,5441983.0,11677947.0,2.15,rice
+Uttar Pradesh,1998,5575729.0,10826635.0,1.94,rice
+Uttar Pradesh,1999,5781768.0,12632709.0,2.18,rice
+Uttar Pradesh,2000,5907151.0,11679149.0,1.98,rice
+Uttar Pradesh,2001,6071325.0,12855857.0,2.12,rice
+Uttar Pradesh,2002,5213429.0,9596346.0,1.84,rice
+Uttar Pradesh,2003,5727772.0,12494939.0,2.18,rice
+Uttar Pradesh,2004,5934405.0,10749989.0,1.81,rice
+Uttar Pradesh,2005,5571524.0,11119095.0,2.0,rice
+Uttar Pradesh,2006,5920752.0,11123613.0,1.88,rice
+Uttar Pradesh,2007,5709388.0,11780112.0,2.06,rice
+Uttar Pradesh,2008,6033382.0,13097031.0,2.17,rice
+Uttar Pradesh,2009,5172741.0,10776504.0,2.08,rice
+Uttar Pradesh,2010,5657070.0,11992299.0,2.12,rice
+Uttar Pradesh,2011,5946285.0,14022392.0,2.36,rice
+Uttar Pradesh,2012,5861282.0,14415939.0,2.46,rice
+Uttar Pradesh,2013,5982369.0,14635836.0,2.45,rice
+Uttar Pradesh,2014,5871976.0,13316967.0,2.27,rice
+Uttar Pradesh,2015,5862040.0,12501160.0,2.13,rice
+Uttar Pradesh,2016,5991708.0,14470352.0,2.42,rice
+Uttar Pradesh,2017,5923632.0,15518603.0,2.62,rice
+Uttar Pradesh,2018,5924128.0,16019695.0,2.7,rice
+Uttar Pradesh,2019,5924349.0,17027889.0,2.87,rice
+Uttar Pradesh,2020,5967035.0,17225106.0,2.89,rice
+Uttar Pradesh,2021,6178046.0,16549871.0,2.68,rice
+Uttar Pradesh,2022,6179305.0,16561898.0,2.68,rice
+Uttarakhand,1997,291151.0,603128.0,2.07,rice
+Uttarakhand,1998,305053.0,560078.0,1.84,rice
+Uttarakhand,1999,304106.0,614016.0,2.02,rice
+Uttarakhand,2000,288607.0,588652.0,2.04,rice
+Uttarakhand,2001,284577.0,579517.0,2.04,rice
+Uttarakhand,2002,275309.0,523175.0,1.9,rice
+Uttarakhand,2003,277326.0,541957.0,1.95,rice
+Uttarakhand,2004,288975.0,560243.0,1.94,rice
+Uttarakhand,2005,284430.0,569166.0,2.0,rice
+Uttarakhand,2006,283585.0,571336.0,2.01,rice
+Uttarakhand,2007,272169.0,565067.0,2.08,rice
+Uttarakhand,2008,288365.0,568321.0,1.97,rice
+Uttarakhand,2009,284383.0,591016.0,2.08,rice
+Uttarakhand,2010,285693.0,545586.0,1.91,rice
+Uttarakhand,2011,274999.0,589764.0,2.14,rice
+Uttarakhand,2012,269237.0,606891.0,2.25,rice
+Uttarakhand,2013,259379.0,593068.0,2.29,rice
+Uttarakhand,2014,260092.0,600860.0,2.31,rice
+Uttarakhand,2015,265206.0,641892.0,2.42,rice
+Uttarakhand,2016,266201.0,638297.0,2.4,rice
+Uttarakhand,2017,260492.0,664872.0,2.55,rice
+Uttarakhand,2018,259348.0,626533.0,2.42,rice
+Uttarakhand,2019,257781.0,677429.0,2.63,rice
+Uttarakhand,2020,257251.0,724429.0,2.82,rice
+Uttarakhand,2021,253346.0,708888.0,2.8,rice
+Uttarakhand,2022,248842.0,633984.0,2.55,rice
+West Bengal,1997,5900278.0,13236590.0,2.24,rice
+West Bengal,1998,5904095.0,13316452.0,2.26,rice
+West Bengal,1999,6150439.0,13759680.0,2.24,rice
+West Bengal,2000,5435323.0,12428038.0,2.29,rice
+West Bengal,2001,5503087.0,13815548.0,2.51,rice
+West Bengal,2002,5842127.0,14389238.0,2.46,rice
+West Bengal,2003,5856607.0,14662239.0,2.5,rice
+West Bengal,2004,5783613.0,14884889.0,2.57,rice
+West Bengal,2005,5782949.0,14510742.0,2.51,rice
+West Bengal,2006,5687028.0,14745892.0,2.59,rice
+West Bengal,2007,5719755.0,14719520.0,2.57,rice
+West Bengal,2008,5935696.0,15037240.0,2.53,rice
+West Bengal,2009,5630095.0,14340605.0,2.55,rice
+West Bengal,2010,4944146.0,13389610.0,2.71,rice
+West Bengal,2011,5433700.0,14605766.0,2.69,rice
+West Bengal,2012,5444318.0,14946735.0,2.75,rice
+West Bengal,2013,5513687.0,15376869.0,2.79,rice
+West Bengal,2014,5526511.0,15927196.0,2.88,rice
+West Bengal,2015,5523955.0,15948254.0,2.89,rice
+West Bengal,2016,5396854.0,15644574.0,2.9,rice
+West Bengal,2017,5537431.0,16315922.0,2.95,rice
+West Bengal,2018,5512572.0,16507249.0,2.99,rice
+West Bengal,2019,5490975.0,16476021.0,3.0,rice
+West Bengal,2020,5585629.0,16906482.0,3.03,rice
+West Bengal,2021,5585753.0,16910391.0,3.03,rice
+West Bengal,2022,5189173.0,15841282.0,3.05,rice
+Andhra Pradesh,1997,900.0,500.0,0.56,wheat
+Andhra Pradesh,1998,1200.0,600.0,0.5,wheat
+Andhra Pradesh,1999,1396.0,935.0,0.67,wheat
+Andhra Pradesh,2000,1492.0,851.0,0.57,wheat
+Andhra Pradesh,2001,1629.0,1126.0,0.69,wheat
+Andhra Pradesh,2002,1411.0,1302.0,0.92,wheat
+Andhra Pradesh,2003,1154.0,343.0,0.3,wheat
+Andhra Pradesh,2004,789.0,176.0,0.22,wheat
+Andhra Pradesh,2005,1089.0,641.0,0.59,wheat
+Andhra Pradesh,2006,896.0,235.0,0.26,wheat
+Andhra Pradesh,2008,1033.0,705.0,0.68,wheat
+Andhra Pradesh,2009,790.0,427.0,0.54,wheat
+Andhra Pradesh,2010,757.0,1061.0,1.4,wheat
+Andhra Pradesh,2011,313.0,365.0,1.17,wheat
+Andhra Pradesh,2013,348.0,249.0,0.72,wheat
+Andhra Pradesh,2014,320.0,256.0,0.8,wheat
+Andhra Pradesh,2015,164.0,115.0,0.7,wheat
+Andhra Pradesh,2016,33.0,76.0,2.3,wheat
+Andhra Pradesh,2017,49.0,35.0,0.71,wheat
+Andhra Pradesh,2018,102.0,19.0,0.19,wheat
+Andhra Pradesh,2019,37.0,11.0,0.3,wheat
+Andhra Pradesh,2020,47.0,72.0,1.53,wheat
+Andhra Pradesh,2021,34.0,39.0,1.15,wheat
+Andhra Pradesh,2022,59.0,72.0,1.22,wheat
+Arunachal Pradesh,1997,3785.0,5475.0,1.45,wheat
+Arunachal Pradesh,1998,3660.0,4395.0,1.2,wheat
+Arunachal Pradesh,1999,3896.0,5069.0,1.3,wheat
+Arunachal Pradesh,2000,4397.0,6226.0,1.42,wheat
+Arunachal Pradesh,2001,3805.0,5341.0,1.4,wheat
+Arunachal Pradesh,2002,4114.0,6250.0,1.52,wheat
+Arunachal Pradesh,2003,4150.0,6320.0,1.52,wheat
+Arunachal Pradesh,2004,4278.0,6652.0,1.55,wheat
+Arunachal Pradesh,2005,3976.0,6140.0,1.54,wheat
+Arunachal Pradesh,2006,3979.0,6301.0,1.58,wheat
+Arunachal Pradesh,2007,3558.0,5294.0,1.49,wheat
+Arunachal Pradesh,2008,3278.0,5169.0,1.58,wheat
+Arunachal Pradesh,2009,3170.0,4770.0,1.5,wheat
+Arunachal Pradesh,2010,3699.0,5872.0,1.59,wheat
+Arunachal Pradesh,2011,3700.0,6500.0,1.76,wheat
+Arunachal Pradesh,2012,2937.0,4401.0,1.5,wheat
+Arunachal Pradesh,2013,2960.0,4470.0,1.51,wheat
+Arunachal Pradesh,2014,3800.0,7500.0,1.97,wheat
+Arunachal Pradesh,2015,3910.0,7700.0,1.97,wheat
+Arunachal Pradesh,2016,3910.0,7700.0,1.97,wheat
+Arunachal Pradesh,2017,3930.0,7742.0,1.97,wheat
+Arunachal Pradesh,2018,3930.0,7742.0,1.97,wheat
+Arunachal Pradesh,2019,3930.0,7742.0,1.97,wheat
+Arunachal Pradesh,2020,3930.0,7742.0,1.97,wheat
+Arunachal Pradesh,2021,4010.0,7916.0,1.97,wheat
+Arunachal Pradesh,2022,4018.0,7945.0,1.98,wheat
+Assam,1997,84698.0,110054.0,1.3,wheat
+Assam,1998,89591.0,90509.0,1.01,wheat
+Assam,1999,76310.0,97583.0,1.28,wheat
+Assam,2000,70301.0,85695.0,1.22,wheat
+Assam,2001,72245.0,85300.0,1.18,wheat
+Assam,2002,69061.0,77952.0,1.13,wheat
+Assam,2003,69954.0,73186.0,1.05,wheat
+Assam,2004,63854.0,68083.0,1.07,wheat
+Assam,2005,49961.0,53735.0,1.08,wheat
+Assam,2006,59573.0,67413.0,1.13,wheat
+Assam,2007,56069.0,70797.0,1.26,wheat
+Assam,2008,50053.0,54551.0,1.09,wheat
+Assam,2009,60067.0,65301.0,1.09,wheat
+Assam,2010,44772.0,56216.0,1.26,wheat
+Assam,2011,40194.0,48592.0,1.21,wheat
+Assam,2012,33984.0,44190.0,1.3,wheat
+Assam,2013,31294.0,40444.0,1.29,wheat
+Assam,2014,23646.0,28769.0,1.22,wheat
+Assam,2015,20975.0,24489.0,1.17,wheat
+Assam,2016,17452.0,23459.0,1.34,wheat
+Assam,2017,17786.0,24658.0,1.39,wheat
+Assam,2018,16945.0,23693.0,1.4,wheat
+Assam,2019,11336.0,14430.0,1.27,wheat
+Assam,2020,9342.0,12881.0,1.38,wheat
+Assam,2021,9117.0,11374.0,1.25,wheat
+Assam,2022,9680.0,12614.0,1.3,wheat
+Bihar,1997,1998664.0,3939416.0,1.97,wheat
+Bihar,1998,2052731.0,4292134.0,2.09,wheat
+Bihar,1999,2080847.0,4583515.0,2.2,wheat
+Bihar,2000,2067333.0,4437958.0,2.15,wheat
+Bihar,2001,2181543.0,4499130.0,2.06,wheat
+Bihar,2002,2130933.0,4040610.0,1.9,wheat
+Bihar,2003,2076839.0,3688941.0,1.78,wheat
+Bihar,2004,2027643.0,3263385.0,1.61,wheat
+Bihar,2005,2001771.0,2821120.0,1.41,wheat
+Bihar,2006,2076727.0,4155541.0,2.0,wheat
+Bihar,2007,2131232.0,4977463.0,2.34,wheat
+Bihar,2008,2158345.0,4413017.0,2.04,wheat
+Bihar,2009,2116098.0,4403841.0,2.08,wheat
+Bihar,2010,2100181.0,5094030.0,2.43,wheat
+Bihar,2011,2141892.0,6530955.0,3.05,wheat
+Bihar,2012,2207704.0,6174260.0,2.8,wheat
+Bihar,2013,2148818.0,6134679.0,2.85,wheat
+Bihar,2014,2154423.0,3570211.0,1.66,wheat
+Bihar,2015,2110750.0,4736448.0,2.24,wheat
+Bihar,2016,2105811.0,5985841.0,2.84,wheat
+Bihar,2017,2101311.0,6104303.0,2.9,wheat
+Bihar,2018,2156652.0,6465905.0,3.0,wheat
+Bihar,2019,2150180.0,5579348.0,2.59,wheat
+Bihar,2020,2222503.0,6635017.0,2.99,wheat
+Bihar,2021,2238765.0,6889831.0,3.08,wheat
+Bihar,2022,2237483.0,6600113.0,2.95,wheat
+Chandigarh,1998,880.0,3960.0,4.5,wheat
+Chandigarh,1999,800.0,3600.0,4.5,wheat
+Chandigarh,2000,750.0,3375.0,4.5,wheat
+Chandigarh,2001,750.0,3350.0,4.47,wheat
+Chandigarh,2002,700.0,3315.0,4.74,wheat
+Chandigarh,2003,650.0,3000.0,4.62,wheat
+Chandigarh,2004,600.0,2400.0,4.0,wheat
+Chandigarh,2005,600.0,2750.0,4.58,wheat
+Chandigarh,2006,600.0,2800.0,4.67,wheat
+Chandigarh,2007,600.0,2800.0,4.67,wheat
+Chandigarh,2008,600.0,2700.0,4.5,wheat
+Chandigarh,2009,600.0,2700.0,4.5,wheat
+Chandigarh,2010,600.0,2715.0,4.53,wheat
+Chandigarh,2011,600.0,2725.0,4.54,wheat
+Chandigarh,2012,575.0,2590.0,4.5,wheat
+Chandigarh,2013,575.0,2600.0,4.52,wheat
+Chandigarh,2014,550.0,2500.0,4.55,wheat
+Chandigarh,2015,550.0,2530.0,4.6,wheat
+Chandigarh,2016,550.0,2585.0,4.7,wheat
+Chandigarh,2017,546.0,2566.0,4.7,wheat
+Chandigarh,2018,546.0,2730.0,5.0,wheat
+Chandigarh,2019,546.0,2457.0,4.5,wheat
+Chandigarh,2020,547.0,2735.0,5.0,wheat
+Chandigarh,2021,547.0,2735.0,5.0,wheat
+Chandigarh,2022,547.0,2735.0,5.0,wheat
+Chhattisgarh,1997,85200.0,63000.0,0.74,wheat
+Chhattisgarh,1998,85700.0,75600.0,0.88,wheat
+Chhattisgarh,2000,77844.0,79488.0,1.02,wheat
+Chhattisgarh,2001,97861.0,103480.0,1.06,wheat
+Chhattisgarh,2002,93846.0,98592.0,1.05,wheat
+Chhattisgarh,2003,106109.0,113138.0,1.07,wheat
+Chhattisgarh,2004,99245.0,85215.0,0.86,wheat
+Chhattisgarh,2005,97074.0,85191.0,0.88,wheat
+Chhattisgarh,2006,93213.0,93952.0,1.01,wheat
+Chhattisgarh,2007,95020.0,104548.0,1.1,wheat
+Chhattisgarh,2008,94834.0,97424.0,1.03,wheat
+Chhattisgarh,2009,109163.0,118923.0,1.09,wheat
+Chhattisgarh,2010,103701.0,121745.0,1.17,wheat
+Chhattisgarh,2011,104825.0,135121.0,1.29,wheat
+Chhattisgarh,2012,102230.0,143226.0,1.4,wheat
+Chhattisgarh,2013,105033.0,140756.0,1.34,wheat
+Chhattisgarh,2014,103195.0,153321.0,1.49,wheat
+Chhattisgarh,2015,105785.0,142329.0,1.35,wheat
+Chhattisgarh,2016,102114.0,151078.0,1.48,wheat
+Chhattisgarh,2017,102195.0,141642.0,1.39,wheat
+Chhattisgarh,2018,99925.0,166979.0,1.67,wheat
+Chhattisgarh,2019,116274.0,135888.0,1.17,wheat
+Chhattisgarh,2020,167497.0,259510.0,1.55,wheat
+Chhattisgarh,2021,160268.0,203833.0,1.27,wheat
+Chhattisgarh,2022,125183.0,206899.0,1.65,wheat
+Dadra and Nagar Haveli,1998,537.0,920.0,1.71,wheat
+Dadra and Nagar Haveli,1999,715.0,1236.0,1.73,wheat
+Dadra and Nagar Haveli,2000,710.0,1500.0,2.11,wheat
+Dadra and Nagar Haveli,2001,735.0,1441.0,1.96,wheat
+Dadra and Nagar Haveli,2002,750.0,1470.0,1.96,wheat
+Dadra and Nagar Haveli,2003,750.0,1470.0,1.96,wheat
+Dadra and Nagar Haveli,2004,750.0,1470.0,1.96,wheat
+Dadra and Nagar Haveli,2005,750.0,1500.0,2.0,wheat
+Dadra and Nagar Haveli,2006,750.0,1550.0,2.07,wheat
+Dadra and Nagar Haveli,2007,600.0,1100.0,1.83,wheat
+Dadra and Nagar Haveli,2008,600.0,1100.0,1.83,wheat
+Dadra and Nagar Haveli,2009,700.0,1000.0,1.43,wheat
+Dadra and Nagar Haveli,2010,130.0,290.0,2.23,wheat
+Dadra and Nagar Haveli,2011,137.0,274.0,2.0,wheat
+Dadra and Nagar Haveli,2012,131.0,262.0,2.0,wheat
+Dadra and Nagar Haveli,2013,131.0,262.0,2.0,wheat
+Dadra and Nagar Haveli,2014,139.0,289.0,2.08,wheat
+Dadra and Nagar Haveli,2015,141.0,302.0,2.14,wheat
+Dadra and Nagar Haveli,2016,40.0,92.0,2.3,wheat
+Dadra and Nagar Haveli,2017,139.0,309.0,2.22,wheat
+Dadra and Nagar Haveli,2019,50.0,120.0,2.4,wheat
+Delhi,2008,18430.0,80355.0,4.36,wheat
+Delhi,2009,21309.0,92480.0,4.34,wheat
+Delhi,2010,20135.0,87385.0,4.34,wheat
+Delhi,2011,18927.0,82142.0,4.34,wheat
+Delhi,2012,19450.0,84802.0,4.36,wheat
+Delhi,2013,19450.0,86498.0,4.45,wheat
+Delhi,2014,19360.0,85558.0,4.42,wheat
+Delhi,2015,19050.0,83419.0,4.38,wheat
+Delhi,2016,19622.0,87182.0,4.44,wheat
+Delhi,2017,19671.0,83419.0,4.24,wheat
+Delhi,2018,19220.0,82876.0,4.31,wheat
+Delhi,2019,19228.0,82905.0,4.31,wheat
+Gujarat,1997,694000.0,1647100.0,2.37,wheat
+Gujarat,1998,705400.0,1702600.0,2.41,wheat
+Gujarat,1999,482100.0,1020000.0,2.12,wheat
+Gujarat,2000,286100.0,649000.0,2.27,wheat
+Gujarat,2001,470100.0,1144700.0,2.44,wheat
+Gujarat,2002,435600.0,856600.0,1.97,wheat
+Gujarat,2003,759500.0,2036500.0,2.68,wheat
+Gujarat,2004,727400.0,1805500.0,2.48,wheat
+Gujarat,2005,858800.0,2319200.0,2.7,wheat
+Gujarat,2006,1072300.0,2791500.0,2.6,wheat
+Gujarat,2007,1273900.0,3837700.0,3.01,wheat
+Gujarat,2008,1091400.0,2592600.0,2.38,wheat
+Gujarat,2009,878000.0,2351300.0,2.68,wheat
+Gujarat,2010,1588600.0,5013400.0,3.16,wheat
+Gujarat,2011,1350600.0,4072100.0,3.02,wheat
+Gujarat,2012,1023500.0,2944000.0,2.88,wheat
+Gujarat,2013,1442288.0,4607993.0,3.19,wheat
+Gujarat,2014,1171449.0,3293487.0,2.81,wheat
+Gujarat,2015,857696.0,2315849.0,2.7,wheat
+Gujarat,2016,999370.0,2757755.0,2.76,wheat
+Gujarat,2017,1058778.0,3101037.0,2.93,wheat
+Gujarat,2018,797156.0,2407132.0,3.02,wheat
+Gujarat,2019,1393487.0,4553681.0,3.27,wheat
+Gujarat,2020,1366353.0,4378847.0,3.2,wheat
+Gujarat,2021,1253834.0,4018532.0,3.2,wheat
+Gujarat,2022,1292842.0,4103948.0,3.17,wheat
+Haryana,1997,2057000.0,7528000.0,3.66,wheat
+Haryana,1998,2185662.0,8563000.0,3.92,wheat
+Haryana,1999,2316531.0,9650000.0,4.17,wheat
+Haryana,2000,2354779.0,9669000.0,4.11,wheat
+Haryana,2001,2299876.0,9437000.0,4.1,wheat
+Haryana,2002,2267140.0,9188000.0,4.05,wheat
+Haryana,2003,2315496.0,9114000.0,3.94,wheat
+Haryana,2004,2316674.0,9043000.0,3.9,wheat
+Haryana,2005,2302682.0,8502000.0,3.69,wheat
+Haryana,2006,2377067.0,10059000.0,4.23,wheat
+Haryana,2007,2460680.0,10232000.0,4.16,wheat
+Haryana,2008,2461420.0,11360000.0,4.62,wheat
+Haryana,2009,2487756.0,10488000.0,4.22,wheat
+Haryana,2010,2503963.0,11578000.0,4.62,wheat
+Haryana,2011,2531302.0,13119000.0,5.18,wheat
+Haryana,2012,2496905.0,11117000.0,4.45,wheat
+Haryana,2013,2499000.0,11800000.0,4.72,wheat
+Haryana,2014,2628000.0,10457000.0,3.98,wheat
+Haryana,2015,2576000.0,11350000.0,4.41,wheat
+Haryana,2016,2542100.0,12310000.0,4.84,wheat
+Haryana,2017,2530500.0,12265100.0,4.85,wheat
+Haryana,2018,2553100.0,12573000.0,4.92,wheat
+Haryana,2019,2533800.0,11876900.0,4.69,wheat
+Haryana,2020,2354010.0,11406230.0,4.85,wheat
+Haryana,2021,2310699.0,10475400.0,4.53,wheat
+Haryana,2022,2376610.0,11064250.0,4.66,wheat
+Himachal Pradesh,1998,379718.0,481267.0,1.27,wheat
+Himachal Pradesh,1999,370587.0,583300.0,1.57,wheat
+Himachal Pradesh,2000,362660.0,261319.0,0.72,wheat
+Himachal Pradesh,2001,366518.0,637068.0,1.74,wheat
+Himachal Pradesh,2002,359439.0,495558.0,1.38,wheat
+Himachal Pradesh,2003,365359.0,496930.0,1.36,wheat
+Himachal Pradesh,2004,367770.0,687452.0,1.87,wheat
+Himachal Pradesh,2005,358453.0,365885.0,1.02,wheat
+Himachal Pradesh,2006,362245.0,596493.0,1.65,wheat
+Himachal Pradesh,2007,366592.0,504360.0,1.38,wheat
+Himachal Pradesh,2008,359961.0,381180.0,1.06,wheat
+Himachal Pradesh,2009,350440.0,324174.0,0.93,wheat
+Himachal Pradesh,2010,346936.0,534707.0,1.54,wheat
+Himachal Pradesh,2011,345182.0,506782.0,1.47,wheat
+Himachal Pradesh,2012,350121.0,656543.0,1.88,wheat
+Himachal Pradesh,2013,415665.0,324283.0,0.78,wheat
+Himachal Pradesh,2014,345548.0,639209.0,1.85,wheat
+Himachal Pradesh,2015,342675.0,602287.0,1.76,wheat
+Himachal Pradesh,2016,325910.0,331303.0,1.02,wheat
+Himachal Pradesh,2017,342675.0,603587.0,1.76,wheat
+Himachal Pradesh,2018,319002.0,564634.0,1.77,wheat
+Himachal Pradesh,2019,319098.0,619689.0,1.94,wheat
+Himachal Pradesh,2020,333148.0,570377.0,1.71,wheat
+Himachal Pradesh,2021,320219.0,713604.0,2.23,wheat
+Himachal Pradesh,2022,319476.0,609314.0,1.91,wheat
+Jammu and Kashmir,1997,244672.0,396470.0,1.62,wheat
+Jammu and Kashmir,1998,242625.0,36837.0,0.15,wheat
+Jammu and Kashmir,2000,280968.0,148710.0,0.53,wheat
+Jammu and Kashmir,2001,259605.0,342980.0,1.32,wheat
+Jammu and Kashmir,2002,248168.0,405490.0,1.63,wheat
+Jammu and Kashmir,2003,254657.0,459380.0,1.8,wheat
+Jammu and Kashmir,2004,252987.0,478255.0,1.89,wheat
+Jammu and Kashmir,2005,872.0,119.0,0.14,wheat
+Jammu and Kashmir,2006,266106.0,498270.0,1.87,wheat
+Jammu and Kashmir,2007,266126.0,498272.0,1.87,wheat
+Jammu and Kashmir,2008,278301.0,495890.0,1.78,wheat
+Jammu and Kashmir,2009,288935.0,289903.0,1.0,wheat
+Jammu and Kashmir,2010,290722.0,446266.0,1.54,wheat
+Jammu and Kashmir,2011,296168.0,500305.0,1.69,wheat
+Jammu and Kashmir,2012,292380.0,464577.0,1.59,wheat
+Jammu and Kashmir,2013,292380.0,464577.0,1.59,wheat
+Jammu and Kashmir,2015,281870.0,544889.0,1.93,wheat
+Jammu and Kashmir,2016,290301.0,548540.0,1.89,wheat
+Jammu and Kashmir,2017,299336.0,640196.0,2.14,wheat
+Jammu and Kashmir,2018,288387.0,671799.0,2.33,wheat
+Jammu and Kashmir,2019,243929.0,488297.0,2.0,wheat
+Jammu and Kashmir,2020,243754.0,483917.0,1.99,wheat
+Jammu and Kashmir,2021,282775.0,584151.0,2.07,wheat
+Jammu and Kashmir,2022,284468.0,586712.0,2.06,wheat
+Jharkhand,1997,68946.0,109283.0,1.59,wheat
+Jharkhand,1998,68604.0,111521.0,1.63,wheat
+Jharkhand,2002,57204.0,78366.0,1.37,wheat
+Jharkhand,2003,60270.0,80181.0,1.33,wheat
+Jharkhand,2004,57906.0,72741.0,1.26,wheat
+Jharkhand,2005,50326.0,51264.0,1.02,wheat
+Jharkhand,2006,124418.0,163905.0,1.32,wheat
+Jharkhand,2007,54846.0,68534.0,1.25,wheat
+Jharkhand,2008,58602.0,79871.0,1.36,wheat
+Jharkhand,2009,52510.0,61618.0,1.17,wheat
+Jharkhand,2010,49596.0,54110.0,1.09,wheat
+Jharkhand,2011,47933.0,73657.0,1.54,wheat
+Jharkhand,2012,69336.0,128571.0,1.85,wheat
+Jharkhand,2013,73527.0,106208.0,1.44,wheat
+Jharkhand,2014,87256.0,138951.0,1.59,wheat
+Jharkhand,2015,71027.0,113701.0,1.6,wheat
+Jharkhand,2016,112109.0,226854.0,2.02,wheat
+Jharkhand,2017,220963.0,468754.0,2.12,wheat
+Jharkhand,2018,163847.0,302559.0,1.85,wheat
+Jharkhand,2019,214780.0,439401.0,2.05,wheat
+Jharkhand,2020,232762.0,543966.0,2.34,wheat
+Jharkhand,2021,227558.0,519363.0,2.28,wheat
+Jharkhand,2022,204399.0,438543.0,2.15,wheat
+Karnataka,1997,250698.0,118512.0,0.47,wheat
+Karnataka,1998,268981.0,219433.0,0.82,wheat
+Karnataka,1999,261275.0,217613.0,0.83,wheat
+Karnataka,2000,266310.0,249880.0,0.94,wheat
+Karnataka,2001,260486.0,198822.0,0.76,wheat
+Karnataka,2002,246855.0,147748.0,0.6,wheat
+Karnataka,2003,231994.0,96150.0,0.41,wheat
+Karnataka,2004,241991.0,206296.0,0.85,wheat
+Karnataka,2005,252588.0,226369.0,0.9,wheat
+Karnataka,2006,269494.0,223806.0,0.83,wheat
+Karnataka,2007,275583.0,280384.0,1.02,wheat
+Karnataka,2008,268600.0,257181.0,0.96,wheat
+Karnataka,2009,283427.0,263877.0,0.93,wheat
+Karnataka,2010,254755.0,300237.0,1.18,wheat
+Karnataka,2011,225472.0,200932.0,0.89,wheat
+Karnataka,2012,225274.0,178871.0,0.79,wheat
+Karnataka,2013,209079.0,210041.0,1.0,wheat
+Karnataka,2014,197615.0,260093.0,1.32,wheat
+Karnataka,2015,173856.0,128988.0,0.74,wheat
+Karnataka,2016,168242.0,171429.0,1.02,wheat
+Karnataka,2017,193338.0,219087.0,1.13,wheat
+Karnataka,2018,157525.0,163113.0,1.04,wheat
+Karnataka,2019,158319.0,180114.0,1.14,wheat
+Karnataka,2020,203144.0,262377.0,1.29,wheat
+Karnataka,2021,165053.0,212344.0,1.29,wheat
+Karnataka,2022,145567.0,199919.0,1.37,wheat
+Kerala,2012,1.0,,,wheat
+Kerala,2014,1.0,3.0,3.0,wheat
+Kerala,2015,2.0,3.0,1.5,wheat
+Kerala,2016,1.0,1.0,1.0,wheat
+Kerala,2017,1.0,1.0,1.0,wheat
+Kerala,2018,1.0,2.0,1.45,wheat
+Kerala,2019,1.0,2.0,2.0,wheat
+Kerala,2020,2.0,3.0,1.5,wheat
+Kerala,2021,1.0,1.0,1.0,wheat
+Ladakh,2020,4399.0,7222.0,1.64,wheat
+Ladakh,2021,5705.0,10466.0,1.83,wheat
+Ladakh,2022,4543.0,7581.0,1.67,wheat
+Madhya Pradesh,1997,4422400.0,7025900.0,1.59,wheat
+Madhya Pradesh,1998,4492200.0,8104000.0,1.8,wheat
+Madhya Pradesh,1999,4661524.0,8685197.0,1.86,wheat
+Madhya Pradesh,2000,3299120.0,4861992.0,1.47,wheat
+Madhya Pradesh,2001,3691707.0,5993596.0,1.62,wheat
+Madhya Pradesh,2002,3369481.0,4916044.0,1.46,wheat
+Madhya Pradesh,2003,4078974.0,7357255.0,1.8,wheat
+Madhya Pradesh,2004,4188248.0,7320042.0,1.75,wheat
+Madhya Pradesh,2005,3772615.0,6192368.0,1.64,wheat
+Madhya Pradesh,2006,4262382.0,7840446.0,1.84,wheat
+Madhya Pradesh,2007,4089343.0,6729363.0,1.65,wheat
+Madhya Pradesh,2008,3997666.0,7272210.0,1.82,wheat
+Madhya Pradesh,2009,4458995.0,8865378.0,1.99,wheat
+Madhya Pradesh,2010,4633125.0,9219781.0,1.99,wheat
+Madhya Pradesh,2011,5248479.0,14537038.0,2.77,wheat
+Madhya Pradesh,2012,5601025.0,16510524.0,2.95,wheat
+Madhya Pradesh,2013,6123044.0,15722722.0,2.57,wheat
+Madhya Pradesh,2014,5999000.0,18463000.0,3.08,wheat
+Madhya Pradesh,2015,5914000.0,18408000.0,3.11,wheat
+Madhya Pradesh,2016,6423000.0,21916000.0,3.41,wheat
+Madhya Pradesh,2017,5802980.0,20019950.0,3.45,wheat
+Madhya Pradesh,2018,7721549.0,25276038.0,3.27,wheat
+Madhya Pradesh,2019,10216517.0,37507219.0,3.67,wheat
+Madhya Pradesh,2020,9829649.0,35666886.0,3.63,wheat
+Madhya Pradesh,2021,9524231.0,33031469.0,3.47,wheat
+Madhya Pradesh,2022,9781013.0,34977038.0,3.58,wheat
+Maharashtra,1997,747300.0,670600.0,0.9,wheat
+Maharashtra,1998,1015500.0,1308500.0,1.29,wheat
+Maharashtra,1999,1041800.0,1425900.0,1.37,wheat
+Maharashtra,2000,754200.0,947600.0,1.26,wheat
+Maharashtra,2001,776000.0,1077400.0,1.39,wheat
+Maharashtra,2002,759800.0,983900.0,1.29,wheat
+Maharashtra,2003,664700.0,778200.0,1.17,wheat
+Maharashtra,2004,755700.0,1016300.0,1.34,wheat
+Maharashtra,2005,932800.0,1300700.0,1.39,wheat
+Maharashtra,2006,1230800.0,1871000.0,1.52,wheat
+Maharashtra,2007,1252800.0,2371100.0,1.89,wheat
+Maharashtra,2008,1021800.0,1516400.0,1.48,wheat
+Maharashtra,2009,1080900.0,1740200.0,1.61,wheat
+Maharashtra,2010,1306600.0,2300800.0,1.76,wheat
+Maharashtra,2011,878100.0,1498800.0,1.71,wheat
+Maharashtra,2012,785000.0,1198700.0,1.53,wheat
+Maharashtra,2013,1028200.0,1480000.0,1.44,wheat
+Maharashtra,2014,1067300.0,1307700.0,1.23,wheat
+Maharashtra,2015,910854.0,981351.0,1.08,wheat
+Maharashtra,2016,1272006.0,2214012.0,1.74,wheat
+Maharashtra,2017,1137732.0,1884842.0,1.66,wheat
+Maharashtra,2018,834423.0,1249407.0,1.5,wheat
+Maharashtra,2019,1056965.0,1793440.0,1.7,wheat
+Maharashtra,2020,1126185.0,2071390.0,1.84,wheat
+Maharashtra,2021,1132247.0,2144252.0,1.89,wheat
+Maharashtra,2022,1203623.0,2301023.0,1.91,wheat
+Manipur,2008,2050.0,5120.0,2.5,wheat
+Manipur,2009,12000.0,25050.0,2.09,wheat
+Manipur,2010,2100.0,5250.0,2.5,wheat
+Manipur,2011,2150.0,5370.0,2.5,wheat
+Manipur,2012,2400.0,6000.0,2.5,wheat
+Manipur,2013,2160.0,5400.0,2.5,wheat
+Manipur,2014,2160.0,5620.0,2.6,wheat
+Manipur,2015,2250.0,5620.0,2.5,wheat
+Manipur,2016,2250.0,5620.0,2.5,wheat
+Manipur,2017,2250.0,5620.0,2.5,wheat
+Manipur,2018,2290.0,5730.0,2.5,wheat
+Manipur,2021,2300.0,5650.0,2.46,wheat
+Manipur,2022,2370.0,5880.0,2.48,wheat
+Meghalaya,1997,4287.0,6894.0,1.61,wheat
+Meghalaya,1998,4287.0,6998.0,1.63,wheat
+Meghalaya,2000,4215.0,6892.0,1.64,wheat
+Meghalaya,2001,2753.0,4812.0,1.75,wheat
+Meghalaya,2002,2714.0,4745.0,1.75,wheat
+Meghalaya,2003,862.0,1540.0,1.79,wheat
+Meghalaya,2004,863.0,1564.0,1.81,wheat
+Meghalaya,2005,670.0,1198.0,1.79,wheat
+Meghalaya,2006,656.0,1183.0,1.8,wheat
+Meghalaya,2007,622.0,1120.0,1.8,wheat
+Meghalaya,2008,416.0,739.0,1.78,wheat
+Meghalaya,2009,405.0,718.0,1.77,wheat
+Meghalaya,2010,393.0,704.0,1.79,wheat
+Meghalaya,2011,395.0,710.0,1.8,wheat
+Meghalaya,2012,406.0,742.0,1.83,wheat
+Meghalaya,2013,422.0,789.0,1.87,wheat
+Meghalaya,2014,442.0,844.0,1.91,wheat
+Meghalaya,2015,448.0,875.0,1.95,wheat
+Meghalaya,2016,456.0,878.0,1.93,wheat
+Meghalaya,2017,460.0,887.0,1.93,wheat
+Meghalaya,2018,462.0,892.0,1.93,wheat
+Meghalaya,2019,464.0,898.0,1.94,wheat
+Meghalaya,2020,464.0,898.0,1.94,wheat
+Meghalaya,2022,262.0,469.0,1.79,wheat
+Mizoram,1997,22.0,11.0,0.5,wheat
+Mizoram,1998,55.0,48.0,0.87,wheat
+Mizoram,1999,43.0,38.0,0.88,wheat
+Mizoram,2004,3.0,4.0,1.33,wheat
+Nagaland,1998,1000.0,3000.0,3.0,wheat
+Nagaland,2000,5000.0,10000.0,2.0,wheat
+Nagaland,2001,6000.0,12350.0,2.06,wheat
+Nagaland,2002,7650.0,15820.0,2.07,wheat
+Nagaland,2003,10000.0,19500.0,1.95,wheat
+Nagaland,2004,8200.0,13000.0,1.59,wheat
+Nagaland,2005,1200.0,1920.0,1.6,wheat
+Nagaland,2006,1500.0,1250.0,0.83,wheat
+Nagaland,2007,1150.0,1800.0,1.57,wheat
+Nagaland,2008,1380.0,2070.0,1.5,wheat
+Nagaland,2009,2010.0,2410.0,1.2,wheat
+Nagaland,2010,3120.0,5340.0,1.71,wheat
+Nagaland,2011,3150.0,5390.0,1.71,wheat
+Nagaland,2012,3270.0,5890.0,1.8,wheat
+Nagaland,2013,3000.0,5470.0,1.82,wheat
+Nagaland,2014,3070.0,5600.0,1.82,wheat
+Nagaland,2015,3250.0,5950.0,1.83,wheat
+Nagaland,2016,3380.0,6220.0,1.84,wheat
+Nagaland,2017,3410.0,6260.0,1.84,wheat
+Nagaland,2018,3420.0,6260.0,1.83,wheat
+Nagaland,2019,3430.0,6280.0,1.83,wheat
+Nagaland,2020,3430.0,6290.0,1.83,wheat
+Nagaland,2021,1392.0,2350.0,1.69,wheat
+Nagaland,2022,1398.0,2570.0,1.84,wheat
+Odisha,1997,5162.0,6360.0,1.23,wheat
+Odisha,1998,3868.0,4441.0,1.15,wheat
+Odisha,1999,18540.0,24850.0,1.34,wheat
+Odisha,2000,8819.0,12903.0,1.46,wheat
+Odisha,2001,6976.0,10567.0,1.51,wheat
+Odisha,2002,4627.0,5768.0,1.25,wheat
+Odisha,2003,5129.0,7516.0,1.47,wheat
+Odisha,2004,4054.0,5313.0,1.31,wheat
+Odisha,2005,3276.0,4484.0,1.37,wheat
+Odisha,2006,3913.0,5802.0,1.48,wheat
+Odisha,2007,5548.0,8723.0,1.57,wheat
+Odisha,2008,5267.0,7385.0,1.4,wheat
+Odisha,2009,3994.0,5782.0,1.45,wheat
+Odisha,2010,2857.0,4174.0,1.46,wheat
+Odisha,2011,1461.0,2397.0,1.64,wheat
+Odisha,2012,1039.0,1974.0,1.9,wheat
+Odisha,2013,678.0,1068.0,1.57,wheat
+Odisha,2014,403.0,656.0,1.63,wheat
+Odisha,2015,367.0,494.0,1.35,wheat
+Odisha,2016,57.0,81.0,1.42,wheat
+Odisha,2017,73.0,158.0,2.16,wheat
+Odisha,2018,147.0,267.0,1.81,wheat
+Odisha,2019,118.0,164.0,1.39,wheat
+Odisha,2020,182.0,298.0,1.64,wheat
+Odisha,2021,177.0,302.0,1.71,wheat
+Odisha,2022,223.0,345.0,1.55,wheat
+Punjab,1997,3300000.0,12715000.0,3.85,wheat
+Punjab,1998,3338000.0,14460000.0,4.33,wheat
+Punjab,1999,3388000.0,15910000.0,4.7,wheat
+Punjab,2000,3408000.0,15551000.0,4.56,wheat
+Punjab,2001,3420000.0,15499000.0,4.53,wheat
+Punjab,2002,3375000.0,14175000.0,4.2,wheat
+Punjab,2003,3444000.0,14489000.0,4.21,wheat
+Punjab,2004,3482000.0,14698000.0,4.22,wheat
+Punjab,2005,3468000.0,14493000.0,4.18,wheat
+Punjab,2006,3467000.0,14596000.0,4.21,wheat
+Punjab,2007,3488000.0,15720000.0,4.51,wheat
+Punjab,2008,3466000.0,15733000.0,4.54,wheat
+Punjab,2009,3522000.0,15169000.0,4.31,wheat
+Punjab,2010,3510000.0,16472000.0,4.69,wheat
+Punjab,2011,3528000.0,17982000.0,5.1,wheat
+Punjab,2012,3517000.0,16614000.0,4.72,wheat
+Punjab,2013,3512000.0,17620000.0,5.02,wheat
+Punjab,2014,3505000.0,15050000.0,4.29,wheat
+Punjab,2015,3508000.0,16077000.0,4.58,wheat
+Punjab,2016,3495000.0,17636000.0,5.05,wheat
+Punjab,2017,3512000.0,17830000.0,5.08,wheat
+Punjab,2018,3520000.0,18262000.0,5.19,wheat
+Punjab,2019,3521000.0,17619000.0,5.0,wheat
+Punjab,2020,3530200.0,17185000.0,4.87,wheat
+Punjab,2021,3526500.0,14871000.0,4.22,wheat
+Punjab,2022,3517500.0,16567400.0,4.71,wheat
+Rajasthan,1997,2679800.0,6701000.0,2.5,wheat
+Rajasthan,1998,2766290.0,6879818.0,2.49,wheat
+Rajasthan,1999,2650187.0,6731932.0,2.54,wheat
+Rajasthan,2000,2309637.0,5547100.0,2.4,wheat
+Rajasthan,2001,2287498.0,6389030.0,2.79,wheat
+Rajasthan,2002,1800659.0,4878020.0,2.71,wheat
+Rajasthan,2003,2103059.0,5875862.0,2.79,wheat
+Rajasthan,2004,2010241.0,5706871.0,2.84,wheat
+Rajasthan,2005,2123910.0,5865293.0,2.76,wheat
+Rajasthan,2006,2564840.0,7755883.0,3.02,wheat
+Rajasthan,2007,2592188.0,7126040.0,2.75,wheat
+Rajasthan,2008,2294858.0,7287074.0,3.18,wheat
+Rajasthan,2009,2394213.0,7500851.0,3.13,wheat
+Rajasthan,2010,3036141.0,10424350.0,3.43,wheat
+Rajasthan,2011,2935341.0,10160897.0,3.46,wheat
+Rajasthan,2012,3063202.0,10766607.0,3.51,wheat
+Rajasthan,2013,3205604.0,11020139.0,3.44,wheat
+Rajasthan,2014,3318248.0,9823876.0,2.96,wheat
+Rajasthan,2015,3108973.0,10468161.0,3.37,wheat
+Rajasthan,2016,3349149.0,12430923.0,3.71,wheat
+Rajasthan,2017,3050258.0,11280500.0,3.7,wheat
+Rajasthan,2018,2997532.0,11962767.0,3.99,wheat
+Rajasthan,2019,3497209.0,13894293.0,3.97,wheat
+Rajasthan,2020,3238529.0,12679930.0,3.92,wheat
+Rajasthan,2021,2840094.0,11112289.0,3.91,wheat
+Rajasthan,2022,3009334.0,11321021.0,3.76,wheat
+Sikkim,1997,8090.0,14200.0,1.76,wheat
+Sikkim,1998,7941.0,6416.0,0.81,wheat
+Sikkim,1999,8100.0,12849.0,1.59,wheat
+Sikkim,2000,7215.0,10103.0,1.4,wheat
+Sikkim,2001,8710.0,10485.0,1.2,wheat
+Sikkim,2002,8330.0,10400.0,1.25,wheat
+Sikkim,2003,6805.0,8686.0,1.28,wheat
+Sikkim,2004,5740.0,8250.0,1.44,wheat
+Sikkim,2005,5740.0,9250.0,1.61,wheat
+Sikkim,2006,6380.0,10360.0,1.62,wheat
+Sikkim,2007,4460.0,4460.0,1.0,wheat
+Sikkim,2008,3900.0,3500.0,0.9,wheat
+Sikkim,2009,5200.0,4720.0,0.91,wheat
+Sikkim,2010,2650.0,2710.0,1.02,wheat
+Sikkim,2011,2500.0,2650.0,1.06,wheat
+Sikkim,2012,520.0,550.0,1.06,wheat
+Sikkim,2013,360.0,385.0,1.07,wheat
+Sikkim,2014,390.0,420.0,1.08,wheat
+Sikkim,2015,323.0,346.0,1.07,wheat
+Sikkim,2016,265.0,286.0,1.08,wheat
+Sikkim,2017,172.0,185.0,1.08,wheat
+Sikkim,2018,163.0,176.0,1.08,wheat
+Sikkim,2019,165.0,178.0,1.08,wheat
+Sikkim,2020,104.0,120.0,1.15,wheat
+Sikkim,2021,103.0,119.0,1.16,wheat
+Sikkim,2022,426.0,486.0,1.14,wheat
+Tamil Nadu,1998,700.0,34.0,0.05,wheat
+Tamil Nadu,1999,34.0,16.0,0.47,wheat
+Tamil Nadu,2000,124.0,60.0,0.48,wheat
+Tamil Nadu,2002,17.0,0.0,0.0,wheat
+Tamil Nadu,2004,17.0,,,wheat
+Tamil Nadu,2006,140.0,,,wheat
+Tamil Nadu,2011,30.0,,,wheat
+Tamil Nadu,2016,7.0,,,wheat
+Telangana,1997,10100.0,5500.0,0.54,wheat
+Telangana,1998,10300.0,5800.0,0.56,wheat
+Telangana,1999,12119.0,8121.0,0.67,wheat
+Telangana,2000,12769.0,7270.0,0.57,wheat
+Telangana,2001,12164.0,8360.0,0.69,wheat
+Telangana,2002,9633.0,13596.0,1.41,wheat
+Telangana,2003,10774.0,6398.0,0.59,wheat
+Telangana,2004,8385.0,4429.0,0.53,wheat
+Telangana,2005,10020.0,8250.0,0.82,wheat
+Telangana,2006,9120.0,8561.0,0.94,wheat
+Telangana,2007,8000.0,8000.0,1.0,wheat
+Telangana,2008,12654.0,14716.0,1.16,wheat
+Telangana,2009,9082.0,9892.0,1.09,wheat
+Telangana,2010,9328.0,12082.0,1.3,wheat
+Telangana,2011,7942.0,10549.0,1.33,wheat
+Telangana,2012,8000.0,9000.0,1.13,wheat
+Telangana,2013,7039.0,4366.0,0.62,wheat
+Telangana,2014,5828.0,6929.0,1.19,wheat
+Telangana,2015,4952.0,16902.0,3.41,wheat
+Telangana,2016,5409.0,7413.0,1.37,wheat
+Telangana,2017,4158.0,5773.0,1.39,wheat
+Telangana,2018,4844.0,9093.0,1.88,wheat
+Telangana,2019,4472.0,8237.0,1.84,wheat
+Telangana,2020,6158.0,16257.0,2.64,wheat
+Telangana,2021,6687.0,13435.0,2.01,wheat
+Telangana,2022,2636.0,5463.0,2.07,wheat
+Tripura,1998,1110.0,2100.0,1.89,wheat
+Tripura,1999,1250.0,2400.0,1.92,wheat
+Tripura,2000,1065.0,2230.0,2.09,wheat
+Tripura,2001,1220.0,2455.0,2.01,wheat
+Tripura,2002,919.0,1827.0,1.99,wheat
+Tripura,2003,895.0,1810.0,2.02,wheat
+Tripura,2004,944.0,1942.0,2.06,wheat
+Tripura,2005,1750.0,3184.0,1.82,wheat
+Tripura,2006,970.0,1845.0,1.9,wheat
+Tripura,2007,1023.0,1889.0,1.85,wheat
+Tripura,2008,635.0,1195.0,1.88,wheat
+Tripura,2009,667.0,1323.0,1.98,wheat
+Tripura,2010,316.0,637.0,2.02,wheat
+Tripura,2011,274.0,536.0,1.96,wheat
+Tripura,2012,334.0,827.0,2.48,wheat
+Tripura,2013,150.0,300.0,2.0,wheat
+Tripura,2014,135.0,304.0,2.25,wheat
+Tripura,2015,182.0,407.0,2.24,wheat
+Tripura,2016,200.0,460.0,2.3,wheat
+Tripura,2017,195.0,396.0,2.03,wheat
+Tripura,2018,157.0,332.0,2.11,wheat
+Tripura,2019,148.0,331.0,2.24,wheat
+Tripura,2020,28.0,58.0,2.07,wheat
+Tripura,2021,28.0,58.0,2.07,wheat
+Tripura,2022,21.0,43.0,2.05,wheat
+Uttar Pradesh,1997,8769964.0,22144361.0,2.53,wheat
+Uttar Pradesh,1998,8931207.0,22781016.0,2.55,wheat
+Uttar Pradesh,1999,8994071.0,25253437.0,2.81,wheat
+Uttar Pradesh,2000,9239311.0,25168332.0,2.72,wheat
+Uttar Pradesh,2001,9255937.0,25498002.0,2.75,wheat
+Uttar Pradesh,2002,9162749.0,23745162.0,2.59,wheat
+Uttar Pradesh,2003,9443104.0,26349910.0,2.79,wheat
+Uttar Pradesh,2004,9373402.0,23430044.0,2.5,wheat
+Uttar Pradesh,2005,9163949.0,23573776.0,2.57,wheat
+Uttar Pradesh,2006,9197642.0,25443428.0,2.77,wheat
+Uttar Pradesh,2007,9114880.0,25679089.0,2.82,wheat
+Uttar Pradesh,2008,9513039.0,28554178.0,3.0,wheat
+Uttar Pradesh,2009,9668152.0,27518022.0,2.85,wheat
+Uttar Pradesh,2010,9636540.0,30000632.0,3.11,wheat
+Uttar Pradesh,2011,9731150.0,31892480.0,3.28,wheat
+Uttar Pradesh,2012,9733617.0,31332434.0,3.22,wheat
+Uttar Pradesh,2013,9839197.0,31492656.0,3.2,wheat
+Uttar Pradesh,2014,9846466.0,20054791.0,2.04,wheat
+Uttar Pradesh,2015,9644838.0,26874361.0,2.79,wheat
+Uttar Pradesh,2016,9884913.0,34971381.0,3.54,wheat
+Uttar Pradesh,2017,9752941.0,35645666.0,3.65,wheat
+Uttar Pradesh,2018,9855900.0,38039724.0,3.86,wheat
+Uttar Pradesh,2019,9852504.0,36209665.0,3.68,wheat
+Uttar Pradesh,2020,9851478.0,37478852.0,3.8,wheat
+Uttar Pradesh,2021,10192420.0,38056946.0,3.73,wheat
+Uttar Pradesh,2022,10193110.0,38070490.0,3.73,wheat
+Uttarakhand,1997,382964.0,686525.0,1.79,wheat
+Uttarakhand,1998,386697.0,684175.0,1.77,wheat
+Uttarakhand,1999,387807.0,797331.0,2.06,wheat
+Uttarakhand,2000,377340.0,711036.0,1.88,wheat
+Uttarakhand,2001,375967.0,721618.0,1.92,wheat
+Uttarakhand,2002,374802.0,721653.0,1.93,wheat
+Uttarakhand,2003,383387.0,729653.0,1.9,wheat
+Uttarakhand,2004,387103.0,799221.0,2.06,wheat
+Uttarakhand,2005,379237.0,642216.0,1.69,wheat
+Uttarakhand,2006,377870.0,796548.0,2.11,wheat
+Uttarakhand,2007,372919.0,798233.0,2.14,wheat
+Uttarakhand,2008,379081.0,770934.0,2.03,wheat
+Uttarakhand,2009,372846.0,829319.0,2.22,wheat
+Uttarakhand,2010,371225.0,882920.0,2.38,wheat
+Uttarakhand,2011,355549.0,864836.0,2.43,wheat
+Uttarakhand,2012,349669.0,853769.0,2.44,wheat
+Uttarakhand,2013,343637.0,848134.0,2.47,wheat
+Uttarakhand,2014,343879.0,662026.0,1.93,wheat
+Uttarakhand,2015,342650.0,790370.0,2.31,wheat
+Uttarakhand,2016,339572.0,891700.0,2.63,wheat
+Uttarakhand,2017,330401.0,929884.0,2.81,wheat
+Uttarakhand,2018,307452.0,927657.0,3.02,wheat
+Uttarakhand,2019,303283.0,887440.0,2.93,wheat
+Uttarakhand,2020,297189.0,937003.0,3.15,wheat
+Uttarakhand,2021,285080.0,861655.0,3.02,wheat
+Uttarakhand,2022,284776.0,830504.0,2.92,wheat
+West Bengal,1997,367374.0,810480.0,2.21,wheat
+West Bengal,1998,367472.0,778090.0,2.12,wheat
+West Bengal,1999,364155.0,850778.0,2.34,wheat
+West Bengal,2000,426000.0,1057610.0,2.48,wheat
+West Bengal,2001,434004.0,961533.0,2.22,wheat
+West Bengal,2002,405350.0,887437.0,2.19,wheat
+West Bengal,2003,425721.0,985686.0,2.32,wheat
+West Bengal,2004,400093.0,841471.0,2.1,wheat
+West Bengal,2005,366729.0,773514.0,2.11,wheat
+West Bengal,2006,350621.0,799876.0,2.28,wheat
+West Bengal,2007,352579.0,917284.0,2.6,wheat
+West Bengal,2008,306985.0,764528.0,2.49,wheat
+West Bengal,2009,315888.0,846657.0,2.68,wheat
+West Bengal,2010,316808.0,874415.0,2.76,wheat
+West Bengal,2011,315659.0,872895.0,2.77,wheat
+West Bengal,2012,321572.0,895927.0,2.79,wheat
+West Bengal,2013,331481.0,927837.0,2.8,wheat
+West Bengal,2014,334640.0,939254.0,2.81,wheat
+West Bengal,2015,339851.0,788503.0,2.32,wheat
+West Bengal,2016,321621.0,862712.0,2.68,wheat
+West Bengal,2017,117360.0,362744.0,3.09,wheat
+West Bengal,2018,112147.0,337751.0,3.01,wheat
+West Bengal,2019,188308.0,509970.0,2.71,wheat
+West Bengal,2020,193271.0,594700.0,3.08,wheat
+West Bengal,2021,220507.0,655761.0,2.97,wheat
+West Bengal,2022,180352.0,556901.0,3.09,wheat

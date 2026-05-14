@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Crop ML Dashboard</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+  <link rel="stylesheet" href="css/style.css"/>
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<!-- ════════════════════════════════════
+     LOADER OVERLAY
+════════════════════════════════════ -->
+<div class="loader-overlay" id="loader">
+  <div class="spinner"></div>
+  <div class="loader-text" id="loaderText">Connecting to ML server…</div>
+</div>
+
+<!-- ════════════════════════════════════
+     NAV BAR
+════════════════════════════════════ -->
+<nav class="nav">
+  <a class="nav-brand" href="#">
+    <i class="fa-solid fa-wheat-awn ico"></i> Crop ML Dashboard
+  </a>
+
+  <div class="nav-status">
+    <div class="status-dot loading" id="statusDot"></div>
+    <span id="statusText">Connecting…</span>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════
+     TAB BAR
+════════════════════════════════════ -->
+<div class="tab-bar">
+  <button class="tab-btn active" data-tab="overview">
+    <span class="icon"><i class="fa-solid fa-chart-column"></i></span> Overview
+  </button>
+  <button class="tab-btn" data-tab="predict">
+    <span class="icon"><i class="fa-solid fa-wand-magic-sparkles"></i></span> Predict
+  </button>
+  <button class="tab-btn" data-tab="models">
+    <span class="icon"><i class="fa-solid fa-robot"></i></span> Models
+  </button>
+  <button class="tab-btn" data-tab="forecast">
+    <span class="icon"><i class="fa-solid fa-chart-line"></i></span> Forecast
+  </button>
+  <button class="tab-btn" data-tab="msp">
+    <span class="icon"><i class="fa-solid fa-tags"></i></span> MSP Analysis
+  </button>
+</div>
+
+<!-- ════════════════════════════════════
+     MAIN CONTENT
+════════════════════════════════════ -->
+<main class="main">
+
+  <!-- API Error Banner -->
+  <div class="api-error-banner" id="apiBanner">
+    <i class="fa-solid fa-triangle-exclamation ico"></i> Cannot reach the Flask API at <strong>http://localhost:5000</strong>.
+    Please make sure the backend is running: <code>python app.py</code>
+  </div>
+
+  <!-- ═══════════════════════════════
+       TAB 1 — OVERVIEW
+  ═══════════════════════════════ -->
+  <div class="panel active" id="panel-overview">
+
+    <div class="section-title"><i class="fa-solid fa-thumbtack ico"></i> Dataset Overview</div>
+    <div class="cards-grid" id="statsCards">
+      <div class="card"><div class="card-val" id="s-rows">—</div><div class="card-lbl">Total Records</div></div>
+      <div class="card green"><div class="card-val" id="s-crops">5</div><div class="card-lbl">Crops</div></div>
+      <div class="card orange"><div class="card-val" id="s-states">28</div><div class="card-lbl">Indian States</div></div>
+      <div class="card red"><div class="card-val">8</div><div class="card-lbl">Union Territories</div></div>
+      <div class="card purple"><div class="card-val" id="s-years">26</div><div class="card-lbl">Years (1997–2023)</div></div>
+      <div class="card"><div class="card-val" id="s-best-r2">—</div><div class="card-lbl">Best Model R²</div></div>
+      <div class="card green"><div class="card-val" id="s-ml-models">22</div><div class="card-lbl">ML Models</div></div>
+      <div class="card blue"><div class="card-val" id="s-dl-models">2</div><div class="card-lbl">DL Models</div></div>
+      <div class="card orange"><div class="card-val">2</div><div class="card-lbl">TS Models</div></div>
+      <div class="card red"><div class="card-val">33</div><div class="card-lbl">Raj. Districts</div></div>
+    </div>
+
+    <div class="section-title"><i class="fa-solid fa-chart-line ico"></i> National Production Snapshot</div>
+    <div class="chart-grid">
+      <div class="chart-box">
+        <h3><i class="fa-solid fa-chart-column ico"></i> Production by Crop (1997–2023)</h3>
+        <canvas id="overviewProdChart" height="220"></canvas>
+      </div>
+      <div class="chart-box">
+        <h3><i class="fa-solid fa-earth-americas ico"></i> Top 5 Producing States (Wheat)</h3>
+        <canvas id="overviewStateChart" height="220"></canvas>
+      </div>
+    </div>
+
+
+  </div>
+
+
+
+  <!-- ═══════════════════════════════
+       TAB 3 — PREDICT
+  ═══════════════════════════════ -->
+  <div class="panel" id="panel-predict">
+    <div class="section-title"><i class="fa-solid fa-wand-magic-sparkles ico"></i> Crop Production Prediction</div>
+    <div class="predict-layout">
+
+      <!-- Form -->
+      <div class="predict-form">
+        <h2><i class="fa-solid fa-gear ico"></i> Input Parameters</h2>
+
+        <div class="form-group">
+          <label><i class="fa-solid fa-seedling ico"></i> Crop</label>
+          <select id="pCrop"></select>
+        </div>
+        <div class="form-group">
+          <label><i class="fa-solid fa-location-dot ico"></i> State</label>
+          <select id="pState"></select>
+        </div>
+        <div class="form-group">
+          <label><i class="fa-solid fa-calendar-days ico"></i> Year</label>
+          <div class="slider-row">
+            <input type="range" id="pYear" min="2023" max="2035" value="2025" step="1"
+                   oninput="document.getElementById('pYearVal').textContent=this.value"/>
+            <div class="slider-val" id="pYearVal">2025</div>
+          </div>
+        </div>
+        <div class="form-group">
+          <label><i class="fa-solid fa-wheat-awn ico"></i> Cultivated Area (Hectares)</label>
+          <input type="number" id="pArea" value="2000000" min="10000" max="15000000" step="50000"/>
+        </div>
+        <div class="form-group">
+          <label><i class="fa-solid fa-ruler-combined ico"></i> Expected Yield (Tonnes/Hectare)</label>
+          <div class="slider-row">
+            <input type="range" id="pYield" min="0.5" max="8" value="2.5" step="0.1"
+                   oninput="document.getElementById('pYieldVal').textContent=parseFloat(this.value).toFixed(1)"/>
+            <div class="slider-val" id="pYieldVal">2.5</div>
+          </div>
+        </div>
+        <div class="form-group">
+          <label><i class="fa-solid fa-robot ico"></i> ML Model</label>
+          <select id="pModel"></select>
+        </div>
+
+        <button class="btn-predict" id="predictBtn" onclick="runPrediction()">
+          <i class="fa-solid fa-wand-magic-sparkles ico"></i> Predict Production
+        </button>
+      </div>
+
+      <!-- Result -->
+      <div class="predict-result-col" style="display: flex; flex-direction: column; gap: 1.5rem; flex: 1;">
+        <div class="predict-result" id="predictResult">
+          <div class="result-empty">
+            <div class="big-icon"><i class="fa-solid fa-wheat-awn"></i></div>
+            <p style="font-size:1.1rem;font-weight:600;color:#334155;margin-bottom:8px;">
+              Ready to Predict
+            </p>
+            <p style="color:#94a3b8;font-size:0.88rem;">
+              Fill in the parameters on the left and click<br/>
+              <strong>Predict Production</strong> to see results.
+            </p>
+          </div>
+        </div>
+        
+        <!-- Local XAI (SHAP Waterfall) -->
+        <div class="chart-box" id="localXaiBox" style="display: none;">
+          <h3><i class="fa-solid fa-microscope ico"></i> Prediction Explanation (Local XAI)</h3>
+          <div style="position: relative; height: 200px; width: 100%;">
+            <canvas id="localXaiChart"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════
+       TAB 4 — MODELS
+  ═══════════════════════════════ -->
+  <div class="panel" id="panel-models">
+    <div class="section-title"><i class="fa-solid fa-robot ico"></i> Model Evaluation – Test Set (80/20 Split)</div>
+    <div class="model-table-wrap" id="evalTableWrap">
+      <h3>Performance Metrics</h3>
+      <table class="data-table" id="evalTable">
+        <thead><tr><th>#</th><th>Model</th><th>R² Score</th><th>R² Bar</th><th>MAE (Tonnes)</th><th>RMSE (Tonnes)</th><th>MAPE (%)</th><th>Expl. Var.</th></tr></thead>
+        <tbody id="evalTbody"><tr><td colspan="8" style="text-align:center;padding:30px;color:#94a3b8;">Loading…</td></tr></tbody>
+      </table>
+    </div>
+
+    <div class="section-title"><i class="fa-solid fa-chart-column ico"></i> Model Comparison Charts</div>
+    <div class="chart-grid">
+      <div class="chart-box">
+        <h3><i class="fa-solid fa-trophy ico"></i> R² Score Comparison</h3>
+        <canvas id="r2BarChart" height="220"></canvas>
+      </div>
+      <div class="chart-box">
+        <h3><i class="fa-solid fa-chart-area ico"></i> Error Metrics (MAE vs RMSE)</h3>
+        <canvas id="errorChart" height="220"></canvas>
+      </div>
+    </div>
+
+    <div class="section-title"><i class="fa-solid fa-arrows-rotate ico"></i> 5-Fold Cross-Validation Results</div>
+    <div class="model-table-wrap">
+      <h3>Cross-Validation R² (mean ± std)</h3>
+      <table class="data-table" id="cvTable">
+        <thead><tr><th>#</th><th>Model</th><th>Mean R²</th><th>Std R²</th><th>Min R²</th><th>Max R²</th></tr></thead>
+        <tbody id="cvTbody"><tr><td colspan="6" style="text-align:center;padding:30px;color:#94a3b8;">Loading…</td></tr></tbody>
+      </table>
+    </div>
+
+    <div class="section-title"><i class="fa-solid fa-microscope ico"></i> SHAP Global Feature Importance</div>
+    <div class="controls">
+      <label>Model (Tree-based):</label>
+      <select id="fiModelSelect" onchange="loadFeatureImportance()"></select>
+    </div>
+    <div class="chart-grid single">
+      <div class="chart-box">
+        <h3><i class="fa-solid fa-thumbtack ico"></i> Global Importance – <span id="fiModelLabel">Random Forest</span></h3>
+        <canvas id="featureChart" height="180"></canvas>
+      </div>
+    </div>
+
+
+  </div>
+
+  <!-- ═══════════════════════════════
+       TAB 5 — FORECAST
+  ═══════════════════════════════ -->
+  <div class="panel" id="panel-forecast">
+    <div class="section-title"><i class="fa-solid fa-chart-line ico"></i> Time-Series Forecasting</div>
+    <div class="forecast-layout">
+
+      <!-- Sidebar Controls -->
+      <div class="forecast-sidebar">
+        <h3><i class="fa-solid fa-gear ico"></i> Forecast Settings</h3>
+
+        <div class="form-group">
+          <label><i class="fa-solid fa-seedling ico"></i> Crop</label>
+          <select id="fcCrop"></select>
+        </div>
+        <div class="form-group">
+          <label><i class="fa-solid fa-location-dot ico"></i> State</label>
+          <select id="fcState"></select>
+        </div>
+        <div class="form-group">
+          <label><i class="fa-solid fa-clock ico"></i> Forecast Steps (Years)</label>
+          <input type="range" id="fcSteps" min="2" max="12" value="8" step="1"
+                 oninput="document.getElementById('fcStepsVal').textContent=this.value"/>
+          <div class="steps-display" id="fcStepsVal">8</div>
+        </div>
+        <div class="form-group">
+          <label><i class="fa-solid fa-ruler-combined ico"></i> Method</label>
+          <div class="method-toggle">
+            <button class="method-btn active" id="btnARIMA" onclick="setMethod('arima')">ARIMA</button>
+            <button class="method-btn"         id="btnLSTM"  onclick="setMethod('lstm')">LSTM</button>
+          </div>
+        </div>
+
+        <button class="btn-run" onclick="runForecast()"><i class="fa-solid fa-play ico"></i> Run Forecast</button>
+
+        <div id="fcTableWrap" style="display:none;margin-top:16px;">
+          <div style="font-size:0.8rem;font-weight:700;color:#475569;margin-bottom:8px;">
+            Forecast Values (M Tonnes)
+          </div>
+          <table class="forecast-table-mini">
+            <thead><tr><th>Year</th><th>Forecast</th></tr></thead>
+            <tbody id="fcTableBody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Chart -->
+      <div class="chart-box" style="align-self:stretch;">
+        <h3 id="fcChartTitle"><i class="fa-solid fa-chart-line ico"></i> Select parameters and click Run Forecast</h3>
+        <canvas id="fcChart" height="320"></canvas>
+      </div>
+    </div>
+
+    <!-- National 2023-2030 Forecast -->
+    <div class="section-title"><i class="fa-solid fa-globe ico"></i> National Production Forecast (2023–2030)</div>
+    <div class="chart-grid single">
+      <div class="chart-box">
+        <h3><i class="fa-solid fa-chart-column ico"></i> All Crops – ARIMA Forecast</h3>
+        <canvas id="nationalFcChart" height="250"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════
+       TAB 6 — MSP
+  ═══════════════════════════════ -->
+  <div class="panel" id="panel-msp">
+    <div class="section-title"><i class="fa-solid fa-tags ico"></i> Minimum Support Price Analysis – Rajasthan</div>
+
+    <div class="msp-impact-grid" id="mspCards">
+      <div class="impact-card">
+        <h4>Wheat MSP 2023-24</h4>
+        <div class="impact-val" id="mspWheat">₹2,275</div>
+        <div class="impact-sub">per Quintal</div>
+      </div>
+      <div class="impact-card">
+        <h4>Gram MSP 2023-24</h4>
+        <div class="impact-val" id="mspGram">₹5,440</div>
+        <div class="impact-sub">per Quintal</div>
+      </div>
+      <div class="impact-card">
+        <h4>Barley MSP 2023-24</h4>
+        <div class="impact-val" id="mspBarley">₹1,835</div>
+        <div class="impact-sub">per Quintal</div>
+      </div>
+    </div>
+
+    <div class="chart-grid single">
+      <div class="chart-box">
+        <h3><i class="fa-solid fa-chart-line ico"></i> MSP Trends (2016–2024)</h3>
+        <canvas id="mspTrendChart" height="220"></canvas>
+      </div>
+    </div>
+
+    <div class="section-title"><i class="fa-solid fa-wand-magic-sparkles ico"></i> MSP Forecast</div>
+    <div class="controls">
+      <label>Crop:</label>
+      <select id="mspFcCrop">
+        <option value="wheat">Wheat</option>
+        <option value="gram">Gram</option>
+        <option value="barley">Barley</option>
+      </select>
+      <label>Steps:</label>
+      <select id="mspFcSteps">
+        <option value="3">3 years</option>
+        <option value="4" selected>4 years</option>
+        <option value="6">6 years</option>
+      </select>
+      <button class="btn-run" style="width:auto;padding:9px 18px;" onclick="loadMSPForecast()">
+        Run MSP Forecast
+      </button>
+    </div>
+    <div class="chart-grid single">
+      <div class="chart-box">
+        <h3 id="mspFcTitle"><i class="fa-solid fa-chart-column ico"></i> MSP Forecast – Wheat</h3>
+        <canvas id="mspFcChart" height="220"></canvas>
+      </div>
+    </div>
+
+    <div class="section-title"><i class="fa-solid fa-folder-open ico"></i> District-wise Production</div>
+    <div class="controls">
+      <label>Crop:</label>
+      <select id="mspDistCrop" onchange="loadMspDistrict()">
+        <option value="wheat">Wheat</option>
+        <option value="gram">Gram</option>
+        <option value="barley">Barley</option>
+      </select>
+    </div>
+    <div class="chart-box">
+      <h3><i class="fa-solid fa-city ico"></i> District × Year Production Heatmap (000 Tonnes)</h3>
+      <div class="heatmap-wrapper">
+        <table id="mspDistTable"><tbody><tr><td colspan="10">Loading…</td></tr></tbody></table>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<!-- Toast -->
+<div class="toast" id="toast"></div>
+
+<!-- JS Modules -->
+<script src="js/main.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/predict.js"></script>
+<script src="js/forecast.js"></script>
+<script src="js/msp.js"></script>
+
+</body>
+</html>
