@@ -333,6 +333,12 @@
         <option value="4" selected>4 years</option>
         <option value="6">6 years</option>
       </select>
+      <label>Method:</label>
+      <select id="mspFcMethod">
+        <option value="arima" selected>ARIMA</option>
+        <option value="lstm">LSTM</option>
+        <option value="gru">GRU</option>
+      </select>
       <button class="btn-run" style="width:auto;padding:9px 18px;" onclick="loadMSPForecast()">
         Run MSP Forecast
       </button>
@@ -342,6 +348,25 @@
         <h3 id="mspFcTitle"><i class="fa-solid fa-chart-column ico"></i> MSP Forecast – Wheat</h3>
         <canvas id="mspFcChart" height="220"></canvas>
       </div>
+    </div>
+
+    <div class="section-title"><i class="fa-solid fa-tags ico"></i> MSP Models Evaluation</div>
+    <div class="model-table-wrap" id="mspEvalTableWrap">
+      <h3>Performance Metrics (ARIMA vs LSTM vs GRU on MSP)</h3>
+      <table class="data-table" id="mspEvalTable">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Model</th>
+            <th>MAE (₹/Quintal)</th>
+            <th>RMSE (₹/Quintal)</th>
+            <th>MAPE (%)</th>
+          </tr>
+        </thead>
+        <tbody id="mspEvalTbody">
+          <tr><td colspan="5" style="text-align:center;padding:30px;color:#94a3b8;">Loading…</td></tr>
+        </tbody>
+      </table>
     </div>
 
     <div class="section-title"><i class="fa-solid fa-folder-open ico"></i> District-wise Production</div>

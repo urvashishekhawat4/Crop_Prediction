@@ -5,13 +5,15 @@
 async function loadMSPForecast() {
   const crop  = document.getElementById("mspFcCrop").value;
   const steps = document.getElementById("mspFcSteps").value;
+  const method = document.getElementById("mspFcMethod") ? document.getElementById("mspFcMethod").value : "arima";
   document.getElementById("mspFcTitle").innerHTML =
     `<i class="fa-solid fa-chart-column ico"></i> MSP Forecast – ${crop.charAt(0).toUpperCase() + crop.slice(1)}`;
 
   try {
     const data = await apiFetch(
-      `/msp/forecast?crop=${encodeURIComponent(crop)}&steps=${steps}`
+      `/msp/forecast?crop=${encodeURIComponent(crop)}&steps=${steps}&method=${method}`
     );
+    data.method = method;
     renderMSPForecastChart(data);
     showToast("MSP forecast ready ✓", "success");
   } catch (e) {
@@ -30,6 +32,7 @@ function renderMSPForecastChart(data) {
   // Confidence band ±5%
   const fcLow  = fcVls.map(v => +(v * 0.95).toFixed(0));
   const fcHigh = fcVls.map(v => +(v * 1.05).toFixed(0));
+  const fcMethodLabel = (data.method ? data.method.toUpperCase() : "ARIMA") + " Forecast";
 
   makeChart("mspFcChart", {
     type: "line",
@@ -43,7 +46,7 @@ function renderMSPForecastChart(data) {
           borderWidth: 2.5, pointRadius: 5, tension: 0.3, fill: true,
         },
         {
-          label: "ARIMA Forecast",
+          label: fcMethodLabel,
           data:  [...Array(histYrs.length - 1).fill(null), histVls.at(-1), ...fcVls],
           borderColor: "#ef4444", backgroundColor: "transparent",
           borderWidth: 2.5, borderDash: [6, 3],
@@ -157,3 +160,27 @@ function initMspCards() {
 // Override original renderMspTrend to also init cards after
 const _origRenderMspTrend = typeof renderMspTrend !== "undefined" ? renderMspTrend : null;
 document.addEventListener("mspTrendReady", () => initMspCards());
+
+// ── MSP Eval table ─────────────────────────────────────────
+function renderMspEvalTable() {
+  const data = State.mspEvalData;
+  const tbody = document.getElementById("mspEvalTbody");
+  
+  if (!tbody) return;
+  if (!data || !data.length) {
+    tbody.innerHTML = `<tr><td colspan="5" style="text-align:center;padding:30px;color:#94a3b8;"><i class="fa-solid fa-spinner fa-spin"></i> No MSP evaluation data available.</td></tr>`;
+    return;
+  }
+  
+  // Sort by lowest MAE to highlight best model
+  const sortedData = [...data].sort((a, b) => a.mae - b.mae);
+  
+  tbody.innerHTML = sortedData.map((r, i) => `
+    <tr class="${i === 0 ? "best" : ""}">
+      <td>${i + 1}</td>
+      <td><strong>${r.model}</strong></td>
+      <td>₹${r.mae.toLocaleString()}</td>
+      <td>₹${r.rmse.toLocaleString()}</td>
+      <td>${r.mape.toFixed(2)}%</td>
+    </tr>`).join("");
+}

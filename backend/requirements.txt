@@ -9,3 +9,4 @@ gunicorn==22.0.0
 xgboost>=2.0.0
 shap>=0.45.0
 mlxtend>=0.23.0
+tensorflow>=2.0.0

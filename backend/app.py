@@ -22,7 +22,7 @@ from data_loader import (
     get_msp_district_data, get_top_states, get_yoy_growth,
 )
 from ml_engine  import MLEngine
-from forecaster import arima_forecast, lstm_forecast, msp_arima_forecast
+from forecaster import arima_forecast, lstm_forecast, msp_arima_forecast, msp_lstm_forecast, msp_gru_forecast
 
 # ─────────────────────────────────────────────────────────
 # App Init
@@ -132,6 +132,8 @@ def msp_district():
 def msp_forecast_route():
     crop  = request.args.get("crop", "wheat")
     steps = int(request.args.get("steps", 4))
+    method = request.args.get("method", "arima").lower()
+    
     sub   = (msp_df[~msp_df["anticipated"]]
              .drop_duplicates(["year", "crop"])
              .query("crop == @crop")[["year", "msp"]]
@@ -142,7 +144,12 @@ def msp_forecast_route():
     msp_vals   = sub["msp"].tolist()
     msp_years  = sub["year"].tolist()
     try:
-        fc = msp_arima_forecast(msp_vals, steps=steps)
+        if method == "lstm":
+            fc = msp_lstm_forecast(msp_vals, steps=steps)
+        elif method == "gru":
+            fc = msp_gru_forecast(msp_vals, steps=steps)
+        else:
+            fc = msp_arima_forecast(msp_vals, steps=steps)
     except Exception as e:
         return err(str(e))
 
@@ -151,6 +158,7 @@ def msp_forecast_route():
     future  = [f"{start+i}-{str(start+i+1)[-2:]}" for i in range(1, steps+1)]
     return ok({
         "crop":           crop,
+        "method":         method,
         "historical":     {"years": msp_years, "values": msp_vals},
         "forecast":       {"years": future,    "values": [round(v, 0) for v in fc]},
     })
@@ -160,6 +168,80 @@ def msp_forecast_route():
 @app.route("/api/models/evaluation")
 def models_eval():
     return ok(engine.eval_results)
+
+
+# ── MSP Models: evaluation results ───────────────────────
+@app.route("/api/msp/models/evaluation")
+def msp_models_eval():
+    import numpy as np
+    from sklearn.metrics import mean_absolute_error, mean_squared_error, mean_absolute_percentage_error
+    
+    crops = ["wheat", "gram", "barley"]
+    arima_errors = {"mae": [], "rmse": [], "mape": []}
+    lstm_errors = {"mae": [], "rmse": [], "mape": []}
+    gru_errors = {"mae": [], "rmse": [], "mape": []}
+    
+    for crop in crops:
+        sub = (msp_df[~msp_df["anticipated"]]
+                 .drop_duplicates(["year", "crop"])
+                 .query("crop == @crop")[["year", "msp"]]
+                 .dropna()
+                 .sort_values("year"))
+        if len(sub) < 5:
+            continue
+        msp_vals = np.array(sub["msp"].tolist(), dtype=float)
+        
+        train = msp_vals[:-2]
+        test = msp_vals[-2:]
+        
+        try:
+            fc_arima = msp_arima_forecast(train.tolist(), steps=2)
+            arima_errors["mae"].append(mean_absolute_error(test, fc_arima))
+            arima_errors["rmse"].append(np.sqrt(mean_squared_error(test, fc_arima)))
+            arima_errors["mape"].append(mean_absolute_percentage_error(test, fc_arima) * 100)
+        except:
+            pass
+
+        try:
+            fc_lstm = msp_lstm_forecast(train.tolist(), steps=2)
+            lstm_errors["mae"].append(mean_absolute_error(test, fc_lstm))
+            lstm_errors["rmse"].append(np.sqrt(mean_squared_error(test, fc_lstm)))
+            lstm_errors["mape"].append(mean_absolute_percentage_error(test, fc_lstm) * 100)
+        except:
+            pass
+            
+        try:
+            fc_gru = msp_gru_forecast(train.tolist(), steps=2)
+            gru_errors["mae"].append(mean_absolute_error(test, fc_gru))
+            gru_errors["rmse"].append(np.sqrt(mean_squared_error(test, fc_gru)))
+            gru_errors["mape"].append(mean_absolute_percentage_error(test, fc_gru) * 100)
+        except:
+            pass
+
+    def avg(lst):
+        return round(sum(lst)/len(lst), 2) if lst else 0.0
+
+    res = [
+        {
+            "model": "ARIMA",
+            "mae": avg(arima_errors["mae"]),
+            "rmse": avg(arima_errors["rmse"]),
+            "mape": avg(arima_errors["mape"])
+        },
+        {
+            "model": "LSTM",
+            "mae": avg(lstm_errors["mae"]),
+            "rmse": avg(lstm_errors["rmse"]),
+            "mape": avg(lstm_errors["mape"])
+        },
+        {
+            "model": "GRU",
+            "mae": avg(gru_errors["mae"]),
+            "rmse": avg(gru_errors["rmse"]),
+            "mape": avg(gru_errors["mape"])
+        }
+    ]
+    return ok(res)
 
 
 # ── Models: cross-validation ─────────────────────────────

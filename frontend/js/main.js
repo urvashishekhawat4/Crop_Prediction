@@ -14,6 +14,7 @@ const State = {
   yoy:        {},
   evalData:   [],
   cvData:     [],
+  mspEvalData: [],
   residuals:  null,
   mspTrend:   {},
   fcMethod:   "arima",
@@ -205,12 +206,14 @@ async function init() {
 
   // 5. Load model data
   try {
-    const [ev, cv] = await Promise.all([
+    const [ev, cv, mspEv] = await Promise.all([
       apiFetch("/models/evaluation"),
       apiFetch("/models/cv"),
+      apiFetch("/msp/models/evaluation").catch(() => []),
     ]);
     State.evalData = ev;
     State.cvData   = cv;
+    State.mspEvalData = mspEv;
 
     // Show best R² in overview card
     if (ev.length) {
@@ -231,6 +234,7 @@ async function init() {
   // 8. Render charts
   renderOverview();
   renderEvalTable();
+  renderMspEvalTable();
   renderModelCharts();
   renderFeatureImportance(null);
   renderResiduals();
